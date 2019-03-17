@@ -182,7 +182,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### 鼠标键
 
 * 用键盘模拟鼠标
-* Also can be archived by `⌥`  with `HJKL`
+* Also can be archived by <kbd>⌥</kbd>  with <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 
 
 | Origin | Maps to        | Comment                  |
 | ------ | -------------- | ------------------------ |
@@ -208,14 +208,14 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | Origin           | Maps to                 | Comment                                  |
 | ---------------- | ----------------------- | ---------------------------------------- |
 | <kbd>⇥</kbd> Tab          | <kbd>⌘</kbd> <kbd>⇥</kbd> Command+Tab | Switch Window                            |
-| k<kbd>⌘</kbd><kbd>⇥</kbd> Command+Tab | `⌘⇧⇥` Command+Shift+Tab | Switch Window Reversely                  |
-| k<kbd>Q</kbd>              | `⌘Q`                    | Close Window                             |
-| k<kbd>W</kbd>              | `⌘W`                    | Close Tab                                |
-| k<kbd>A</kbd>              | `⌃⌥⇧⌘A`                 | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
-| k<kbd>⌘</kbd><kbd>A</kbd>             | `⌃↑`  Ctrl+UpArrow      | OSX Expose All                           |
-| k<kbd>S</kbd>             | `⌃⇥`  Ctrl+Tab          | Switch Tab                               |
-| k<kbd>⌘</kbd><kbd>S</kbd>             | `⌃⇧⇥` Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
-| k<kbd>⌘</kbd><kbd>D</kbd>             | `F11`                   | Show Desktop                             |
+| <kbd>⌘</kbd><kbd>⇥</kbd> Command+Tab | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>⇥</kbd> Command+Shift+Tab | Switch Window Reversely                  |
+| <kbd>Q</kbd>              | <kbd>⌘</kbd> <kbd>Q</kbd>                   | Close Window                             |
+| <kbd>W</kbd>              | <kbd>⌘</kbd> <kbd>W</kbd>                   | Close Tab                                |
+| <kbd>A</kbd>              | <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>A</kbd>               | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
+| <kbd>⌘</kbd><kbd>A</kbd>             | <kbd>⌃</kbd> <kbd>↑</kbd>  Ctrl+UpArrow      | OSX Expose All                           |
+| <kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇥</kbd>  Ctrl+Tab          | Switch Tab                               |
+| <kbd>⌘</kbd><kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>⇥</kbd> Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
+| <kbd>⌘</kbd><kbd>D</kbd>             | <kbd>F11</kbd>                   | Show Desktop                             |
 
 ### Bash
 
@@ -223,12 +223,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin | Maps to     | Comment                                      |
 | ------ | ----------- | -------------------------------------------- |
-| `Z`    | `⌃Z` Ctrl+Z | SIGTSTP                                      |
-| `X`    | `⌃R` Ctrl+R | IDE Run                                      |
-| `C`    | `⌃C`Ctrl+C  | SIGINT                                       |
-| `V`    | `⌃V`Ctrl+V  | Vim Prefix                                   |
-| `B`    | `⌃B`Ctrl+B  | [Tmux](http://tmux.github.io) Default Prefix |
-| `D`    | `⌃D` Ctrl+D | EOF                                          |
+| <kbd>Z</kbd>   | <kbd>⌃</kbd> <kbd>Z</kbd> <kbd>Ctrl</kbd> <kbd>Z</kbd>| SIGTSTP                                      |
+| <kbd>X</kbd>   | <kbd>⌃</kbd> <kbd>R</kbd> <kbd>Ctrl</kbd> <kbd>R</kbd>| IDE Run                                      |
+| <kbd>C</kbd>   | <kbd>⌃</kbd> <kbd>C</kbd> <kbd>Ctrl</kbd> <kbd>C</kbd>| SIGINT                                       |
+| <kbd>V</kbd>   | <kbd>⌃</kbd> <kbd>V</kbd> <kbd>Ctrl</kbd> <kbd>V</kbd>| Vim Prefix                                   |
+| <kbd>B</kbd>   | <kbd>⌃</kbd> <kbd>B</kbd> <kbd>Ctrl</kbd> <kbd>B</kbd>| [Tmux](http://tmux.github.io) Default Prefix |
+| <kbd>D</kbd>   | <kbd>⌃</kbd> <kbd>D</kbd> <kbd>Ctrl</kbd> <kbd>D</kbd>| EOF                                          |
 
 #### 应用
 
@@ -245,8 +245,8 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典 | 查询单词 |
 | <kbd>⌘</kbd> <kbd>F</kbd>   | 打开 Dash      | 查询 API 文档      |
 | <kbd>F</kbd> | 打开 Alfred | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>|
-| `G`    | 打开 Intellij IDEA      | 打开 IDE                                        |
-| `⌘G`   | 打开 Chrome             | Google Chrome                                   |
+| <kbd>G</kbd>    | 打开 Intellij IDEA      | 打开 IDE                                        |
+| <kbd>⌘</kbd><kbd>G</kbd>   | 打开 Chrome             | Google Chrome                                   |
 
 ### Functional
 
@@ -258,65 +258,65 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin            | Maps to              | Comment                          |
 | ----------------- | -------------------- | -------------------------------- |
-| `F1`              | `BrightnessDown`     |                                  |
-| `F2`              | `BrightnessUp`       |                                  |
-| `F3`              | `ExposeAll`          |                                  |
-| `F4`              | `LaunchPad`          |                                  |
-| `F5`              | `KeyboardLightDown`  |                                  |
-| `F6`              | `KeyboardLightUp`    |                                  |
-| `F7`              | `MusicPrev`          |                                  |
-| `F8`              | `MusicPlay`          |                                  |
-| `F9`              | `MusicNext`          |                                  |
-| `F10`             | `Mute`               |                                  |
-| `F11`             | `VolumeDown`         |                                  |
-| `F12`             | `VolumeUp`           |                                  |
-| `F13` PrintScreen | `MusicPrev`          |                                  |
-| `F14` ScrollLock  | `MusicNext`          |                                  |
-| `F15` Pause       | `MusicPlay`          | Just as it shows                 |
-| `Insert`          | `⌥BrightnessUp`      | Fine grained brightness up       |
-| `Delete`          | `⌥BrightnessDown`    | Fine grained brightness down     |
-| `Home`            | `⌥KeyboardLightUp`   | Fine grained keyboard light up   |
-| `End`             | `⌥KeyboardLightDown` | Fine grained keyboard light down |
-| `PgUp`            | `⌥VolumeUp`          | Fine grained volume up           |
-| `PgDn`            | `⌥VolumeDown`        | Fine grained volume down         |
+| <kbd>F1</kbd>              | <kbd>BrightnessDown</kbd>     |                                  |
+| <kbd>F2</kbd>              | <kbd>BrightnessUp</kbd>       |                                  |
+| <kbd>F3</kbd>              | <kbd>ExposeAll</kbd>          |                                  |
+| <kbd>F4</kbd>              | <kbdLaunchPad></kbd>          |                                  |
+| <kbd>F5</kbd>              | <kbd>KeyboardLightDown</kbd>  |                                  |
+| <kbd>F6</kbd>              | <kbd>KeyboardLightUp</kbd>    |                                  |
+| <kbd>F7</kbd>              | <kbd>MusicPrev</kbd>          |                                  |
+| <kbd>F8</kbd>              | <kbd>MusicPlay</kbd>          |                                  |
+| <kbd>F9</kbd>              | <kbd>MusicNext</kbd>          |                                  |
+| <kbd>F10</kbd>             | <kbd>Mute</kbd>               |                                  |
+| <kbd>F11</kbd>             | <kbd>VolumeDown</kbd>         |                                  |
+| <kbd>F12</kbd>             | <kbd>VolumeUp</kbd>           |                                  |
+| <kbd>F13</kbd> PrintScreen | <kbd>MusicPrev</kbd>          |                                  |
+| <kbd>F14</kbd> ScrollLock  | <kbd>MusicNext</kbd>          |                                  |
+| <kbd>F15</kbd> Pause       | <kbd>MusicPlay</kbd>          | Just as it shows                 |
+| <kbd>Insert</kbd>          | <kbd>⌥</kbd><kbd>BrightnessUp</kbd>      | Fine grained brightness up       |
+| <kbd>Delete</kbd>          | <kbd>⌥</kbd><kbd>BrightnessDown</kbd>    | Fine grained brightness down     |
+| <kbd>Home</kbd>            | <kbd>⌥</kbd><kbd>KeyboardLightUp</kbd>   | Fine grained keyboard light up   |
+| <kbd>End</kbd>             | <kbd>⌥</kbd><kbd>KeyboardLightDown</kbd> | Fine grained keyboard light down |
+| <kbd>PgUp</kbd>            | <kbd>⌥</kbd><kbd>VolumeUp</kbd>          | Fine grained volume up           |
+| <kbd>PgDn</kbd>            | <kbd>⌥</kbd><kbd>VolumeDown</kbd>        | Fine grained volume down         |
 
 ### Shifter
 
 - A more convient shift for most case
-- Semicolon`;` and Quote  `'` have some special treatment, makes input `!=` and `:=`  easier
+- Semicolon<kbd>;</kbd> and Quote  <kbd>'</kbd> have some special treatment, makes input <kbd>!=</kbd> and <kbd>:=</kbd>  easier
 
 | Origin             | Maps to | Comment                  |
 | ------------------ | ------- | ------------------------ |
-| `1`                | `!`     | Exclamation              |
-| `2`                | `@`     | At                       |
-| `3`                | `#`     | Sharp                    |
-| `4`                | `$`     | Dollar                   |
-| `5`                | `%`     | Percent                  |
-| `6`                | `^`     | Caret                    |
-| `7`                | `&`     | Ampersand                |
-| `8`                | `*`     | Star                     |
-| `9`                | `(`     | Left Round Bracket       |
-| `0`                | `)`     | Right Round Bracket      |
-| `-` Minus          | `_`     | Hyphen                   |
-| `=` Equal          | `+`     | Plus                     |
-| `[` Left Bracket   | `(`     | Left Round Bracket `⇧9`  |
-| `]`  Right Bracket | `)`     | Right Round Bracket `⇧0` |
-| `;` Semicolon      | `!`     | Exclamation              |
-| `'` Single Quote   | `=`     | EqualSign                |
-| `⌘;` Semicolon     | `!`     | Colon                    |
-| `⌘'` Single Quote  | `=`     | EqualSign                |
+| <kbd>1</kbd>                | <kbd>!</kbd>     | Exclamation              |
+| <kbd>2</kbd>                | <kbd>@</kbd>     | At                       |
+| <kbd>3</kbd>                | <kbd>#</kbd>     | Sharp                    |
+| <kbd>4</kbd>                | <kbd>$</kbd>     | Dollar                   |
+| <kbd>5</kbd>                | <kbd>%</kbd>     | Percent                  |
+| <kbd>6</kbd>                | <kbd>^</kbd>     | Caret                    |
+| <kbd>7</kbd>                | <kbd>&</kbd>     | Ampersand                |
+| <kbd>8</kbd>                | <kbd>*</kbd>     | Star                     |
+| <kbd>9</kbd>                | <kbd>(</kbd>     | Left Round Bracket       |
+| <kbd>0</kbd>                | <kbd>)</kbd>     | Right Round Bracket      |
+| <kbd>-</kbd> Minus          | <kbd>_</kbd>     | Hyphen                   |
+| <kbd>=</kbd> Equal          | <kbd>+</kbd>     | Plus                     |
+| <kbd>[</kbd> Left Bracket   | <kbd>(</kbd>     | Left Round Bracket  <kbd>⇧</kbd><kbd>9</kbd> |
+| <kbd>]</kbd>  Right Bracket | <kbd>)</kbd>     | Right Round Bracket <kbd>⇧</kbd><kbd>0</kbd> |
+| <kbd>;</kbd> Semicolon      | <kbd>!</kbd>     | Exclamation              |
+| <kbd>'</kbd> Single Quote   | <kbd>=</kbd>     | EqualSign                |
+| <kbd>⌘</kbd> <kbd>;</kbd> Semicolon     | <kbd>!</kbd>     | Colon                    |
+| <kbd>⌘</kbd> <kbd>'</kbd> Single Quote  | <kbd>=</kbd>     | EqualSign                |
 
 ### Misc
 
 | Origin                 | Maps to             | Comment                                        |
 | ---------------------- | ------------------- | ---------------------------------------------- |
-| `⎋` Escape             | `⇪`  CapsLock       | Bug: Difficult to turn capslock off after emit |
-| `~` BackQuote          | `⌃⇧⌘4`              | macOS Area Screenshot to Clipboard             |
-| `⌘~` Command+BackQuote | `⌃⇧4`               | macOS Area Screenshot to Desktop File          |
-| `⌫` Backspace          | `⌘⌫`                | macOS Delete File                              |
-| `/` Slash              | `⌘/` Command+Slash  | Comment/Uncomment in many IDE                  |
-| `\` Backslash          | `⌘/` Command+Slash  | Comment/Uncomment in many IDE                  |
-| `␢` Spacebar           | `⌃␢`  Ctrl+Spacebar | Switch Input Source                            |
+| <kbd>⎋</kbd> Escape             | <kbd>⇪</kbd>  CapsLock       | Bug: Difficult to turn capslock off after emit |
+| <kbd>~</kbd> BackQuote          | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>⌘4</kbd><kbd>4</kbd>             | macOS Area Screenshot to Clipboard             |
+| <kbd>⌘</kbd><kbd~></kbd> Command+BackQuote | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>4</kbd>                | macOS Area Screenshot to Desktop File          |
+| <kbd>⌫</kbd> Backspace          | <kbd>⌘</kbd><kbd>⌫</kbd>                | macOS Delete File                              |
+| <kbd>/</kbd> Slash              | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
+| <kbd>\</kbd> Backslash        | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
+| <kbd>␢</kbd> Spacebar           | <kbd>⌃</kbd><kbd>␢</kbd>  Ctrl+Spacebar | Switch Input Source                            |
 
 
 
@@ -328,7 +328,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 - Q： Why using ✱ as symbol of hyper key？
 
-  A：Cause asterisk have the ascii code 42, which is the answer to life, the universe, and everything!  while itself has meaning 'star'. ✱ (Heavy-Asterisk) is a pretty version of `*` (Asterisk). Actually I would choose ☯  if Github could render it properly...
+  A：Cause asterisk have the ascii code 42, which is the answer to life, the universe, and everything!  while itself has meaning 'star'. ✱ (Heavy-Asterisk) is a pretty version of <kbd> * </kbd> (Asterisk). Actually I would choose ☯  if Github could render it properly...
 
 - Q：Why Linux support is missing？
 
