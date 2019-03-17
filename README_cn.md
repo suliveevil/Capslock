@@ -103,16 +103,16 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>⌘</kbd>       | Command, Cmd, Clover, (formerly) Apple |
 | <kbd>⌃</kbd>       | Control, Ctl, Ctrl                     |
 | <kbd>⌥</kbd>       | Option, Opt, (Windows) Alt             |
-| <kbd>⎇</kbd>       | Alt                                    |
+| <kbd>⎇</kbd>       | Alt                                   |
 | <kbd>⇧</kbd>       | Shift                                  |
-| <kbd>⇪</kbd>       | 大写锁定键(Caps Lock)                  |
+| <kbd>⇪</kbd>       | 大写锁定键(Caps Lock)                    |
 | <kbd>⏏</kbd>       | Eject                                  |
 | <kbd>↩</kbd>, <kbd>↵</kbd>, <kbd>⏎</kbd> | 返回键, 回车键(Return, Carriage Return) |
 | <kbd>⌤</kbd>       | Enter                                  |
 | <kbd>⌫</kbd>       | Delete, Backspace                      |
 | <kbd>⌦</kbd>       | Forward Delete                         |
-| <kbd>⎋</kbd>       | 退出(Escape, Esc)                      |
-| <kbd>→</kbd>       | 右箭头                       |
+| <kbd>⎋</kbd>       | 退出(Escape, Esc)                       |
+| <kbd>→</kbd>       | 右箭头                                  |
 | <kbd>←</kbd>       | Left arrow                             |
 | <kbd>↑</kbd>       | Up arrow                               |
 | <kbd>↓</kbd>       | Down arrow                             |
@@ -123,12 +123,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>⌧</kbd>       | Clear                                  |
 | <kbd>⇥</kbd>       | Tab, Tab Right, Horizontal Tab         |
 | <kbd>⇤</kbd>       | Shift Tab, Tab Left, Back-tab          |
-| <kbd>␢</kbd>       | 空格键(Space, Blank)                     |
-| <kbd>␣</kbd>       | 空格键(Space, Blank)          |
-| <kbd>❘⃝</kbd>      | 电源键                            |
+| <kbd>␢</kbd>       | 空格键(Space, Blank)                    |
+| <kbd>␣</kbd>       | 空格键(Space, Blank)                    |
+| <kbd>❘⃝</kbd>      | 电源键                                  |
 | <kbd>⇭</kbd>       | Num lock                               |
 | <kbd>?⃝</kbd>      | Help                                   |
-| <kbd></kbd>       | Context menu                           |
+| <kbd></kbd>      | Context menu                           |
 
 </details>
 
@@ -219,22 +219,22 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>W</kbd>              | <kbd>⌘</kbd> <kbd>W</kbd>                   | Close Tab                                |
 | <kbd>A</kbd>              | <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>A</kbd>               | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
 | <kbd>⌘</kbd><kbd>A</kbd>             | <kbd>⌃</kbd> <kbd>↑</kbd>  Ctrl+UpArrow      | OSX Expose All                           |
-| <kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇥</kbd>  Ctrl+Tab          | Switch Tab                               |
-| <kbd>⌘</kbd><kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>⇥</kbd> Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
+| <kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇥</kbd>  Ctrl+Tab          | 切换标签页                               |
+| <kbd>⌘</kbd><kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>⇥</kbd> Ctrl+Shift+Tab    | 反向切换标签页                    |
 | <kbd>⌘</kbd><kbd>D</kbd>             | <kbd>F11</kbd>                   | Show Desktop                             |
 
 ### Bash
 
-- Common bash utils: EOF, SIGINT, SIGTSTP, VIM/Tmux Prefix
+- 常用 bash 工具: EOF, SIGINT, SIGTSTP, VIM/Tmux Prefix
 
 | Origin | Maps to     | Comment                                      |
 | ------ | ----------- | -------------------------------------------- |
-| <kbd>Z</kbd>   | <kbd>⌃</kbd> <kbd>Z</kbd> <kbd>Ctrl</kbd> <kbd>Z</kbd>| SIGTSTP                                      |
-| <kbd>X</kbd>   | <kbd>⌃</kbd> <kbd>R</kbd> <kbd>Ctrl</kbd> <kbd>R</kbd>| IDE Run                                      |
-| <kbd>C</kbd>   | <kbd>⌃</kbd> <kbd>C</kbd> <kbd>Ctrl</kbd> <kbd>C</kbd>| SIGINT                                       |
-| <kbd>V</kbd>   | <kbd>⌃</kbd> <kbd>V</kbd> <kbd>Ctrl</kbd> <kbd>V</kbd>| Vim Prefix                                   |
-| <kbd>B</kbd>   | <kbd>⌃</kbd> <kbd>B</kbd> <kbd>Ctrl</kbd> <kbd>B</kbd>| [Tmux](http://tmux.github.io) Default Prefix |
-| <kbd>D</kbd>   | <kbd>⌃</kbd> <kbd>D</kbd> <kbd>Ctrl</kbd> <kbd>D</kbd>| EOF                                          |
+| <kbd>Z</kbd>   | <kbd>⌃</kbd> <kbd>Z</kbd> | SIGTSTP                                      |
+| <kbd>X</kbd>   | <kbd>⌃</kbd> <kbd>R</kbd> | IDE Run                                      |
+| <kbd>C</kbd>   | <kbd>⌃</kbd> <kbd>C</kbd> | SIGINT                                       |
+| <kbd>V</kbd>   | <kbd>⌃</kbd> <kbd>V</kbd> | Vim Prefix                                   |
+| <kbd>B</kbd>   | <kbd>⌃</kbd> <kbd>B</kbd> | [Tmux](http://tmux.github.io) Default Prefix |
+| <kbd>D</kbd>   | <kbd>⌃</kbd> <kbd>D</kbd> | EOF                                          |
 
 #### 应用
 
@@ -276,8 +276,8 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>F10</kbd>             | <kbd>Mute</kbd>               |                                  |
 | <kbd>F11</kbd>             | <kbd>VolumeDown</kbd>         |                                  |
 | <kbd>F12</kbd>             | <kbd>VolumeUp</kbd>           |                                  |
-| <kbd>F13</kbd> PrintScreen | <kbd>MusicPrev</kbd>          |                                  |
-| <kbd>F14</kbd> ScrollLock  | <kbd>MusicNext</kbd>          |                                  |
+| <kbd>F13</kbd> <kbd>PrintScreen</kbd> | <kbd>MusicPrev</kbd>          |                                  |
+| <kbd>F14</kbd> <kbd>ScrollLock</kbd>  | <kbd>MusicNext</kbd>          |                                  |
 | <kbd>F15</kbd> Pause       | <kbd>MusicPlay</kbd>          | Just as it shows                 |
 | <kbd>Insert</kbd>          | <kbd>⌥</kbd><kbd>BrightnessUp</kbd>      | Fine grained brightness up       |
 | <kbd>Delete</kbd>          | <kbd>⌥</kbd><kbd>BrightnessDown</kbd>    | Fine grained brightness down     |
@@ -321,7 +321,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>⌘</kbd><kbd~></kbd> Command+BackQuote | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>4</kbd>                | macOS Area Screenshot to Desktop File          |
 | <kbd>⌫</kbd> Backspace          | <kbd>⌘</kbd><kbd>⌫</kbd>                | macOS Delete File                              |
 | <kbd>/</kbd> Slash              | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
-| <kbd>\</kbd> Backslash        | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
+| <kbd>`\`</kbd> Backslash        | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
 | <kbd>␢</kbd> Spacebar           | <kbd>⌃</kbd><kbd>␢</kbd>  Ctrl+Spacebar | Switch Input Source                            |
 
 
@@ -330,23 +330,23 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 
 
-## FAQ
+## 问答
 
-- Q： Why using ✱ as symbol of hyper key？
+- Q： 为什么使用 <kbd>✱</kbd> 作为 hyper 键的符号？
 
-  A：Cause asterisk have the ascii code 42, which is the answer to life, the universe, and everything!  while itself has meaning 'star'. ✱ (Heavy-Asterisk) is a pretty version of <kbd> * </kbd> (Asterisk). Actually I would choose ☯  if Github could render it properly...
+  A：因为星号的 ascii 码是 42, 是生命、宇宙、一切的答案!  并且它也可以被理解为一颗星星。 :star: <kbd>✱</kbd> (加粗的星号) 比 <kbd> * </kbd> (星号) 更好看. 如果 Github 能够正确显示的话，其实我更愿意使用 <kbd>☯</kbd>。
 
-- Q：Why Linux support is missing？
+- Q：为什么没有 Linux 版本？
 
-  A：because I choose Mac, and use Linux through terminal.
+  A：因为我用 Mac, 在终端使用 Linux。
 
-- Q:  Why there is some different key bindings between Mac version and Win version?
+- Q:  为什么 macOS 版 和 Windows 版有些键盘绑定不一样?
 
-  A:   I don't use windows anymore,  Win version is no longer maintained. Welcome if you can fix that.
+  A:   我现在已经不用 Windows 了,  Windows 版已不再维护，欢迎你来完善它。
 
-- Q:  Why there's an old Mac version?
+- Q:  为什么这儿还有一个旧的 Mac 版本?
 
-  A:  Apple is really capricious. macOS Sierra changes it's kernel architecture, so the old version karabiner is incompatible with macOS after 10.12. But now there's a new version of karabiner named karabiner-elements. While karabiner-elements use a new JSON-format conf instead of old XML-format. Please using the new version.
+  A:  Apple 真的是很反复无常。 macOS Sierra 改变了内核架构, 所以老版本的 Karabiner 不兼容 10.12 以后的 macOS。 但现在有了新版本的 karabiner 并被取名为 Karabiner-Elements。 Karabiner-Elements 使用 JSON 格式配置文件而不是原来的 XML 格式。 请使用新版本。
 
   
 
@@ -354,7 +354,8 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 ## About
 
-Author：Vonng (fengruohang@outlook.com)
+作者：Vonng (fengruohang@outlook.com)
+译者：suliveevil（suliveevil@outlook.com）
 
 License：WTFPL
 
