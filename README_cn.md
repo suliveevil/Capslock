@@ -1,6 +1,6 @@
 # Capslock
 
-*让 <kbd>CapsLock</kbd> 更NB！*  
+*让 <kbd>CapsLock</kbd> 更 NB！*  
 
 ![](images/trump.jpg)
 
@@ -10,7 +10,7 @@
 
 ### 让 Capslock 成为一个 *Hyper* 键, 极大提高效率!
 
-* 功能强大: 把 <kbd>Capslock</kbd> 变成一个新的修饰键: **Hyper(✱)**.。
+* 功能强大: 把 <kbd>Capslock</kbd> 变成一个新的修饰键: **<kbd>Hyper(✱)</kbd>**.。
 * 精心设计: 在键盘热区高频率使用的按键. 带来很多有用的功能。
 * 兼容性: 和其他修饰键、应用、设备一起为你提高效率。
 * 轻量级:  仅一个小脚本, 随处使用 !
@@ -21,14 +21,14 @@
 
 ## 平台
 
-- [CapsLock(Mac)](mac/)  via  [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
+- [CapsLock(macOS)](mac/) 使用   [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
   - macOS High Sierra (10.13)
   - macOS Sierra (10.12)
   - macOS EI Capitan (10.11)
 
 
-  - 旧版 [XML]() 文件 (before OS X 10.11, *不再维护*) 
-- [CapsLock(Windows)](win/) via AutoHotKey  *(不再维护)*
+  - 旧版 [XML]() 文件 (before OS X 10.11)，*不再维护* 。
+- [CapsLock(Windows)](win/) 使用 AutoHotKey，*不再维护*。
   - Windows XP, Vista, 7, 8, 10
 
 
@@ -49,7 +49,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ```
 
 3. 打开 Karabiner, 找到 "ComplexModification", 点击 "Add Item", 开始自定义配置。
-4. 默认配置文件的路径是  `$HOME/.config/karabiner/assets/complex_modifications`. Modify it if you like.
+4. 默认配置文件的路径是  `$HOME/.config/karabiner/assets/complex_modifications`。你可以自行修改。
 5. 开启 **CapsLock** 功能: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
 
 ## 符号说明
@@ -99,14 +99,14 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>⌥</kbd>       | Option, Opt, (Windows) Alt             |
 | <kbd>⎇</kbd>       | Alt                                    |
 | <kbd>⇧</kbd>       | Shift                                  |
-| <kbd>⇪</kbd>       | Caps lock                              |
+| <kbd>⇪</kbd>       | 大写锁定键(Caps Lock)                  |
 | <kbd>⏏</kbd>       | Eject                                  |
-| <kbd>↩</kbd>, <kbd>↵</kbd>, <kbd>⏎</kbd> | Return, Carriage Return                |
+| <kbd>↩</kbd>, <kbd>↵</kbd>, <kbd>⏎</kbd> | 返回键, 回车键(Return, Carriage Return) |
 | <kbd>⌤</kbd>       | Enter                                  |
 | <kbd>⌫</kbd>       | Delete, Backspace                      |
 | <kbd>⌦</kbd>       | Forward Delete                         |
-| <kbd>⎋</kbd>       | Escape, Esc                            |
-| <kbd>→</kbd>       | Right arrow                            |
+| <kbd>⎋</kbd>       | 退出(Escape, Esc)                      |
+| <kbd>→</kbd>       | 右箭头                       |
 | <kbd>←</kbd>       | Left arrow                             |
 | <kbd>↑</kbd>       | Up arrow                               |
 | <kbd>↓</kbd>       | Down arrow                             |
@@ -117,9 +117,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>⌧</kbd>       | Clear                                  |
 | <kbd>⇥</kbd>       | Tab, Tab Right, Horizontal Tab         |
 | <kbd>⇤</kbd>       | Shift Tab, Tab Left, Back-tab          |
-| <kbd>␢</kbd>       | Space, Blank                           |
-| <kbd>␣</kbd>       | Space, Blank                           |
-| <kbd>❘⃝</kbd>      | Power                                  |
+| <kbd>␢</kbd>       | 空格键(Space, Blank)                     |
+| <kbd>␣</kbd>       | 空格键(Space, Blank)          |
+| <kbd>❘⃝</kbd>      | 电源键                            |
 | <kbd>⇭</kbd>       | Num lock                               |
 | <kbd>?⃝</kbd>      | Help                                   |
 | <kbd></kbd>       | Context menu                           |
@@ -156,26 +156,26 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin | Maps to        | Comment                  |
 | ------ | -------------- | ------------------------ |
-| `H`    | `←` LeftArrow  | cursor left              |
-| `J`    | `↓` DownArrow  | cursor down              |
-| `K`    | `↑` UpArrow    | cursor up                |
-| `L`    | `→` RightArrow | cursor right             |
-| `U`    | `⇞` PageUp     | cursor page up           |
-| `I`    | `↖` Home       | cursor to line(doc) head |
-| `O`    | `↘`  End       | cursor to line(doc) end  |
-| `P`    | `⇟` PageDn     | cursor page down         |
-| `⌘H`    | `⇧←` LeftArrow  | cursor left and selection         |
-| `⌘J`    | `⇧↓` DownArrow  | cursor down and selection         |
-| `⌘K`    | `⇧↑` UpArrow    | cursor up and selection         |
-| `⌘L`    | `⇧→` RightArrow | cursor right and selection         |
-| `⌥H`    | `←` LeftArrow  | mouse left              |
-| `⌥J`    | `↓` DownArrow  | mouse down              |
-| `⌥K`    | `↑` UpArrow    | mouse up                |
-| `⌥L`    | `→` RightArrow | mouse right             |
-| `⌃H`    | `←` LeftArrow  | expose all              |
-| `⌃J`    | `↓` DownArrow  | show desktops              |
-| `⌃K`    | `↑` UpArrow    | switch prev desktop               |
-| `⌃L`    | `→` RightArrow | switch next desktop        |
+| <kbd>H</kbd>    | <kbd>←</kbd> 左箭头  | 光标左移         |
+| <kbd>J</kbd>    | <kbd>↓</kbd> 下箭头  | 光标下移          |
+| <kbd>K</kbd>    | <kbd>↑</kbd> 上箭头    | 光标上移        |
+| <kbd>L</kbd>    | <kbd>→</kbd> 右箭头 | 光标右移           |
+| <kbd>U</kbd>    | <kbd>⇞</kbd> PageUp     | 光标向上翻页   |
+| <kbd>I</kbd>    | <kbd>↖</kbd> Home       | 光标移动到行首 |
+| <kbd>O</kbd>    | <kbd>↘</kbd>  End       | 光标移动到行末 |
+| <kbd>P</kbd>    | <kbd>⇟</kbd> PageDn     | 光标向下翻页   |
+| <kbd>⌘</kbd> <kbd>H</kbd>    | <kbd>⇧</kbd><kbd>←</kbd> 左箭头  | 光标左移并选择         |
+| <kbd>⌘</kbd> <kbd>J</kbd>    | <kbd>⇧</kbd> <kbd>↓</kbd> 下箭头  | 光标下移并选择          |
+| <kbd>⌘</kbd> <kbd>K</kbd>    | <kbd>⇧</kbd> <kbd>↑</kbd> 上箭头    | 光标上移并选择        |
+| <kbd>⌘</kbd> <kbd>L</kbd>    | <kbd>⇧</kbd> <kbd>→</kbd> 右箭头 | 光标右移并选择          |
+|  <kbd>⌥</kbd> <kbd>H</kbd>    | <kbd>←</kbd> 左箭头  | 光标左移     |
+|  <kbd>⌥</kbd> <kbd>J</kbd>    | <kbd>↓</kbd> 下箭头  | 光标下移      |
+|  <kbd>⌥</kbd> <kbd>K</kbd>    | <kbd>↑</kbd> 上箭头    | 光标上移    |
+|  <kbd>⌥</kbd> <kbd>L</kbd>    | <kbd>→</kbd> 右箭头 | 光标右移   |
+|  <kbd>⌃</kbd> <kbd>H</kbd>    | <kbd>⌃</kbd> <kbd>←</kbd> 左箭头  | expose all      |
+|  <kbd>⌃</kbd> <kbd>J</kbd>    | <kbd>⌃</kbd> <kbd>↓</kbd> 下箭头  | 应用程序窗口 ~~show desktops~~  |
+|  <kbd>⌃</kbd> <kbd>K</kbd>    | <kbd>⌃</kbd> <kbd>↑</kbd> 上箭头    | 转到上一桌面    |
+|  <kbd>⌃</kbd> <kbd>L</kbd>    | <kbd>⌃</kbd> <kbd>→</kbd> 右箭头 | 转到下一桌面   |
 
 
 
@@ -186,22 +186,22 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin | Maps to        | Comment                  |
 | ------ | -------------- | ------------------------ |
-| `←`    | MouseLeft  | mouse cursor left              |
-| `↓`    | MouseDown  | mouse cursor down              |
-| `↑`    | MouseUp    | mouse cursor up                |
-| `→`    | MouseRight | mouse cursor right             |
-| `↩`    | MouseLeft     | mouse left button click           |
-| `⌘↩`    | MouseRight      | mouse right button click |
+| <kbd>←</kbd>   | 鼠标左移  | 鼠标光标向左移动              |
+| <kbd>↓</kbd>    | 鼠标下移  | 鼠标光标向右移动              |
+| <kbd>↑</kbd>    | 鼠标上移    | 鼠标光标向上移动            |
+| <kbd>→</kbd>    | 鼠标右移 | 鼠标光标向右移动               |
+| <kbd>↩</kbd>    | 鼠标左键     | 鼠标左键点击              |
+| <kbd>⌘</kbd> <kbd>↩</kbd>    | 鼠标右键    | 鼠标右键点击 |
 
 ### 删除
 
 | Origin    | Maps to                            | Comment             |
 | --------- | ---------------------------------- | ------------------- |
-| `N`       | `⌥⌫`  Option + ForwardDelete       | Delete a word ahead |
-| `M`       | `⌫` ForwardDelete                  | Delete a char ahead |
-| `,`       | `⌦` Delete                         | Delete a char after |
-| `.`       | `⌥⌦` Option + Delete               | Delete a word after |
-| `⌘M`,`⌘N` | `⌘⌥⌫` Command+Option+ForwardDelete | Delete to line head |
+| <kbd>N</kbd>       | <kbd>⌥</kbd> <kbd>⌫</kbd>  Option + ForwardDelete       | 删除光标前面的一个单词 |
+| <kbd>M</kbd>       | <kbd>⌫</kbd>  ForwardDelete       | 删除光标前面的一个字符 |
+| <kbd>,</kbd>       | <kbd>⌦</kbd>  Delete      | 删除光标后面的一个字符 |
+| <kbd>.</kbd>       | <kbd>⌥</kbd> <kbd>⌦</kbd>  Option + Delete       | 删除光标后面的一个单词 |
+| <kbd>⌘</kbd> <kbd>M</kbd> + <kbd>⌘</kbd> <kbd>N</kbd> | <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>⌫</kbd> Command+Option+ForwardDelete | 删除到行首 |
 
 ### 窗口管理
 
