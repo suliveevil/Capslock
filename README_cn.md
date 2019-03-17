@@ -1,6 +1,8 @@
 # Capslock
 
-*让 <kbd>CapsLock</kbd> 更 NB！*  
+*让 <kbd>CapsLock</kbd> 更 NB！* <span align="left"> [**English**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)</span>
+
+
 
 ![](images/trump.jpg)
 
