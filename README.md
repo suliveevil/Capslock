@@ -169,7 +169,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `⌘D` | Open Dictionary | Find words |
 | `⌘F`   | Open Dash               | Find API Document                               |
 | `F` | Open Alfred | Leaves to `⌃⌥⇧⌘F` |
-| `⌘D`  | Open Dictionary         | Find words                                      |
 | `G`    | Open Intellij IDEA      | Open IDE                                        |
 | `⌘G`   | Open Chrome             | Google Chrome                                   |
 
