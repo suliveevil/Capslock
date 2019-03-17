@@ -1,6 +1,6 @@
 # Capslock
 
-*Make CapsLock Great Again!*  [中文](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
+*Make CapsLock Great Again!*  [**中文**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
 
 ![](images/trump.jpg)
 
