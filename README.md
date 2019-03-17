@@ -1,6 +1,6 @@
 # Capslock
 
-*Make CapsLock Great Again!*  
+*Make CapsLock Great Again!*  [中文](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
 
 ![](images/trump.jpg)
 
@@ -324,7 +324,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
   A:  Apple is really capricious. macOS Sierra changes it's kernel architecture, so the old version karabiner is incompatible with macOS after 10.12. But now there's a new version of karabiner named karabiner-elements. While karabiner-elements use a new JSON-format conf instead of old XML-format. Please using the new version.
 
-  ​
+  
 
 
 
