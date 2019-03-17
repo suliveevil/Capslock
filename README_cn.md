@@ -207,15 +207,15 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin           | Maps to                 | Comment                                  |
 | ---------------- | ----------------------- | ---------------------------------------- |
-| `⇥` Tab          | `⌘⇥` Command+Tab        | Switch Window                            |
-| `⌘⇥` Command+Tab | `⌘⇧⇥` Command+Shift+Tab | Switch Window Reversely                  |
-| `Q`              | `⌘Q`                    | Close Window                             |
-| `W`              | `⌘W`                    | Close Tab                                |
-| `A`              | `⌃⌥⇧⌘A`                 | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
-| `⌘A`             | `⌃↑`  Ctrl+UpArrow      | OSX Expose All                           |
-| `S`              | `⌃⇥`  Ctrl+Tab          | Switch Tab                               |
-| `⌘S`             | `⌃⇧⇥` Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
-| `⌘D`             | `F11`                   | Show Desktop                             |
+| <kbd>⇥</kbd> Tab          | <kbd>⌘</kbd> <kbd>⇥</kbd> Command+Tab | Switch Window                            |
+| k<kbd>⌘</kbd><kbd>⇥</kbd> Command+Tab | `⌘⇧⇥` Command+Shift+Tab | Switch Window Reversely                  |
+| k<kbd>Q</kbd>              | `⌘Q`                    | Close Window                             |
+| k<kbd>W</kbd>              | `⌘W`                    | Close Tab                                |
+| k<kbd>A</kbd>              | `⌃⌥⇧⌘A`                 | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
+| k<kbd>⌘</kbd><kbd>A</kbd>             | `⌃↑`  Ctrl+UpArrow      | OSX Expose All                           |
+| k<kbd>S</kbd>             | `⌃⇥`  Ctrl+Tab          | Switch Tab                               |
+| k<kbd>⌘</kbd><kbd>S</kbd>             | `⌃⇧⇥` Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
+| k<kbd>⌘</kbd><kbd>D</kbd>             | `F11`                   | Show Desktop                             |
 
 ### Bash
 
