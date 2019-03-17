@@ -27,7 +27,7 @@
   - macOS EI Capitan (10.11)
 
 
-  - Old [XML]() Version (before OS X 10.11, *不再维护*) 
+  - 旧版 [XML]() 文件 (before OS X 10.11, *不再维护*) 
 - [CapsLock(Windows)](win/) via AutoHotKey  *(不再维护)*
   - Windows XP, Vista, 7, 8, 10
 
@@ -61,12 +61,14 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 ### 基础用法
 
-`✱` Hyper actually maps to `⌃⌥⇧⌘` (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press it will emit an `Escape`.
+<kbd>✱</kbd> Hyper 键实际上映射为 <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> (右边所有的修饰键) , 它和左边的修饰键能够一起工作，并且兼容大多数应用程序。 
 
-| Origin    | Maps to    | Comment                    |
-| --------- | ---------- | -------------------------- |
-| `⇪` Press | `⎋` Escape | Single press to escape     |
-| `⇪` Hold  | `✱`  Hyper | Enable Hyper Functionality |
+按住(Hold) <kbd>CapsLock</kbd> 并按下(Press)其他键来触发 <kbd>Hyper</kbd> 功能，而单独按下 <kbd>CapsLock</kbd> 作为 <kbd>Escape</kbd> 键。
+
+| 键盘上的键 | Maps to    | 备注                       |
+| ---------- | ---------- | -------------------------- |
+| <kbd>⇪</kbd> 按下  | <kbd>⎋</kbd> Escape | 单独按下，成为 <kbd>escape</kbd>  |
+| <kbd>⇪</kbd> 按住   | <kbd>✱</kbd>  Hyper | 开启 Hyper 功能 |
 
 ### 浏览
 
@@ -167,7 +169,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典 | 查询单词 |
 | <kbd>⌘</kbd> <kbd>F</kbd>   | 打开 Dash      | 查询 API 文档      |
 | <kbd>F</kbd> | 打开 Alfred | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>|
-| <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典         | 查询单词                                      |
 | `G`    | 打开 Intellij IDEA      | 打开 IDE                                        |
 | `⌘G`   | 打开 Chrome             | Google Chrome                                   |
 
