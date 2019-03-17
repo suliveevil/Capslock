@@ -8,7 +8,7 @@
 
 ## Why CapsLock
 
-#### 让 Capslock 成为一个 *Hyper* 键, 极大提高效率!
+### 让 Capslock 成为一个 *Hyper* 键, 极大提高效率!
 
 * 功能强大: 把 <kbd>Capslock</kbd> 变成一个新的修饰键: **Hyper(✱)**.。
 * 精心设计: 在键盘热区高频率使用的按键. 带来很多有用的功能。
@@ -32,13 +32,11 @@
   - Windows XP, Vista, 7, 8, 10
 
 
-
-
-## Install (mac)
+## 安装 (macOS)
 
 1. 下载 [Karabiner-Elements](https://pqrs.org/osx/karabiner/) 并安装
 
-2. 拷贝 URL 到浏览器来导入设置脚本。
+2. 拷贝下面的链接到浏览器来导入设置脚本。
 
 ```bash
 # 本仓库 (在 Safari 中打开)
@@ -46,22 +44,22 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 ```
 
 ```bash
-# Karabiner-Elements Offical Script Gallery
+# Karabiner-Elements 官方脚本库
 karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Fcaps_lock_enhancement.json
 ```
 
-3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.
-4. Default conf file path is `$HOME/.config/karabiner/assets/complex_modifications`. Modify it if you like.
-5. Enable functions: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
+3. 打开 Karabiner, 找到 "ComplexModification", 点击 "Add Item", 开始自定义配置。
+4. 默认配置文件的路径是  `$HOME/.config/karabiner/assets/complex_modifications`. Modify it if you like.
+5. 开启 **CapsLock** 功能: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
 
 
 
 
-## Usage (mac)
+## 用法 (mac)
 
 ![](images/keyboard.png)
 
-### Basic
+### 基础用法
 
 `✱` Hyper actually maps to `⌃⌥⇧⌘` (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press it will emit an `Escape`.
 
@@ -70,7 +68,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `⇪` Press | `⎋` Escape | Single press to escape     |
 | `⇪` Hold  | `✱`  Hyper | Enable Hyper Functionality |
 
-### Navigation
+### 浏览
 
 - Hold  `✱` Hyper to enable navigators
 - Hold additional `⌘` Command for **selection** . (just like holding ⇧shift in normal)
@@ -103,9 +101,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 
 
-### Mousekey
+### 鼠标键
 
-* Emulate mouse with keyboard
+* 用键盘模拟鼠标
 * Also can be archived by `⌥`  with `HJKL`
 
 | Origin | Maps to        | Comment                  |
@@ -117,7 +115,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `↩`    | MouseLeft     | mouse left button click           |
 | `⌘↩`    | MouseRight      | mouse right button click |
 
-### Deletion
+### 删除
 
 | Origin    | Maps to                            | Comment             |
 | --------- | ---------------------------------- | ------------------- |
@@ -127,7 +125,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `.`       | `⌥⌦` Option + Delete               | Delete a word after |
 | `⌘M`,`⌘N` | `⌘⌥⌫` Command+Option+ForwardDelete | Delete to line head |
 
-### Window Control
+### 窗口管理
 
 | Origin           | Maps to                 | Comment                                  |
 | ---------------- | ----------------------- | ---------------------------------------- |
@@ -141,7 +139,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `⌘S`             | `⌃⇧⇥` Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
 | `⌘D`             | `F11`                   | Show Desktop                             |
 
-### Bash Control
+### Bash
 
 - Common bash utils: EOF, SIGINT, SIGTSTP, VIM/Tmux Prefix
 
@@ -154,24 +152,24 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `B`    | `⌃B`Ctrl+B  | [Tmux](http://tmux.github.io) Default Prefix |
 | `D`    | `⌃D` Ctrl+D | EOF                                          |
 
-#### Applications
+#### 应用
 
 - Maybe you'd like overwrite these with your own favorite apps.
 
-| Origin | Maps to                 | Comment                                         |
-| ------ | ----------------------- | ----------------------------------------------- |
-| `E`              | Open Safari             | Open Web Browser                         |
-| `⌘E`             | Open Finder             | Open File Browser                        |
-| `R`    | Open iTerm2             | Great terminal for osx (`Run`)                  |
-| `⌘R`   | Open Preview            | Switch to opened picture, pdf, etc...           |
-| `T`    | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
-| `⌘T`   | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
-| `⌘D` | Open Dictionary | Find words |
-| `⌘F`   | Open Dash               | Find API Document                               |
-| `F` | Open Alfred | Leaves to `⌃⌥⇧⌘F` |
-| `⌘D`  | Open Dictionary         | Find words                                      |
-| `G`    | Open Intellij IDEA      | Open IDE                                        |
-| `⌘G`   | Open Chrome             | Google Chrome                                   |
+| Origin | Maps to      | Comment                       |
+| ------ | ------------ | ----------------------------- |
+| <kbd>E</kbd>          | 打开 Safari  | 打开网页浏览器    |
+| <kbd>⌘</kbd> <kbd>E</kbd> | 打开访达 | 打开文件浏览器    |
+| <kbd>R</kbd>    | 打开 iTerm2  | Great terminal for osx (`Run`)   |
+| <kbd>⌘</kbd> <kbd>R</kbd>   | 打开预览    | 转到打开的文件 |
+| <kbd>T</kbd>    | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |
+| <kbd>⌘</kbd> <kbd>T</kbd>  | 打开 Typora  | 文本编辑器: Typora , 一个所见即所得的 markdown 编辑器 |
+| <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典 | 查询单词 |
+| <kbd>⌘</kbd> <kbd>F</kbd>   | 打开 Dash      | 查询 API 文档      |
+| <kbd>F</kbd> | 打开 Alfred | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>|
+| <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典         | 查询单词                                      |
+| `G`    | 打开 Intellij IDEA      | 打开 IDE                                        |
+| `⌘G`   | 打开 Chrome             | Google Chrome                                   |
 
 ### Functional
 
@@ -245,62 +243,62 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 
 
-## Symbol Reference
+## 符号说明
 
-### Modifiers: Mac
-
-| Sym  | Key     |
-| ---- | ------- |
-| ✱    | Hyper   |
-| ⌃    | Control |
-| ⌥    | Option  |
-| ⇧    | Shift   |
-| ⌘    | Command |
-
-### Modifiers: ⊞Windows
+### 修饰键:  macOS
 
 | Sym  | Key     |
 | ---- | ------- |
-| ✱    | Hyper   |
-| ⌃    | Control |
-| ⊞    | Windows |
-| ⇧    | Shift   |
-| ⎇    | Alter   |
+| <kbd>✱</kbd>    | Hyper   |
+| <kbd>⌃</kbd>    | Control |
+| <kbd>⌥</kbd>    | Option  |
+| <kbd>⇧</kbd>    | Shift   |
+| <kbd>⌘</kbd>    | Command |
 
-### Normal Keys
+### 修饰键: ⊞ Windows
+
+| Sym  | Key     |
+| ---- | ------- |
+| <kbd>✱</kbd>    | Hyper   |
+| <kbd>⌃</kbd>    | Control |
+| <kbd>⊞</kbd>    | Windows |
+| <kbd>⇧</kbd>    | Shift   |
+| <kbd>⎇</kbd>    | Alter   |
+
+### 常用键
 
 | GLYPH   | NAME                                   |
 | ------- | -------------------------------------- |
-|        | Apple                                  |
-| ⌘       | Command, Cmd, Clover, (formerly) Apple |
-| ⌃       | Control, Ctl, Ctrl                     |
-| ⌥       | Option, Opt, (Windows) Alt             |
-| ⎇       | Alt                                    |
-| ⇧       | Shift                                  |
-| ⇪       | Caps lock                              |
-| ⏏       | Eject                                  |
-| ↩, ↵, ⏎ | Return, Carriage Return                |
-| ⌤       | Enter                                  |
-| ⌫       | Delete, Backspace                      |
-| ⌦       | Forward Delete                         |
-| ⎋       | Escape, Esc                            |
-| →       | Right arrow                            |
-| ←       | Left arrow                             |
-| ↑       | Up arrow                               |
-| ↓       | Down arrow                             |
-| ⇞       | Page Up, PgUp                          |
-| ⇟       | Page Down, PgDn                        |
-| ↖       | Home                                   |
-| ↘       | End                                    |
-| ⌧       | Clear                                  |
-| ⇥       | Tab, Tab Right, Horizontal Tab         |
-| ⇤       | Shift Tab, Tab Left, Back-tab          |
-| ␢       | Space, Blank                           |
-| ␣       | Space, Blank                           |
-| ❘⃝      | Power                                  |
-| ⇭       | Num lock                               |
-| ?⃝      | Help                                   |
-|        | Context menu                           |
+| <kbd></kbd>       | Apple                                  |
+| <kbd>⌘</kbd>       | Command, Cmd, Clover, (formerly) Apple |
+| <kbd>⌃</kbd>       | Control, Ctl, Ctrl                     |
+| <kbd>⌥</kbd>       | Option, Opt, (Windows) Alt             |
+| <kbd>⎇</kbd>       | Alt                                    |
+| <kbd>⇧</kbd>       | Shift                                  |
+| <kbd>⇪</kbd>       | Caps lock                              |
+| <kbd>⏏</kbd>       | Eject                                  |
+| <kbd>↩</kbd>, <kbd>↵</kbd>, <kbd>⏎</kbd> | Return, Carriage Return                |
+| <kbd>⌤</kbd>       | Enter                                  |
+| <kbd>⌫</kbd>       | Delete, Backspace                      |
+| <kbd>⌦</kbd>       | Forward Delete                         |
+| <kbd>⎋</kbd>       | Escape, Esc                            |
+| <kbd>→</kbd>       | Right arrow                            |
+| <kbd>←</kbd>       | Left arrow                             |
+| <kbd>↑</kbd>       | Up arrow                               |
+| <kbd>↓</kbd>       | Down arrow                             |
+| <kbd>⇞</kbd>       | Page Up, PgUp                          |
+| <kbd>⇟</kbd>       | Page Down, PgDn                        |
+| <kbd>↖</kbd>       | Home                                   |
+| <kbd>↘</kbd>       | End                                    |
+| <kbd>⌧</kbd>       | Clear                                  |
+| <kbd>⇥</kbd>       | Tab, Tab Right, Horizontal Tab         |
+| <kbd>⇤</kbd>       | Shift Tab, Tab Left, Back-tab          |
+| <kbd>␢</kbd>       | Space, Blank                           |
+| <kbd>␣</kbd>       | Space, Blank                           |
+| <kbd>❘⃝</kbd>      | Power                                  |
+| <kbd>⇭</kbd>       | Num lock                               |
+| <kbd>?⃝</kbd>      | Help                                   |
+| <kbd></kbd>       | Context menu                           |
 
 
 
