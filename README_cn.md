@@ -21,6 +21,9 @@
 
 ## 平台
 
+<details>
+<summary>details</summary>
+
 - [CapsLock(macOS)](mac/) 使用   [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
   - macOS High Sierra (10.13)
   - macOS Sierra (10.12)
@@ -30,6 +33,9 @@
   - 旧版 [XML]() 文件 (before OS X 10.11)，*不再维护* 。
 - [CapsLock(Windows)](win/) 使用 AutoHotKey，*不再维护*。
   - Windows XP, Vista, 7, 8, 10
+
+</details>
+
 
 
 ## 安装 (macOS)
