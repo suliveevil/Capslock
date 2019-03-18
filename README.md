@@ -1,4 +1,6 @@
-# Capslock [**中文**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
+# ultimate macOS [**中文**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
+
+forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
 *Make CapsLock Great Again!*  
 

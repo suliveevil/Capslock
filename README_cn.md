@@ -1,6 +1,22 @@
-# Capslock
+# ultimate macOS
+
+forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
 *让 <kbd>CapsLock</kbd> 更 NB！* <span align="left"> [**English**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)</span>
+
+需要改进的地方：
+
+- [ ] **删除模块** 需要重新设计
+- [ ]  **鼠标移动** 需要重新设计
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ] 
+
+
+
+
 
 
 
@@ -172,6 +188,10 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>I</kbd>    | <kbd>↖</kbd> Home       | 光标移动到行首 |
 | <kbd>O</kbd>    | <kbd>↘</kbd>  End       | 光标移动到行末 |
 | <kbd>P</kbd>    | <kbd>⇟</kbd> PageDn     | 光标向下翻页   |
+|  <kbd>⌃</kbd> <kbd>H</kbd>    | <kbd>⌃</kbd> <kbd>←</kbd> 左箭头  | expose all      |
+|  <kbd>⌃</kbd> <kbd>J</kbd>    | <kbd>⌃</kbd> <kbd>↓</kbd> 下箭头  | 应用程序窗口 ~~show desktops~~  |
+|  <kbd>⌃</kbd> <kbd>K</kbd>    | <kbd>⌃</kbd> <kbd>↑</kbd> 上箭头    | 转到上一桌面    |
+|  <kbd>⌃</kbd> <kbd>L</kbd>    | <kbd>⌃</kbd> <kbd>→</kbd> 右箭头 | 转到下一桌面   |
 | <kbd>⌘</kbd> <kbd>H</kbd>    | <kbd>⇧</kbd><kbd>←</kbd> 左箭头  | 光标左移并选择         |
 | <kbd>⌘</kbd> <kbd>J</kbd>    | <kbd>⇧</kbd> <kbd>↓</kbd> 下箭头  | 光标下移并选择          |
 | <kbd>⌘</kbd> <kbd>K</kbd>    | <kbd>⇧</kbd> <kbd>↑</kbd> 上箭头    | 光标上移并选择        |
@@ -180,11 +200,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 |  <kbd>⌥</kbd> <kbd>J</kbd>    | <kbd>↓</kbd> 下箭头  | 光标下移      |
 |  <kbd>⌥</kbd> <kbd>K</kbd>    | <kbd>↑</kbd> 上箭头    | 光标上移    |
 |  <kbd>⌥</kbd> <kbd>L</kbd>    | <kbd>→</kbd> 右箭头 | 光标右移   |
-|  <kbd>⌃</kbd> <kbd>H</kbd>    | <kbd>⌃</kbd> <kbd>←</kbd> 左箭头  | expose all      |
-|  <kbd>⌃</kbd> <kbd>J</kbd>    | <kbd>⌃</kbd> <kbd>↓</kbd> 下箭头  | 应用程序窗口 ~~show desktops~~  |
-|  <kbd>⌃</kbd> <kbd>K</kbd>    | <kbd>⌃</kbd> <kbd>↑</kbd> 上箭头    | 转到上一桌面    |
-|  <kbd>⌃</kbd> <kbd>L</kbd>    | <kbd>⌃</kbd> <kbd>→</kbd> 右箭头 | 转到下一桌面   |
-
 
 
 ### 鼠标键
@@ -217,12 +232,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin           | Maps to                 | Comment                                  |
 | ---------------- | ----------------------- | ---------------------------------------- |
-| <kbd>⇥</kbd> Tab          | <kbd>⌘</kbd> <kbd>⇥</kbd> Command+Tab | Switch Window                            |
-| <kbd>⌘</kbd><kbd>⇥</kbd> Command+Tab | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>⇥</kbd> Command+Shift+Tab | Switch Window Reversely                  |
-| <kbd>Q</kbd>              | <kbd>⌘</kbd> <kbd>Q</kbd>                   | Close Window                             |
+| <kbd>⇥</kbd> Tab          | <kbd>⌘</kbd> <kbd>⇥</kbd> Command+Tab | 切换窗口                        |
+| <kbd>⌘</kbd><kbd>⇥</kbd> Command+Tab | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>⇥</kbd> Command+Shift+Tab | 反向切换窗口              |
+| <kbd>Q</kbd>              | <kbd>⌘</kbd> <kbd>Q</kbd>                   | 关闭窗口                             |
 | <kbd>W</kbd>              | <kbd>⌘</kbd> <kbd>W</kbd>                   | Close Tab                                |
-| <kbd>A</kbd>              | <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>A</kbd>               | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
-| <kbd>⌘</kbd><kbd>A</kbd>             | <kbd>⌃</kbd> <kbd>↑</kbd>  Ctrl+UpArrow      | OSX Expose All                           |
+| <kbd>A</kbd>              | <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>A</kbd>               | [Moom*](https://manytricks.com/moom/) 专用。※ 一个窗口管理 app |
+| <kbd>⌘</kbd><kbd>A</kbd>             | <kbd>⌃</kbd> <kbd>↑</kbd>  Ctrl+UpArrow      | 应用 Expose                        |
 | <kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇥</kbd>  Ctrl+Tab          | 切换标签页                               |
 | <kbd>⌘</kbd><kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>⇥</kbd> Ctrl+Shift+Tab    | 反向切换标签页                    |
 | <kbd>⌘</kbd><kbd>D</kbd>             | <kbd>F11</kbd>                   | Show Desktop                             |
@@ -233,22 +248,22 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin | Maps to     | Comment                                      |
 | ------ | ----------- | -------------------------------------------- |
-| <kbd>Z</kbd>   | <kbd>⌃</kbd> <kbd>Z</kbd> | SIGTSTP                                      |
-| <kbd>X</kbd>   | <kbd>⌃</kbd> <kbd>R</kbd> | IDE Run                                      |
-| <kbd>C</kbd>   | <kbd>⌃</kbd> <kbd>C</kbd> | SIGINT                                       |
+| <kbd>Z</kbd>   | <kbd>⌃</kbd> <kbd>Z</kbd> | 暂停进程 SIGTSTP                                 |
+| <kbd>X</kbd>   | <kbd>⌃</kbd> <kbd>R</kbd> | 运行 IDE                                   |
+| <kbd>C</kbd>   | <kbd>⌃</kbd> <kbd>C</kbd> | 终止进程 SIGINT                                  |
 | <kbd>V</kbd>   | <kbd>⌃</kbd> <kbd>V</kbd> | Vim Prefix                                   |
 | <kbd>B</kbd>   | <kbd>⌃</kbd> <kbd>B</kbd> | [Tmux](http://tmux.github.io) Default Prefix |
-| <kbd>D</kbd>   | <kbd>⌃</kbd> <kbd>D</kbd> | EOF                                          |
+| <kbd>D</kbd>   | <kbd>⌃</kbd> <kbd>D</kbd> | 文件结束 EOF                                     |
 
 #### 应用
 
-- Maybe you'd like overwrite these with your own favorite apps.
+- 以下设置可以被重写为你喜欢的 app。
 
 | Origin | Maps to      | Comment                       |
 | ------ | ------------ | ----------------------------- |
 | <kbd>E</kbd>          | 打开 Safari  | 打开网页浏览器    |
 | <kbd>⌘</kbd> <kbd>E</kbd> | 打开访达 | 打开文件浏览器    |
-| <kbd>R</kbd>    | 打开 iTerm2  | Great terminal for osx (`Run`)   |
+| <kbd>R</kbd>    | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
 | <kbd>⌘</kbd> <kbd>R</kbd>   | 打开预览    | 转到打开的文件 |
 | <kbd>T</kbd>    | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |
 | <kbd>⌘</kbd> <kbd>T</kbd>  | 打开 Typora  | 文本编辑器: Typora , 一个所见即所得的 markdown 编辑器 |
@@ -258,9 +273,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>G</kbd>    | 打开 Intellij IDEA      | 打开 IDE                                        |
 | <kbd>⌘</kbd><kbd>G</kbd>   | 打开 Chrome             | Google Chrome                                   |
 
-### Functional
+### 功能键
 
-- Use F1,…F12 as standard functional keys, while hold hyper to turn them back.
+- 使用 F1,…F12 作为标准功能键，当按下 hyper to turn them back.
 
 - If you are using RMBP with Bar, consider changing your bar back to function keys with 
 
@@ -292,25 +307,25 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 ### Shifter
 
-- A more convient shift for most case
-- Semicolon<kbd>;</kbd> and Quote  <kbd>'</kbd> have some special treatment, makes input <kbd>!=</kbd> and <kbd>:=</kbd>  easier
+- 更方便的 <kbd>shift</kbd>
+- 分号<kbd> ;</kbd> 引号  <kbd>'</kbd> 被特殊处理， 使得输入 <kbd>!=</kbd> 和 <kbd>:=</kbd>  更方便
 
 | Origin             | Maps to | Comment                  |
 | ------------------ | ------- | ------------------------ |
-| <kbd>1</kbd>                | <kbd>!</kbd>     | Exclamation              |
+| <kbd>1</kbd>                | <kbd>!</kbd>     | 感叹号                           |
 | <kbd>2</kbd>                | <kbd>@</kbd>     | At                       |
 | <kbd>3</kbd>                | <kbd>#</kbd>     | Sharp                    |
 | <kbd>4</kbd>                | <kbd>$</kbd>     | Dollar                   |
-| <kbd>5</kbd>                | <kbd>%</kbd>     | Percent                  |
-| <kbd>6</kbd>                | <kbd>^</kbd>     | Caret                    |
+| <kbd>5</kbd>                | <kbd>%</kbd>     | 百分号                  |
+| <kbd>6</kbd>                | <kbd>^</kbd>     | 脱字符 Caret                |
 | <kbd>7</kbd>                | <kbd>&</kbd>     | Ampersand                |
-| <kbd>8</kbd>                | <kbd>*</kbd>     | Star                     |
-| <kbd>9</kbd>                | <kbd>(</kbd>     | Left Round Bracket       |
-| <kbd>0</kbd>                | <kbd>)</kbd>     | Right Round Bracket      |
+| <kbd>8</kbd>                | <kbd>*</kbd>     | 星号                     |
+| <kbd>9</kbd>                | <kbd>(</kbd>     | 左括号       |
+| <kbd>0</kbd>                | <kbd>)</kbd>     | 右括号   |
 | <kbd>-</kbd> Minus          | <kbd>_</kbd>     | Hyphen                   |
 | <kbd>=</kbd> Equal          | <kbd>+</kbd>     | Plus                     |
-| <kbd>[</kbd> Left Bracket   | <kbd>(</kbd>     | Left Round Bracket  <kbd>⇧</kbd><kbd>9</kbd> |
-| <kbd>]</kbd>  Right Bracket | <kbd>)</kbd>     | Right Round Bracket <kbd>⇧</kbd><kbd>0</kbd> |
+| <kbd>[</kbd> Left Bracket   | <kbd>(</kbd>     | 左括号  <kbd>⇧</kbd><kbd>9</kbd> |
+| <kbd>]</kbd>  Right Bracket | <kbd>)</kbd>     | 右括号 <kbd>⇧</kbd><kbd>0</kbd> |
 | <kbd>;</kbd> Semicolon      | <kbd>!</kbd>     | Exclamation              |
 | <kbd>'</kbd> Single Quote   | <kbd>=</kbd>     | EqualSign                |
 | <kbd>⌘</kbd> <kbd>;</kbd> Semicolon     | <kbd>!</kbd>     | Colon                    |
@@ -321,12 +336,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | Origin                 | Maps to             | Comment                                        |
 | ---------------------- | ------------------- | ---------------------------------------------- |
 | <kbd>⎋</kbd> Escape             | <kbd>⇪</kbd>  CapsLock       | Bug: Difficult to turn capslock off after emit |
-| <kbd>~</kbd> BackQuote          | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>⌘4</kbd><kbd>4</kbd>             | macOS Area Screenshot to Clipboard             |
-| <kbd>⌘</kbd><kbd~></kbd> Command+BackQuote | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>4</kbd>                | macOS Area Screenshot to Desktop File          |
-| <kbd>⌫</kbd> Backspace          | <kbd>⌘</kbd><kbd>⌫</kbd>                | macOS Delete File                              |
-| <kbd>/</kbd> Slash              | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
-| <kbd>`\`</kbd> Backslash        | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
-| <kbd>␢</kbd> Spacebar           | <kbd>⌃</kbd><kbd>␢</kbd>  Ctrl+Spacebar | Switch Input Source                            |
+| <kbd>~</kbd> BackQuote          | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>⌘4</kbd><kbd>4</kbd>             | macOS 区域截图并保存到剪切板 |
+| <kbd>⌘</kbd><kbd>~</kbd> Command+BackQuote | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>4</kbd>                | macOS 区域截图并保存到桌面    |
+| <kbd>⌫</kbd> Backspace          | <kbd>⌘</kbd><kbd>⌫</kbd>                | macOS 删除文件                              |
+| <kbd>/</kbd> Slash              | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | IDE 注释               |
+| <kbd>`\`</kbd> Backslash        | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | IDE 注释            |
+| <kbd>␢</kbd> Spacebar           | <kbd>⌃</kbd><kbd>␢</kbd>  Ctrl+Spacebar | 切换输入法                     |
 
 
 
