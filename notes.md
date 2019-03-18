@@ -2,6 +2,10 @@
 
 [TOC]
 
+## [Karabiner Manual](https://pqrs.org/osx/karabiner/document.html)
+
+
+
 ## files
 
 ## diff
