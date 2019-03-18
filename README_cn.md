@@ -190,7 +190,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### 鼠标键
 
 * 用键盘模拟鼠标
-* Also can be archived by <kbd>⌥</kbd>  with <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 
+* Also can be achieved by <kbd>⌥</kbd>  with <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 
 
 | Origin | Maps to        | Comment                  |
 | ------ | -------------- | ------------------------ |
@@ -201,7 +201,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | <kbd>↩</kbd>    | 鼠标左键     | 鼠标左键点击              |
 | <kbd>⌘</kbd> <kbd>↩</kbd>    | 鼠标右键    | 鼠标右键点击 |
 
-### 删除
+### 删除 
+
+这个模块与 vim 的 delete 不同，需要改进
 
 | Origin    | Maps to                            | Comment             |
 | --------- | ---------------------------------- | ------------------- |
