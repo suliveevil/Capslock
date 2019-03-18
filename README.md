@@ -331,7 +331,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 ## About
 
-Author：Vonng (fengruohang@outlook.com)
+Author：suliveevil (suliveevil@outlook.com)
 
 License：WTFPL
 

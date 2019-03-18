@@ -373,9 +373,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 ## About
 
-作者：Vonng (fengruohang@outlook.com)
-
-译者：suliveevil（suliveevil@outlook.com）
+作者：suliveevil（suliveevil@outlook.com）
 
 License：WTFPL
 
