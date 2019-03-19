@@ -6,7 +6,7 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
 需要改进的地方：
 
-- [ ] **删除模块** 需要重新设计
+- [ ] **应用模块** 需要重新设计
 - [ ]  **鼠标移动** 需要重新设计
 - [ ]  
 - [ ]  
