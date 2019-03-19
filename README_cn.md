@@ -16,10 +16,6 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
 
 
-
-
-
-
 ![](images/trump.jpg)
 
 
@@ -73,7 +69,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ```
 
 3. 打开 Karabiner, 找到 "ComplexModification", 点击 "Add Item", 开始自定义配置。
+
 4. 默认配置文件的路径是  `$HOME/.config/karabiner/assets/complex_modifications`。你可以自行修改。
+
 5. 开启 **CapsLock** 功能: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
 
 ## 符号说明
