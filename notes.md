@@ -107,6 +107,20 @@ diff  '/allmyfiles/myRepo/KE-complex_modifications/docs/json/ultimate_macOS.json
 
 ## Dev
 
+### KE
+
+```shell
+# ~/.config/karabiner/assets/complex_modifications
+cd ~/.config/karabiner/assets/complex_modifications
+```
+
+### Mackup
+
+```shell
+# /allmyfiles/macOS-HOME/Mackup/.config/karabiner/assets/complex_modifications/ultimate_macOS.json
+cd /allmyfiles/macOS-HOME/Mackup/.config/karabiner/assets/complex_modifications/
+```
+
 ### CapsLock repo
 
 
@@ -122,11 +136,5 @@ cd /allmyfiles/myRepo/Capslock/mac/
 cd /allmyfiles/myRepo/KE-complex_modifications/docs/json/
 ```
 
-## Mackup
 
-```shell
-# /allmyfiles/macOS-HOME/Mackup/.config/karabiner/assets/complex_modifications/ultimate_macOS.json
-cd /allmyfiles/macOS-HOME/Mackup/.config/karabiner/assets/complex_modifications/
-
-```
 
