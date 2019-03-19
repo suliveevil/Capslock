@@ -84,7 +84,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 <summary>macOS 符号说明</summary>
 
 | Sym  | Key     |
-| ---- | ------- |
+| :----: | ------- |
 | <kbd>✱</kbd>    | Hyper   |
 | <kbd>⌃</kbd>    | Control |
 | <kbd>⌥</kbd>    | Option  |
@@ -100,7 +100,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 <summary>Windows 符号说明</summary>
 
 | Sym  | Key     |
-| ---- | ------- |
+| :----: | ------- |
 | <kbd>✱</kbd>    | Hyper   |
 | <kbd>⌃</kbd>    | Control |
 | <kbd>⊞</kbd>    | Windows |
@@ -116,7 +116,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 <summary>details</summary>
 
 | GLYPH   | NAME                                   |
-| ------- | -------------------------------------- |
+| :-------: | -------------------------------------- |
 | <kbd></kbd>       | Apple                                  |
 | <kbd>⌘</kbd>       | Command, Cmd, Clover, (formerly) Apple |
 | <kbd>⌃</kbd>       | Control, Ctl, Ctrl                     |
@@ -166,7 +166,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 按住(Hold) <kbd>CapsLock</kbd> 并按下(Press)其他键来触发 <kbd>Hyper</kbd> 功能，而单独按下 <kbd>CapsLock</kbd> 作为 <kbd>Escape</kbd> 键。
 
 | 键盘上的键 | Maps to    | 备注                       |
-| ---------- | ---------- | -------------------------- |
+| :------: | ---------- | -------------------------- |
 | <kbd>⇪</kbd> 按下  | <kbd>⎋</kbd> Escape | 单独按下，成为 <kbd>escape</kbd>  |
 | <kbd>⇪</kbd> 按住   | <kbd>✱</kbd>  Hyper | 开启 Hyper 功能 |
 
@@ -179,7 +179,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 - 再按住一个<kbd>⌃</kbd>  和 <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 进行 **桌面管理** . (就像按下 <kbd>⌃</kbd> 和 <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> 一样)
 
 | Origin | Maps to        | Comment                  |
-| ------ | -------------- | ------------------------ |
+| ------: | -------------- | ------------------------ |
 | <kbd>H</kbd>    | <kbd>←</kbd> 左箭头  | 光标左移         |
 | <kbd>J</kbd>    | <kbd>↓</kbd> 下箭头  | 光标下移          |
 | <kbd>K</kbd>    | <kbd>↑</kbd> 上箭头    | 光标上移        |
@@ -208,7 +208,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 * Also can be achieved by <kbd>⌥</kbd>  with <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 
 
 | Origin | Maps to        | Comment                  |
-| ------ | -------------- | ------------------------ |
+| ------: | -------------- | ------------------------ |
 | <kbd>←</kbd>   | 鼠标左移  | 鼠标光标向左移动              |
 | <kbd>↓</kbd>    | 鼠标下移  | 鼠标光标向右移动              |
 | <kbd>↑</kbd>    | 鼠标上移    | 鼠标光标向上移动            |
@@ -221,7 +221,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 这个模块与 vim 的 delete 不同，需要改进
 
 | Origin    | Maps to                            | Comment             |
-| --------- | ---------------------------------- | ------------------- |
+| --------: | ---------------------------------- | ------------------- |
 | <kbd>N</kbd>       | <kbd>⌥</kbd> <kbd>⌫</kbd>  Option + ForwardDelete       | 删除光标前面的一个单词 |
 | <kbd>M</kbd>       | <kbd>⌫</kbd>  ForwardDelete       | 删除光标前面的一个字符 |
 | <kbd>,</kbd>       | <kbd>⌦</kbd>  Delete      | 删除光标后面的一个字符 |
@@ -231,7 +231,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### 窗口管理
 
 | Origin           | Maps to                 | Comment                                  |
-| ---------------- | ----------------------- | ---------------------------------------- |
+| ---------------: | ----------------------- | ---------------------------------------- |
 | <kbd>⇥</kbd> Tab          | <kbd>⌘</kbd> <kbd>⇥</kbd> Command+Tab | 切换窗口                        |
 | <kbd>⌘</kbd><kbd>⇥</kbd> Command+Tab | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>⇥</kbd> Command+Shift+Tab | 反向切换窗口              |
 | <kbd>Q</kbd>              | <kbd>⌘</kbd> <kbd>Q</kbd>                   | 关闭窗口                             |
@@ -247,7 +247,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 - 常用 bash 工具: EOF, SIGINT, SIGTSTP, VIM/Tmux Prefix
 
 | Origin | Maps to     | Comment                                      |
-| ------ | ----------- | -------------------------------------------- |
+| -----: | ----------- | -------------------------------------------- |
 | <kbd>Z</kbd>   | <kbd>⌃</kbd> <kbd>Z</kbd> | 暂停进程 SIGTSTP                                 |
 | <kbd>X</kbd>   | <kbd>⌃</kbd> <kbd>R</kbd> | 运行 IDE                                   |
 | <kbd>C</kbd>   | <kbd>⌃</kbd> <kbd>C</kbd> | 终止进程 SIGINT                                  |
@@ -260,7 +260,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 - 以下设置可以被重写为你喜欢的 app。
 
 | Origin | Maps to      | Comment                       |
-| ------ | ------------ | ----------------------------- |
+| -----: | ------------ | ----------------------------- |
 | <kbd>E</kbd>          | 打开 Safari  | 打开网页浏览器    |
 | <kbd>⌘</kbd> <kbd>E</kbd> | 打开访达 | 打开文件浏览器    |
 | <kbd>R</kbd>    | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
@@ -282,7 +282,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
   `Karabiner -> Function Keys -> Use all F1, F2, etc. keys as standard function keys  `
 
 | Origin            | Maps to              | Comment                          |
-| ----------------- | -------------------- | -------------------------------- |
+| ----------------: | -------------------- | -------------------------------- |
 | <kbd>F1</kbd>              | <kbd>BrightnessDown</kbd>     |                                  |
 | <kbd>F2</kbd>              | <kbd>BrightnessUp</kbd>       |                                  |
 | <kbd>F3</kbd>              | <kbd>ExposeAll</kbd>          |                                  |
@@ -311,7 +311,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 - 分号<kbd> ;</kbd> 引号  <kbd>'</kbd> 被特殊处理， 使得输入 <kbd>!=</kbd> 和 <kbd>:=</kbd>  更方便
 
 | Origin             | Maps to | Comment                  |
-| ------------------ | ------- | ------------------------ |
+| -----------------: | ------- | ------------------------ |
 | <kbd>1</kbd>                | <kbd>!</kbd>     | 感叹号                           |
 | <kbd>2</kbd>                | <kbd>@</kbd>     | At                       |
 | <kbd>3</kbd>                | <kbd>#</kbd>     | Sharp                    |
@@ -334,7 +334,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### Misc
 
 | Origin                 | Maps to             | Comment                                        |
-| ---------------------- | ------------------- | ---------------------------------------------- |
+| ---------------------: | ------------------- | ---------------------------------------------- |
 | <kbd>⎋</kbd> Escape             | <kbd>⇪</kbd>  CapsLock       | Bug: Difficult to turn capslock off after emit |
 | <kbd>~</kbd> BackQuote          | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>⌘4</kbd><kbd>4</kbd>             | macOS 区域截图并保存到剪切板 |
 | <kbd>⌘</kbd><kbd>~</kbd> Command+BackQuote | <kbd>⌃</kbd><kbd>⇧</kbd><kbd>4</kbd>                | macOS 区域截图并保存到桌面    |

@@ -68,7 +68,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 `✱` Hyper actually maps to `⌃⌥⇧⌘` (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press it will emit an `Escape`.
 
 | Origin    | Maps to    | Comment                    |
-| --------- | ---------- | -------------------------- |
+| :-------: | ---------- | -------------------------- |
 | `⇪` Press | `⎋` Escape | Single press to escape     |
 | `⇪` Hold  | `✱`  Hyper | Enable Hyper Functionality |
 
@@ -81,7 +81,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 - Hold additional `⌃`  with `HJKL`  for **desktop management** . (just like holding ⌃ctrl with arrow key)
 
 | Origin | Maps to        | Comment                  |
-| ------ | -------------- | ------------------------ |
+| -----: | -------------- | ------------------------ |
 | `H`    | `←` LeftArrow  | cursor left              |
 | `J`    | `↓` DownArrow  | cursor down              |
 | `K`    | `↑` UpArrow    | cursor up                |
@@ -111,7 +111,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 * Also can be archived by `⌥`  with `HJKL`
 
 | Origin | Maps to        | Comment                  |
-| ------ | -------------- | ------------------------ |
+| -----: | -------------- | ------------------------ |
 | `←`    | MouseLeft  | mouse cursor left              |
 | `↓`    | MouseDown  | mouse cursor down              |
 | `↑`    | MouseUp    | mouse cursor up                |
@@ -122,7 +122,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### Deletion
 
 | Origin    | Maps to                            | Comment             |
-| --------- | ---------------------------------- | ------------------- |
+| --------: | ---------------------------------- | ------------------- |
 | `N`       | `⌥⌫`  Option + ForwardDelete       | Delete a word ahead |
 | `M`       | `⌫` ForwardDelete                  | Delete a char ahead |
 | `,`       | `⌦` Delete                         | Delete a char after |
@@ -132,7 +132,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### Window Control
 
 | Origin           | Maps to                 | Comment                                  |
-| ---------------- | ----------------------- | ---------------------------------------- |
+| ---------------: | ----------------------- | ---------------------------------------- |
 | `⇥` Tab          | `⌘⇥` Command+Tab        | Switch Window                            |
 | `⌘⇥` Command+Tab | `⌘⇧⇥` Command+Shift+Tab | Switch Window Reversely                  |
 | `Q`              | `⌘Q`                    | Close Window                             |
@@ -148,7 +148,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 - Common bash utils: EOF, SIGINT, SIGTSTP, VIM/Tmux Prefix
 
 | Origin | Maps to     | Comment                                      |
-| ------ | ----------- | -------------------------------------------- |
+| -----: | ----------- | -------------------------------------------- |
 | `Z`    | `⌃Z` Ctrl+Z | SIGTSTP                                      |
 | `X`    | `⌃R` Ctrl+R | IDE Run                                      |
 | `C`    | `⌃C`Ctrl+C  | SIGINT                                       |
@@ -161,7 +161,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 - Maybe you'd like overwrite these with your own favorite apps.
 
 | Origin | Maps to                 | Comment                                         |
-| ------ | ----------------------- | ----------------------------------------------- |
+| -----: | ----------------------- | ----------------------------------------------- |
 | `E`              | Open Safari             | Open Web Browser                         |
 | `⌘E`             | Open Finder             | Open File Browser                        |
 | `R`    | Open iTerm2             | Great terminal for osx (`Run`)                  |
@@ -183,7 +183,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
   `Karabiner -> Function Keys -> Use all F1, F2, etc. keys as standard function keys  `
 
 | Origin            | Maps to              | Comment                          |
-| ----------------- | -------------------- | -------------------------------- |
+| ----------------: | -------------------- | -------------------------------- |
 | `F1`              | `BrightnessDown`     |                                  |
 | `F2`              | `BrightnessUp`       |                                  |
 | `F3`              | `ExposeAll`          |                                  |
@@ -212,7 +212,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 - Semicolon`;` and Quote  `'` have some special treatment, makes input `!=` and `:=`  easier
 
 | Origin             | Maps to | Comment                  |
-| ------------------ | ------- | ------------------------ |
+| -----------------: | ------- | ------------------------ |
 | `1`                | `!`     | Exclamation              |
 | `2`                | `@`     | At                       |
 | `3`                | `#`     | Sharp                    |
@@ -235,7 +235,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 ### Misc
 
 | Origin                 | Maps to             | Comment                                        |
-| ---------------------- | ------------------- | ---------------------------------------------- |
+| ---------------------: | ------------------- | ---------------------------------------------- |
 | `⎋` Escape             | `⇪`  CapsLock       | Bug: Difficult to turn capslock off after emit |
 | `~` BackQuote          | `⌃⇧⌘4`              | macOS Area Screenshot to Clipboard             |
 | `⌘~` Command+BackQuote | `⌃⇧4`               | macOS Area Screenshot to Desktop File          |
@@ -250,28 +250,28 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 ### Modifiers: Mac
 
-| Sym  | Key     |
-| ---- | ------- |
-| ✱    | Hyper   |
-| ⌃    | Control |
-| ⌥    | Option  |
-| ⇧    | Shift   |
-| ⌘    | Command |
+| Sym    | Key     |
+| :----: | ------- |
+| ✱      | Hyper   |
+| ⌃      | Control |
+| ⌥      | Option  |
+| ⇧      | Shift   |
+| ⌘      | Command |
 
 ### Modifiers: ⊞Windows
 
-| Sym  | Key     |
-| ---- | ------- |
-| ✱    | Hyper   |
-| ⌃    | Control |
-| ⊞    | Windows |
-| ⇧    | Shift   |
-| ⎇    | Alter   |
+|  Sym   | Key     |
+| :----: | ------- |
+| ✱      | Hyper   |
+| ⌃      | Control |
+| ⊞      | Windows |
+| ⇧      | Shift   |
+| ⎇      | Alter   |
 
 ### Normal Keys
 
-| GLYPH   | NAME                                   |
-| ------- | -------------------------------------- |
+|   GLYPH   | NAME                                   |
+| :-------: | -------------------------------------- |
 |        | Apple                                  |
 | ⌘       | Command, Cmd, Clover, (formerly) Apple |
 | ⌃       | Control, Ctl, Ctrl                     |
