@@ -88,26 +88,39 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin  | Maps to         | Comment                    |
 | -----:  | --------------  | ------------------------   |
-| <kbd>H</kbd>     | <kbd>←</kbd> LeftArrow   | cursor left                |
-| <kbd>J</kbd>     | <kbd>↓</kbd> DownArrow   | cursor down                |
-| <kbd>K</kbd>     | <kbd>↑</kbd> UpArrow     | cursor up                  |
-| <kbd>L</kbd>     | <kbd>→</kbd> RightArrow  | cursor right               |
-| <kbd>U</kbd>     | <kbd>⇞</kbd> PageUp      | cursor page up             |
-| <kbd>I</kbd>     | <kbd>↖</kbd> Home        | cursor to line(doc) head   |
-| <kbd>O</kbd>     | <kbd>↘</kbd>  End        | cursor to line(doc) end    |
-| <kbd>P</kbd>     | <kbd>⇟</kbd> PageDn      | cursor page down           |
+| <kbd>H</kbd>                | <kbd>←</kbd> LeftArrow              | cursor left                |
+| <kbd>J</kbd>                | <kbd>↓</kbd> DownArrow              | cursor down                |
+| <kbd>K</kbd>                | <kbd>↑</kbd> UpArrow                | cursor up                  |
+| <kbd>L</kbd>                | <kbd>→</kbd> RightArrow             | cursor right               |
 | <kbd>⌘</kbd><kbd>H</kbd>    | <kbd>⇧</kbd><kbd>←</kbd> LeftArrow  | cursor left and selection  |
 | <kbd>⌘</kbd><kbd>J</kbd>    | <kbd>⇧</kbd><kbd>↓</kbd> DownArrow  | cursor down and selection  |
 | <kbd>⌘</kbd><kbd>K</kbd>    | <kbd>⇧</kbd><kbd>↑</kbd> UpArrow    | cursor up and selection    |
 | <kbd>⌘</kbd><kbd>L</kbd>    | <kbd>⇧</kbd><kbd>→</kbd> RightArrow | cursor right and selection |
-| <kbd>⌥</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow   | mouse left                 |
-| <kbd>⌥</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow   | mouse down                 |
-| <kbd>⌥</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow     | mouse up                   |
-| <kbd>⌥</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow  | mouse right                |
-| <kbd>⌃</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow   | expose all                 |
-| <kbd>⌃</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow   | show desktops              |
-| <kbd>⌃</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow     | switch prev desktop        |
-| <kbd>⌃</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow  | switch next desktop        |
+| <kbd>⌥</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow              | mouse left                 |
+| <kbd>⌥</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow              | mouse down                 |
+| <kbd>⌥</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow                | mouse up                   |
+| <kbd>⌥</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow             | mouse right                |
+| <kbd>⌃</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow              | expose all                 |
+| <kbd>⌃</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow              | show desktops              |
+| <kbd>⌃</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow                | switch prev desktop        |
+| <kbd>⌃</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow             | switch next desktop        |
+| <kbd>U</kbd>     | <kbd>⇞</kbd> PageUp      | cursor page up             |
+| <kbd>I</kbd>     | <kbd>↖</kbd> Home        | cursor to line(doc) head   |
+| <kbd>O</kbd>     | <kbd>↘</kbd>  End        | cursor to line(doc) end    |
+| <kbd>P</kbd>     | <kbd>⇟</kbd> PageDn      | cursor page down           |
+| <kbd>⌘</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌘</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌘</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌘</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌃</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌃</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌃</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌃</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+
 
 </details>
 
@@ -256,7 +269,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⌘</kbd><kbd>~</kbd> Command+BackQuote | <kbd>⌃⇧4</kbd>               | macOS Area Screenshot to Desktop File          |
 | <kbd>⌫</kbd> Backspace          | <kbd>⌘</kbd><kbd>⌫</kbd>                | macOS Delete File                              |
 | <kbd>/</kbd> Slash              | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
-| <kbd>\</kbd> Backslash          | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
+| <kbd>\\</kbd> Backslash         | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
 | <kbd>␢</kbd> Spacebar           | <kbd>⌃</kbd><kbd>␢</kbd>  Ctrl+Spacebar | Switch Input Source                            |
 
 
@@ -360,3 +373,4 @@ and you just
 
 DO WHAT THE FUCK YOU WANT TO.
 ```
+
