@@ -68,20 +68,20 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 ### Basic
 
-`✱` Hyper actually maps to `⌃⌥⇧⌘` (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press it will emit an `Escape`.
+<kbd>✱</kbd> Hyper actually maps to <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press it will emit an `Escape`.
 
 | Origin    | Maps to    | Comment                    |
 | :-------: | ---------- | -------------------------- |
-| `⇪` Press | `⎋` Escape | Single press to escape     |
-| `⇪` Hold  | `✱`  Hyper | Enable Hyper Functionality |
+| <kbd>⇪</kbd> Press | <kbd>⎋</kbd> Escape | Single press to escape     |
+| <kbd>⇪</kbd> Hold   | <kbd>✱</kbd>  Hyper | Enable Hyper Functionality |
 
 ### Navigation
 
-- Hold  `✱` Hyper to enable navigators
+- Hold  <kbd>✱</kbd> Hyper to enable navigators
 - Hold additional `⌘` Command for **selection** . (just like holding ⇧shift in normal)
-- Hold additional `⌥`  with `HJKL`  for **mouse movement**
+- Hold additional <kbd>⌥</kbd>  with `HJKL`  for **mouse movement**
 - Hold additional `⇧` with `HJKL` for **switching tab/app**
-- Hold additional `⌃`  with `HJKL`  for **desktop management** . (just like holding ⌃ctrl with arrow key)
+- Hold additional <kbd>⌃</kbd>  with `HJKL`  for **desktop management** . (just like holding ⌃ctrl with arrow key)
 
 | Origin | Maps to        | Comment                  |
 | -----: | -------------- | ------------------------ |
@@ -111,7 +111,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 ### Mousekey
 
 * Emulate mouse with keyboard
-* Also can be archived by `⌥`  with `HJKL`
+* Also can be archived by <kbd>⌥</kbd>  with `HJKL`
 
 | Origin | Maps to        | Comment                  |
 | -----: | -------------- | ------------------------ |
