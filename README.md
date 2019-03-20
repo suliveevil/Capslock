@@ -212,11 +212,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | Origin | Maps to                 | Comment                                         |
 | -----: | ----------------------- | ----------------------------------------------- |
 | <kbd>⌘E</kbd>             | Open Safari             | Open Web Browser                                |
-| <kbd>E</kbd>              | Open Finder             | Open File Browser                               |
-| <kbd>R</kbd>              | Open iTerm2             | Great terminal for osx (`Run`)                  |
+| <kbd>E</kbd>              | Open **Finder**         | Open File Browser                               |
+| <kbd>R</kbd>              | Open **iTerm2**         | Great terminal for osx (`Run`)                  |
 | <kbd>⌘R</kbd>             | Open Pycharm            | Open IDE                                        |
-| <kbd>T</kbd>              | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
+| <kbd>T</kbd>              | Open **Visual Studio Code** | Text Editor: Visual Studio Code                 |
 | <kbd>⌘T</kbd>             | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
+| <kbd>T</kbd>              | Open **Visual Studio Code** | Text Editor: Visual Studio Code                 |
 | <kbd>F</kbd>              | Open Alfred             | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>        |
 | <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
 | <kbd>G</kbd>              | Open GitHub Desktop     | GitHub Desktop                                  |
