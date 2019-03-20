@@ -146,7 +146,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | `⌘A`             | `⌃↑`  Ctrl+UpArrow      | OSX Expose All                           |
 | `S`              | `⌃⇥`  Ctrl+Tab          | Switch Tab                               |
 | `⌘S`             | `⌃⇧⇥` Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
-| `⌘D`             | `F11`                   | Show Desktop                             |
+| `⌘D`             | `F11`                   | Show Desktop  <mark>bug to fix</mark>>         |
 
 ### Bash Control
 
