@@ -109,22 +109,20 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>I</kbd>     | <kbd>↖</kbd> Home        | cursor to line(doc) head   |
 | <kbd>O</kbd>     | <kbd>↘</kbd>  End        | cursor to line(doc) end    |
 | <kbd>P</kbd>     | <kbd>⇟</kbd> PageDn      | cursor page down           |
-| <kbd>⌘</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌘</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌘</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌘</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌃</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌃</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌃</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌃</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-
+<!-- | <kbd>⌘</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌘</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌘</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌘</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌃</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌃</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌃</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
+<!-- | <kbd>⌃</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps | -->
 
 </details>
-
 
 
 
@@ -193,12 +191,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin | Maps to     | Comment                                      |
 | -----: | ----------- | -------------------------------------------- |
+| <kbd>D</kbd>    | <kbd>⌃</kbd><kbd>D</kbd> Ctrl+D  | EOF                                          |
 | <kbd>Z</kbd>    | <kbd>⌃</kbd><kbd>Z</kbd> Ctrl+Z  | SIGTSTP                                      |
 | <kbd>X</kbd>    | <kbd>⌃</kbd><kbd>R</kbd> Ctrl+R  | IDE Run                                      |
 | <kbd>C</kbd>    | <kbd>⌃</kbd><kbd>C</kbd> Ctrl+C  | SIGINT                                       |
 | <kbd>V</kbd>    | <kbd>⌃</kbd><kbd>V</kbd> Ctrl+V  | Vim Prefix                                   |
 | <kbd>B</kbd>    | <kbd>⌃</kbd><kbd>B</kbd> Ctrl+B  | [Tmux](http://tmux.github.io) Default Prefix |
-| <kbd>D</kbd>    | <kbd>⌃</kbd><kbd>D</kbd> Ctrl+D  | EOF                                          |
 
 </details>
 
@@ -209,15 +207,15 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin | Maps to                 | Comment                                         |
 | -----: | ----------------------- | ----------------------------------------------- |
-| <kbd>E</kbd>              | Open Safari             | Open Web Browser                                |
-| <kbd>⌘E</kbd>             | Open Finder             | Open File Browser                               |
+| <kbd>⌘E</kbd>             | Open Safari             | Open Web Browser                                |
+| <kbd>E</kbd>              | Open Finder             | Open File Browser                               |
 | <kbd>R</kbd>              | Open iTerm2             | Great terminal for osx (`Run`)                  |
-| <kbd>⌘R</kbd>             | Open Preview            | Switch to opened picture, pdf, etc...           |
+| <kbd>⌘R</kbd>             | Open Pycharm            | Open IDE                                        |
 | <kbd>T</kbd>              | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
 | <kbd>⌘T</kbd>             | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
-| <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
 | <kbd>F</kbd>              | Open Alfred             | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>        |
-| <kbd>G</kbd>              | Open Intellij IDEA      | Open IDE                                        |
+| <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
+| <kbd>G</kbd>              | <kbd>Fn</kbd>           | [BetterAndBetter.app]()  Hold <kbd>Fn</kbd> to draw a touchpad gesture           |
 | <kbd>⌘G</kbd>             | Open Chrome             | Google Chrome                                   |
           
 ### Functional
@@ -409,7 +407,7 @@ Author：suliveevil (suliveevil@outlook.com)
 
 License：WTFPL
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/140px-WTFPL_logo.svg.png)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/140px-WTFPL_logo.svg.png)]()
 
 ```
 Do What The Fuck you want to Public License
