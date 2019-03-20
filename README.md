@@ -2,17 +2,17 @@
 
 forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
-*Make CapsLock Great Again!*  
+*Make <kbd>CapsLock</kbd> Great Again!*  
 
 ![](images/trump.jpg)
 
 
 
-## Why CapsLock
+## Why <kbd>CapsLock</kbd>
 
 #### Transform Capslock into *Hyper*, improve your productivity tremendously!
 
-* Powerful: Make Capslock a great new modifier key: **Hyper(✱)**. 
+* Powerful: Make Capslock a great new modifier key: **<kbd>Hyper(✱)</kbd>**. 
 * Well-Designed:  High-Freq key in hot-area. Bring lots of useful functionalities.
 * Compatiable: Work well with other modifiers, appliactions, devices.
 * Light-Weight:  Just a small script, carry it everywhere !
@@ -24,6 +24,7 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 ## Platforms
 
 - [CapsLock(Mac)](mac/)  via  [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
+  - macOS Mojave (10.14)
   - macOS High Sierra (10.13)
   - macOS Sierra (10.12)
   - macOS EI Capitan (10.11)
@@ -42,14 +43,16 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
 2. Copy URL to your browser to import configuration script.
 
-```bash
-# This Repo (open in safari)
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
-```
+This Repo (open in safari)
 
 ```bash
-# Karabiner-Elements Offical Script Gallery
-karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Fcaps_lock_enhancement.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json
+```
+
+~~Karabiner-Elements Offical Script Gallery~~
+
+```bash
+~~karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Fultimate_macOS.json~~
 ```
 
 3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.
