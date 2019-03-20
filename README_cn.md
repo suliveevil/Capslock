@@ -413,9 +413,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 作者：suliveevil（suliveevil@outlook.com）
 
-License：WTFPL
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/140px-WTFPL_logo.svg.png)]()
+License： [![WTFPL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/140px-WTFPL_logo.svg.png)]()
 
 ```
 Do What The Fuck you want to Public License
