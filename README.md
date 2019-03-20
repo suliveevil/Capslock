@@ -1,18 +1,18 @@
 # ultimate macOS [**中文**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
 
-forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
-
 [![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)  [![commitMonth](https://img.shields.io/github/commit-activity/m/suliveevil/Capslock.svg)]()[![lastCommit](https://img.shields.io/github/last-commit/suliveevil/Capslock.svg)]() [![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]()
 
 *Make <kbd>CapsLock</kbd> Great Again!*  
 
 ![](images/trump.jpg)
 
+[TOC]
+
 
 
 ## Why <kbd>CapsLock</kbd>
 
-#### Transform Capslock into *Hyper*, improve your productivity tremendously!
+### Transform Capslock into *Hyper*, improve your productivity tremendously!
 
 * Powerful: Make Capslock a great new modifier key: **<kbd>Hyper(✱)</kbd>**. 
 * Well-Designed:  High-Freq key in hot-area. Bring lots of useful functionalities.
@@ -26,14 +26,12 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 ## Platforms
 
 - [CapsLock(Mac)](mac/)  via  [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
+
   - macOS Mojave (10.14)
   - macOS High Sierra (10.13)
   - macOS Sierra (10.12)
   - macOS EI Capitan (10.11)
-  
-- [CapsLock(Windows)](win/) via AutoHotKey  *(no longer maintianed)*
 
-  - Windows XP, Vista, 7, 8, 10
 
 
 
@@ -51,16 +49,15 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 ```
 
 ~~Karabiner-Elements Offical Script Gallery~~
-
 ```bash
-~~karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Fultimate_macOS.json~~
+# will submit soon
 ```
 
 3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.
+
 4. Default conf file path is `$HOME/.config/karabiner/assets/complex_modifications`. Modify it if you like.
+
 5. Enable functions: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
-
-
 
 
 ## Usage (mac)
@@ -152,8 +149,8 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⌘A</kbd>             | <kbd>⌃↑</kbd>  Ctrl+UpArrow      | OSX Expose All              |
 | <kbd>S</kbd>              | <kbd>⌃⇥</kbd>  Ctrl+Tab          | Switch Tab                  |
 | <kbd>⌘S</kbd>             | <kbd>⌃⇧⇥</kbd> Ctrl+Shift+Tab    | Swtich Tab Reversely        |
-| <kbd>⌘D</kbd>             | <kbd>F11</kbd>                   | Show Desktop  <mark>**bug to **</mark>                                |
-
+| <kbd>⌘D</kbd>             | <kbd>F11</kbd>                   | Show Desktop  ** conflicts to fix**   |
+| <kbd>⌘D</kbd>             | Open Dictionary                  | Find words    ** conflicts to fix**   |
 
 ### Bash Control
 
@@ -161,14 +158,14 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin | Maps to     | Comment                                      |
 | -----: | ----------- | -------------------------------------------- |
-| `Z`    | `⌃Z` Ctrl+Z | SIGTSTP                                      |
-| `X`    | `⌃R` Ctrl+R | IDE Run                                      |
-| `C`    | `⌃C`Ctrl+C  | SIGINT                                       |
-| `V`    | `⌃V`Ctrl+V  | Vim Prefix                                   |
-| `B`    | `⌃B`Ctrl+B  | [Tmux](http://tmux.github.io) Default Prefix |
-| `D`    | `⌃D` Ctrl+D | EOF                                          |
+| <kbd>Z</kbd>    | <kbd>⌃</kbd><kbd>Z</kbd> Ctrl+Z  | SIGTSTP                                      |
+| <kbd>X</kbd>    | <kbd>⌃</kbd><kbd>R</kbd> Ctrl+R  | IDE Run                                      |
+| <kbd>C</kbd>    | <kbd>⌃</kbd><kbd>C</kbd> Ctrl+C  | SIGINT                                       |
+| <kbd>V</kbd>    | <kbd>⌃</kbd><kbd>V</kbd> Ctrl+V  | Vim Prefix                                   |
+| <kbd>B</kbd>    | <kbd>⌃</kbd><kbd>B</kbd> Ctrl+B  | [Tmux](http://tmux.github.io) Default Prefix |
+| <kbd>D</kbd>    | <kbd>⌃</kbd><kbd>D</kbd> Ctrl+D  | EOF                                          |
 
-#### Applications
+### Applications
 
 - Maybe you'd like overwrite these with your own favorite apps.
 
@@ -180,9 +177,8 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⌘R</kbd>   | Open Preview            | Switch to opened picture, pdf, etc...           |
 | <kbd>T</kbd>    | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
 | <kbd>⌘T</kbd>   | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
-| <kbd>⌘D</kbd> | Open Dictionary | Find words |
 | <kbd>⌘F</kbd>   | Open Dash               | Find API Document                               |
-| <kbd>F</kbd> | Open Alfred | Leaves to `⌃⌥⇧⌘F` |
+| <kbd>F</kbd>    | Open Alfred | Leaves to `⌃⌥⇧⌘F` |
 | <kbd>G</kbd>    | Open Intellij IDEA      | Open IDE                                        |
 | <kbd>⌘G</kbd>   | Open Chrome             | Google Chrome                                   |
 
@@ -322,9 +318,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd></kbd>       | Context menu                           |
 
 
-
-
-
 ## FAQ
 
 - Q： Why using ✱ as symbol of hyper key？
@@ -342,8 +335,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 - Q:  Why there's an old Mac version?
 
   A:  Apple is really capricious. macOS Sierra changes it's kernel architecture, so the old version karabiner is incompatible with macOS after 10.12. But now there's a new version of karabiner named karabiner-elements. While karabiner-elements use a new JSON-format conf instead of old XML-format. Please using the new version.
-
-  
 
 
 
@@ -368,8 +359,3 @@ and you just
 
 DO WHAT THE FUCK YOU WANT TO.
 ```
-
-
-
-
-
