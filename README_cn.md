@@ -415,7 +415,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 License：WTFPL
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/140px-WTFPL_logo.svg.png)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/140px-WTFPL_logo.svg.png)]()
 
 ```
 Do What The Fuck you want to Public License
