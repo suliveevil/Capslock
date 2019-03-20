@@ -79,9 +79,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 - Hold  <kbd>✱</kbd> Hyper to enable navigators
 - Hold additional `⌘` Command for **selection** . (just like holding ⇧shift in normal)
-- Hold additional <kbd>⌥</kbd>  with `HJKL`  for **mouse movement**
-- Hold additional `⇧` with `HJKL` for **switching tab/app**
-- Hold additional <kbd>⌃</kbd>  with `HJKL`  for **desktop management** . (just like holding ⌃ctrl with arrow key)
+- Hold additional <kbd>⌥</kbd>  with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd>  for **mouse movement**
+- Hold additional `⇧` with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd> for **switching tab/app**
+- Hold additional <kbd>⌃</kbd>  with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd>  for **desktop management** . (just like holding ⌃ctrl with arrow key)
 
 | Origin | Maps to        | Comment                  |
 | -----: | -------------- | ------------------------ |
@@ -111,7 +111,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 ### Mousekey
 
 * Emulate mouse with keyboard
-* Also can be archived by <kbd>⌥</kbd>  with `HJKL`
+* Also can be archived by <kbd>⌥</kbd>  with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd>
 
 | Origin | Maps to        | Comment                  |
 | -----: | -------------- | ------------------------ |
