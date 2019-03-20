@@ -22,9 +22,7 @@
 * [Design Document](design.md)
 
 
-
-
-## Platforms
+### Platforms
 
 - [CapsLock(Mac)](mac/)  via  [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
 
@@ -34,10 +32,7 @@
   - macOS EI Capitan (10.11)
 
 
-
-
-
-## Install (mac)
+### Install (mac)
 
 1. Download [Karabiner-Elements](https://pqrs.org/osx/karabiner/) and Install
 
@@ -67,14 +62,23 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 ### Basic
 
+<details>
+<summary>details</summary>
+
 <kbd>✱</kbd> Hyper actually maps to <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> (all right modifiers) , It works well with additional left modifiers. And compatible with most application. Hold CapsLock to enable `Hyper` funcationality while press it will emit an `Escape`.
 
 | Origin    | Maps to    | Comment                    |
 | :-------: | ---------- | -------------------------- |
-| <kbd>⇪</kbd> Press | <kbd>⎋</kbd> Escape | Single press to escape     |
+| <kbd>⇪</kbd> Press  | <kbd>⎋</kbd> Escape | Single press to escape     |
 | <kbd>⇪</kbd> Hold   | <kbd>✱</kbd>  Hyper | Enable Hyper Functionality |
 
+</details>
+
+
 ### Navigation
+
+<details>
+<summary>details</summary>
 
 - Hold  <kbd>✱</kbd> Hyper to enable navigators
 - Hold additional <kbd>⌘</kbd> Command for **selection** . (just like holding ⇧shift in normal)
@@ -82,9 +86,6 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 - Hold additional <kbd>⇧</kbd> with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd> for **switching tab/app**
 - Hold additional <kbd>⌃</kbd>  with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd>  for **desktop management** . (just like holding ⌃ctrl with arrow key)
 
-
-<details>
-<summary>details</summary>
 
 | Origin  | Maps to         | Comment                    |
 | -----:  | --------------  | ------------------------   |
@@ -129,6 +130,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 ### Mousekey
 
+<details>
+<summary>details</summary>
+
 * Emulate mouse with keyboard
 * Also can be archived by <kbd>⌥</kbd>  with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd>
 
@@ -141,7 +145,13 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>↩</kbd>    | MouseLeft       | mouse left button click   |
 | <kbd>⌘↩</kbd>   | MouseRight      | mouse right button click  |
 
+</details>
+
+
 ### Deletion
+
+<details>
+<summary>details</summary>
 
 | Origin    | Maps to                            | Comment             |
 | --------: | ---------------------------------- | ------------------- |
@@ -151,22 +161,33 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>.</kbd>       | <kbd>⌥⌦</kbd> Option + Delete               | Delete a word after |
 | <kbd>⌘</kbd><kbd>M</kbd>,<kbd>⌘</kbd><kbd>N</kbd> | <kbd>⌘⌥⌫</kbd> Command+Option+ForwardDelete | Delete to line head |
 
+</details>
+
 ### Window Control
+
+<details>
+<summary>details</summary>
 
 | Origin           | Maps to                 | Comment                                       |
 | ---------------: | ----------------------- | --------------------------------------------  |
-| <kbd>⇥</kbd> Tab          | <kbd>⌘⇥</kbd> Command+Tab        | Switch Window               |
-| <kbd>⌘⇥</kbd> Command+Tab | <kbd>⌘⇧⇥</kbd> Command+Shift+Tab | Switch Window Reversely     |
-| <kbd>Q</kbd>              | <kbd>⌘Q</kbd>                    | Close Window                |
-| <kbd>W</kbd>              | <kbd>⌘W</kbd>                    | Close Tab                   |
+| <kbd>⇥</kbd> Tab          | <kbd>⌘⇥</kbd> Command+Tab        | Switch Window                                                        |
+| <kbd>⌘⇥</kbd> Command+Tab | <kbd>⌘⇧⇥</kbd> Command+Shift+Tab | Switch Window Reversely                                              |
+| <kbd>Q</kbd>              | <kbd>⌘Q</kbd>                    | Close Window                                                         |
+| <kbd>W</kbd>              | <kbd>⌘W</kbd>                    | Close Tab                                                            |
 | <kbd>A</kbd>              | <kbd>⌃⌥⇧⌘A</kbd>                 | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
-| <kbd>⌘A</kbd>             | <kbd>⌃↑</kbd>  Ctrl+UpArrow      | OSX Expose All              |
-| <kbd>S</kbd>              | <kbd>⌃⇥</kbd>  Ctrl+Tab          | Switch Tab                  |
-| <kbd>⌘S</kbd>             | <kbd>⌃⇧⇥</kbd> Ctrl+Shift+Tab    | Swtich Tab Reversely        |
-| <kbd>⌘D</kbd>             | <kbd>F11</kbd>                   | Show Desktop  ** conflicts to fix**   |
-| <kbd>⌘D</kbd>             | Open Dictionary                  | Find words    ** conflicts to fix**   |
+| <kbd>⌘A</kbd>             | <kbd>⌃↑</kbd>  Ctrl+UpArrow      | OSX Expose All                                                       |
+| <kbd>S</kbd>              | <kbd>⌃⇥</kbd>  Ctrl+Tab          | Switch Tab                                                           |
+| <kbd>⌘S</kbd>             | <kbd>⌃⇧⇥</kbd> Ctrl+Shift+Tab    | Swtich Tab Reversely                                                 |
+| <kbd>⌘D</kbd>             | <kbd>F11</kbd>                   | Show Desktop  ** conflicts to fix**                                  |
+| <kbd>⌘D</kbd>             | Open Dictionary                  | Find words    ** conflicts to fix**                                  |
+
+</details>
+
 
 ### Bash Control
+
+<details>
+<summary>details</summary>
 
 - Common bash utils: EOF, SIGINT, SIGTSTP, VIM/Tmux Prefix
 
@@ -179,33 +200,36 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>B</kbd>    | <kbd>⌃</kbd><kbd>B</kbd> Ctrl+B  | [Tmux](http://tmux.github.io) Default Prefix |
 | <kbd>D</kbd>    | <kbd>⌃</kbd><kbd>D</kbd> Ctrl+D  | EOF                                          |
 
+</details>
+
+
 ### Applications
 
 - Maybe you'd like overwrite these with your own favorite apps.
 
 | Origin | Maps to                 | Comment                                         |
 | -----: | ----------------------- | ----------------------------------------------- |
-| <kbd>E</kbd>              | Open Safari             | Open Web Browser                         |
-| <kbd>⌘E</kbd>             | Open Finder             | Open File Browser                        |
-| <kbd>R</kbd>    | Open iTerm2             | Great terminal for osx (`Run`)                  |
-| <kbd>⌘R</kbd>   | Open Preview            | Switch to opened picture, pdf, etc...           |
-| <kbd>T</kbd>    | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
-| <kbd>⌘T</kbd>   | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
-| <kbd>⌘F</kbd>   | Open Dash               | Find API Document                               |
-| <kbd>F</kbd>    | Open Alfred | Leaves to `⌃⌥⇧⌘F` |
-| <kbd>G</kbd>    | Open Intellij IDEA      | Open IDE                                        |
-| <kbd>⌘G</kbd>   | Open Chrome             | Google Chrome                                   |
-
+| <kbd>E</kbd>              | Open Safari             | Open Web Browser                                |
+| <kbd>⌘E</kbd>             | Open Finder             | Open File Browser                               |
+| <kbd>R</kbd>              | Open iTerm2             | Great terminal for osx (`Run`)                  |
+| <kbd>⌘R</kbd>             | Open Preview            | Switch to opened picture, pdf, etc...           |
+| <kbd>T</kbd>              | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
+| <kbd>⌘T</kbd>             | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
+| <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
+| <kbd>F</kbd>              | Open Alfred             | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>        |
+| <kbd>G</kbd>              | Open Intellij IDEA      | Open IDE                                        |
+| <kbd>⌘G</kbd>             | Open Chrome             | Google Chrome                                   |
+          
 ### Functional
+
+<details>
+<summary>details</summary>
 
 - Use F1,…F12 as standard functional keys, while hold hyper to turn them back.
 
 - If you are using RMBP with Bar, consider changing your bar back to function keys with 
 
   `Karabiner -> Function Keys -> Use all F1, F2, etc. keys as standard function keys  `
-
-<details>
-<summary>details</summary>
 
 | Origin            | Maps to              | Comment                          |
 | ----------------: | -------------------- | -------------------------------- |
@@ -236,6 +260,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 ### Shifter
 
+<details>
+<summary>details</summary>
+
 - A more convient shift for most case
 - Semicolon <kbd>;</kbd> and Quote  <kbd>'</kbd> have some special treatment, makes input <kbd>!=</kbd> and <kbd>:=</kbd>  easier
 
@@ -260,7 +287,13 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⌘</kbd><kbd>;</kbd> Semicolon     | <kbd>!</kbd>     | Colon                    |
 | <kbd>⌘</kbd><kbd>'</kbd> Single Quote  | <kbd>=</kbd>     | EqualSign                |
 
+</details>
+
+
 ### Misc
+
+<details>
+<summary>details</summary>
 
 | Origin                 | Maps to             | Comment                                        |
 | ---------------------: | ------------------- | ---------------------------------------------- |
@@ -272,11 +305,16 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>\\</kbd> Backslash         | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
 | <kbd>␢</kbd> Spacebar           | <kbd>⌃</kbd><kbd>␢</kbd>  Ctrl+Spacebar | Switch Input Source                            |
 
+</details>
+
+
 
 
 ## Symbol Reference
 
-### Modifiers: Mac
+<details>
+<summary>Modifiers:  Mac</summary>
+
 
 | Sym    | Key     |
 | :----: | ------- |
@@ -286,7 +324,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⇧</kbd>      | Shift   |
 | <kbd>⌘</kbd>      | Command |
 
-### Modifiers: ⊞Windows
+
+</details>
+
+
+<details>
+<summary>Modifiers: ⊞ Windows</summary>
 
 |  Sym   | Key     |
 | :----: | ------- |
@@ -296,7 +339,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⇧</kbd>      | Shift   |
 | <kbd>⎇</kbd>     | Alter   |
 
-### Normal Keys
+</details>
+
+
+<details>
+<summary>Normal Keys</summary>
+
 
 |   GLYPH   | NAME                                   |
 | :-------: | -------------------------------------- |
@@ -329,7 +377,10 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>❘⃝</kbd>      | Power                                  |
 | <kbd>⇭</kbd>       | Num lock                               |
 | <kbd>?⃝</kbd>      | Help                                   |
-| <kbd></kbd>       | Context menu                           |
+| <kbd></kbd>       | Context menu                          |
+
+</details>
+
 
 
 ## FAQ
