@@ -2,6 +2,8 @@
 
 forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
+[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)  [![commitMonth](https://img.shields.io/github/commit-activity/m/suliveevil/Capslock.svg)]()[![lastCommit](https://img.shields.io/github/last-commit/suliveevil/Capslock.svg)]() [![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]()
+
 *Make <kbd>CapsLock</kbd> Great Again!*  
 
 ![](images/trump.jpg)
