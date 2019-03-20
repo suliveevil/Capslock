@@ -203,6 +203,10 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 ### Applications
 
+<details>
+<summary>details</summary>
+
+
 - Maybe you'd like overwrite these with your own favorite apps.
 
 | Origin | Maps to                 | Comment                                         |
@@ -217,7 +221,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
 | <kbd>G</kbd>              | <kbd>Fn</kbd>           | [BetterAndBetter.app]()  Hold <kbd>Fn</kbd> to draw a touchpad gesture           |
 | <kbd>⌘G</kbd>             | Open Chrome             | Google Chrome                                   |
-          
+ 
+</details>
+         
 ### Functional
 
 <details>

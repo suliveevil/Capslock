@@ -6,13 +6,9 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
 需要改进的地方：
 
-- [ ] **应用模块** 需要重新设计
+- [ ] **应用模块** 可以自定义
 - [ ]  **鼠标移动** 需要重新设计
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ] 
+
 
 
 
@@ -259,16 +255,16 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 
 | Origin | Maps to      | Comment                       |
 | -----: | ------------ | ----------------------------- |
-| <kbd>E</kbd>          | 打开 Safari  | 打开网页浏览器    |
-| <kbd>⌘</kbd> <kbd>E</kbd> | 打开访达 | 打开文件浏览器    |
+| <kbd>⌘</kbd> <kbd>E</kbd> | 打开 Safari | 打开网页浏览器  |
+| <kbd>E</kbd>          | 打开访达 | 打开文件浏览器  |
 | <kbd>R</kbd>    | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
-| <kbd>⌘</kbd> <kbd>R</kbd>   | 打开预览    | 转到打开的文件 |
+| <kbd>⌘</kbd> <kbd>R</kbd>   | 打开PyCharm | PyCharm |
 | <kbd>T</kbd>    | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |
 | <kbd>⌘</kbd> <kbd>T</kbd>  | 打开 Typora  | 文本编辑器: Typora , 一个所见即所得的 markdown 编辑器 |
 | <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典 | 查询单词 |
 | <kbd>⌘</kbd> <kbd>F</kbd>   | 打开 Dash      | 查询 API 文档      |
 | <kbd>F</kbd> | 打开 Alfred | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>|
-| <kbd>G</kbd>    | 打开 Intellij IDEA      | 打开 IDE                                        |
+| <kbd>G</kbd>    | 打开 GitHub Desktop | GitHub Desktop                          |
 | <kbd>⌘</kbd><kbd>G</kbd>   | 打开 Chrome             | Google Chrome                                   |
 
 ### 功能键
