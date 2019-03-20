@@ -221,7 +221,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
 | <kbd>G</kbd>              | Open GitHub Desktop     | GitHub Desktop                                  |
 | <kbd>⌘G</kbd>             | Open Chrome             | Google Chrome                                   |
- 
+
 </details>
          
 ### Functional
