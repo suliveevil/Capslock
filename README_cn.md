@@ -9,12 +9,10 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
 *让 <kbd>CapsLock</kbd> 更 NB！* <span align="left"> [**English**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)</span>
 
-需要改进的地方：
+需要/可以改进的地方：
 
 - [ ] **应用模块** 可以自定义
-- [ ]  **鼠标移动** 需要重新设计
-
-
+- [ ] **鼠标移动** 需要重新设计
 
 
 ![](images/trump.jpg)
