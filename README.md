@@ -219,7 +219,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⌘T</kbd>             | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
 | <kbd>F</kbd>              | Open Alfred             | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>        |
 | <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
-| <kbd>G</kbd>              | <kbd>Fn</kbd>           | [BetterAndBetter.app]()  Hold <kbd>Fn</kbd> to draw a touchpad gesture           |
+| <kbd>G</kbd>              | Open GitHub Desktop     | GitHub Desktop                                  |
 | <kbd>⌘G</kbd>             | Open Chrome             | Google Chrome                                   |
  
 </details>
