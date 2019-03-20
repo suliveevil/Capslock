@@ -85,28 +85,28 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 - Hold additional <kbd>⇧</kbd> with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd> for **switching tab/app**
 - Hold additional <kbd>⌃</kbd>  with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd>  for **desktop management** . (just like holding ⌃ctrl with arrow key)
 
-| Origin | Maps to        | Comment                  |
-| -----: | -------------- | ------------------------ |
-| `H`    | `←` LeftArrow  | cursor left              |
-| `J`    | `↓` DownArrow  | cursor down              |
-| `K`    | `↑` UpArrow    | cursor up                |
-| `L`    | `→` RightArrow | cursor right             |
-| `U`    | `⇞` PageUp     | cursor page up           |
-| `I`    | `↖` Home       | cursor to line(doc) head |
-| `O`    | `↘`  End       | cursor to line(doc) end  |
-| `P`    | `⇟` PageDn     | cursor page down         |
-| `⌘H`    | `⇧←` LeftArrow  | cursor left and selection         |
-| `⌘J`    | `⇧↓` DownArrow  | cursor down and selection         |
-| `⌘K`    | `⇧↑` UpArrow    | cursor up and selection         |
-| `⌘L`    | `⇧→` RightArrow | cursor right and selection         |
-| `⌥H`    | `←` LeftArrow  | mouse left              |
-| `⌥J`    | `↓` DownArrow  | mouse down              |
-| `⌥K`    | `↑` UpArrow    | mouse up                |
-| `⌥L`    | `→` RightArrow | mouse right             |
-| `⌃H`    | `←` LeftArrow  | expose all              |
-| `⌃J`    | `↓` DownArrow  | show desktops              |
-| `⌃K`    | `↑` UpArrow    | switch prev desktop               |
-| `⌃L`    | `→` RightArrow | switch next desktop        |
+| Origin  | Maps to         | Comment                    |
+| -----:  | --------------  | ------------------------   |
+| <kbd>H</kbd>     | <kbd>←</kbd> LeftArrow   | cursor left                |
+| <kbd>J</kbd>     | <kbd>↓</kbd> DownArrow   | cursor down                |
+| <kbd>K</kbd>     | <kbd>↑</kbd> UpArrow     | cursor up                  |
+| <kbd>L</kbd>     | <kbd>→</kbd> RightArrow  | cursor right               |
+| <kbd>U</kbd>     | <kbd>⇞</kbd> PageUp      | cursor page up             |
+| <kbd>I</kbd>     | <kbd>↖</kbd> Home        | cursor to line(doc) head   |
+| <kbd>O</kbd>     | <kbd>↘</kbd>  End        | cursor to line(doc) end    |
+| <kbd>P</kbd>     | <kbd>⇟</kbd> PageDn      | cursor page down           |
+| <kbd>⌘</kbd><kbd>H</kbd>    | <kbd>⇧</kbd><kbd>←</kbd> LeftArrow  | cursor left and selection  |
+| <kbd>⌘</kbd><kbd>J</kbd>    | <kbd>⇧</kbd><kbd>↓</kbd> DownArrow  | cursor down and selection  |
+| <kbd>⌘</kbd><kbd>K</kbd>    | <kbd>⇧</kbd><kbd>↑</kbd> UpArrow    | cursor up and selection    |
+| <kbd>⌘</kbd><kbd>L</kbd>    | <kbd>⇧</kbd><kbd>→</kbd> RightArrow | cursor right and selection |
+| <kbd>⌥</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow   | mouse left                 |
+| <kbd>⌥</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow   | mouse down                 |
+| <kbd>⌥</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow     | mouse up                   |
+| <kbd>⌥</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow  | mouse right                |
+| <kbd>⌃</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow   | expose all                 |
+| <kbd>⌃</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow   | show desktops              |
+| <kbd>⌃</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow     | switch prev desktop        |
+| <kbd>⌃</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow  | switch next desktop        |
 
 
 
@@ -117,36 +117,37 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin | Maps to        | Comment                  |
 | -----: | -------------- | ------------------------ |
-| `←`    | MouseLeft  | mouse cursor left              |
-| `↓`    | MouseDown  | mouse cursor down              |
-| `↑`    | MouseUp    | mouse cursor up                |
-| `→`    | MouseRight | mouse cursor right             |
-| `↩`    | MouseLeft     | mouse left button click           |
-| `⌘↩`    | MouseRight      | mouse right button click |
+| <kbd>←</kbd>    | MouseLeft       | mouse cursor left         |
+| <kbd>↓</kbd>    | MouseDown       | mouse cursor down         |
+| <kbd>↑</kbd>    | MouseUp         | mouse cursor up           |
+| <kbd>→</kbd>    | MouseRight      | mouse cursor right        |
+| <kbd>↩</kbd>    | MouseLeft       | mouse left button click   |
+| <kbd>⌘↩</kbd>   | MouseRight      | mouse right button click  |
 
 ### Deletion
 
 | Origin    | Maps to                            | Comment             |
 | --------: | ---------------------------------- | ------------------- |
-| `N`       | `⌥⌫`  Option + ForwardDelete       | Delete a word ahead |
-| `M`       | `⌫` ForwardDelete                  | Delete a char ahead |
-| `,`       | `⌦` Delete                         | Delete a char after |
-| `.`       | `⌥⌦` Option + Delete               | Delete a word after |
-| `⌘M`,`⌘N` | `⌘⌥⌫` Command+Option+ForwardDelete | Delete to line head |
+| <kbd>N</kbd>       | <kbd>⌥⌫</kbd>  Option + ForwardDelete       | Delete a word ahead |
+| <kbd>M</kbd>       | <kbd>⌫</kbd> ForwardDelete                  | Delete a char ahead |
+| <kbd>,</kbd>       | <kbd>⌦</kbd> Delete                         | Delete a char after |
+| <kbd>.</kbd>       | <kbd>⌥⌦</kbd> Option + Delete               | Delete a word after |
+| <kbd>⌘</kbd><kbd>M</kbd>,<kbd>⌘</kbd><kbd>N</kbd> | <kbd>⌘⌥⌫</kbd> Command+Option+ForwardDelete | Delete to line head |
 
 ### Window Control
 
-| Origin           | Maps to                 | Comment                                  |
-| ---------------: | ----------------------- | ---------------------------------------- |
-| `⇥` Tab          | `⌘⇥` Command+Tab        | Switch Window                            |
-| `⌘⇥` Command+Tab | `⌘⇧⇥` Command+Shift+Tab | Switch Window Reversely                  |
-| `Q`              | `⌘Q`                    | Close Window                             |
-| `W`              | `⌘W`                    | Close Tab                                |
-| `A`              | `⌃⌥⇧⌘A`                 | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
-| `⌘A`             | `⌃↑`  Ctrl+UpArrow      | OSX Expose All                           |
-| `S`              | `⌃⇥`  Ctrl+Tab          | Switch Tab                               |
-| `⌘S`             | `⌃⇧⇥` Ctrl+Shift+Tab    | Swtich Tab Reversely                     |
-| `⌘D`             | `F11`                   | Show Desktop  <mark>bug to fix</mark>         |
+| Origin           | Maps to                 | Comment                                       |
+| ---------------: | ----------------------- | --------------------------------------------  |
+| <kbd>⇥</kbd> Tab          | <kbd>⌘⇥</kbd> Command+Tab        | Switch Window               |
+| <kbd>⌘⇥</kbd> Command+Tab | <kbd>⌘⇧⇥</kbd> Command+Shift+Tab | Switch Window Reversely     |
+| <kbd>Q</kbd>              | <kbd>⌘Q</kbd>                    | Close Window                |
+| <kbd>W</kbd>              | <kbd>⌘W</kbd>                    | Close Tab                   |
+| <kbd>A</kbd>              | <kbd>⌃⌥⇧⌘A</kbd>                 | Leaves to [Moom](https://manytricks.com/moom/), ※a window resize app |
+| <kbd>⌘A</kbd>             | <kbd>⌃↑</kbd>  Ctrl+UpArrow      | OSX Expose All              |
+| <kbd>S</kbd>              | <kbd>⌃⇥</kbd>  Ctrl+Tab          | Switch Tab                  |
+| <kbd>⌘S</kbd>             | <kbd>⌃⇧⇥</kbd> Ctrl+Shift+Tab    | Swtich Tab Reversely        |
+| <kbd>⌘D</kbd>             | <kbd>F11</kbd>                   | Show Desktop  <mark>**bug to **</mark>                                |
+
 
 ### Bash Control
 
@@ -189,27 +190,27 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin            | Maps to              | Comment                          |
 | ----------------: | -------------------- | -------------------------------- |
-| `F1`              | `BrightnessDown`     |                                  |
-| `F2`              | `BrightnessUp`       |                                  |
-| `F3`              | `ExposeAll`          |                                  |
-| `F4`              | `LaunchPad`          |                                  |
-| `F5`              | `KeyboardLightDown`  |                                  |
-| `F6`              | `KeyboardLightUp`    |                                  |
-| `F7`              | `MusicPrev`          |                                  |
-| `F8`              | `MusicPlay`          |                                  |
-| `F9`              | `MusicNext`          |                                  |
-| `F10`             | `Mute`               |                                  |
-| `F11`             | `VolumeDown`         |                                  |
-| `F12`             | `VolumeUp`           |                                  |
-| `F13` PrintScreen | `MusicPrev`          |                                  |
-| `F14` ScrollLock  | `MusicNext`          |                                  |
-| `F15` Pause       | `MusicPlay`          | Just as it shows                 |
-| `Insert`          | `⌥BrightnessUp`      | Fine grained brightness up       |
-| `Delete`          | `⌥BrightnessDown`    | Fine grained brightness down     |
-| `Home`            | `⌥KeyboardLightUp`   | Fine grained keyboard light up   |
-| `End`             | `⌥KeyboardLightDown` | Fine grained keyboard light down |
-| `PgUp`            | `⌥VolumeUp`          | Fine grained volume up           |
-| `PgDn`            | `⌥VolumeDown`        | Fine grained volume down         |
+| <kbd>F1</kbd>              | <kbd>BrightnessDown</kbd>     |                                  |
+| <kbd>F2</kbd>              | <kbd>BrightnessUp</kbd>       |                                  |
+| <kbd>F3</kbd>              | <kbd>ExposeAll</kbd>          |                                  |
+| <kbd>F4</kbd>              | <kbd>LaunchPad</kbd>          |                                  |
+| <kbd>F5</kbd>              | <kbd>KeyboardLightDown</kbd>  |                                  |
+| <kbd>F6</kbd>              | <kbd>KeyboardLightUp</kbd>    |                                  |
+| <kbd>F7</kbd>              | <kbd>MusicPrev</kbd>          |                                  |
+| <kbd>F8</kbd>              | <kbd>MusicPlay</kbd>          |                                  |
+| <kbd>F9</kbd>              | <kbd>MusicNext</kbd>          |                                  |
+| <kbd>F10</kbd>             | <kbd>Mute</kbd>               |                                  |
+| <kbd>F11</kbd>             | <kbd>VolumeDown</kbd>         |                                  |
+| <kbd>F12</kbd>             | <kbd>VolumeUp</kbd>           |                                  |
+| <kbd>F13</kbd> PrintScreen | <kbd>MusicPrev</kbd>          |                                  |
+| <kbd>F14</kbd> ScrollLock  | <kbd>MusicNext</kbd>          |                                  |
+| <kbd>F15</kbd> Pause       | <kbd>MusicPlay</kbd>          | Just as it shows                 |
+| <kbd>Insert</kbd>          | <kbd>⌥BrightnessUp</kbd>      | Fine grained brightness up       |
+| <kbd>Delete</kbd>          | <kbd>⌥BrightnessDown</kbd>    | Fine grained brightness down     |
+| <kbd>Home</kbd>            | <kbd>⌥KeyboardLightUp</kbd>   | Fine grained keyboard light up   |
+| <kbd>End</kbd>             | <kbd>⌥KeyboardLightDown</kbd> | Fine grained keyboard light down |
+| <kbd>PgUp</kbd>            | <kbd>⌥VolumeUp</kbd>          | Fine grained volume up           |
+| <kbd>PgDn</kbd>            | <kbd>⌥VolumeDown</kbd>        | Fine grained volume down         |
 
 ### Shifter
 
@@ -218,24 +219,24 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin             | Maps to | Comment                  |
 | -----------------: | ------- | ------------------------ |
-| `1`                | `!`     | Exclamation              |
-| `2`                | `@`     | At                       |
-| `3`                | `#`     | Sharp                    |
-| `4`                | `$`     | Dollar                   |
-| `5`                | `%`     | Percent                  |
-| `6`                | `^`     | Caret                    |
-| `7`                | `&`     | Ampersand                |
-| `8`                | `*`     | Star                     |
-| `9`                | `(`     | Left Round Bracket       |
-| `0`                | `)`     | Right Round Bracket      |
-| `-` Minus          | `_`     | Hyphen                   |
-| `=` Equal          | `+`     | Plus                     |
-| `[` Left Bracket   | `(`     | Left Round Bracket `⇧9`  |
-| `]`  Right Bracket | `)`     | Right Round Bracket `⇧0` |
-| `;` Semicolon      | `!`     | Exclamation              |
-| `'` Single Quote   | `=`     | EqualSign                |
-| `⌘;` Semicolon     | `!`     | Colon                    |
-| `⌘'` Single Quote  | `=`     | EqualSign                |
+| <kbd>1</kbd>                | <kbd>!</kbd>     | Exclamation              |
+| <kbd>2</kbd>                | <kbd>@</kbd>     | At                       |
+| <kbd>3</kbd>                | <kbd>#</kbd>     | Sharp                    |
+| <kbd>4</kbd>                | <kbd>$</kbd>     | Dollar                   |
+| <kbd>5</kbd>                | <kbd>%</kbd>     | Percent                  |
+| <kbd>6</kbd>                | <kbd>^</kbd>     | Caret                    |
+| <kbd>7</kbd>                | <kbd>&</kbd>     | Ampersand                |
+| <kbd>8</kbd>                | <kbd>*</kbd>     | Star                     |
+| <kbd>9</kbd>                | <kbd>(</kbd>     | Left Round Bracket       |
+| <kbd>0</kbd>                | <kbd>)</kbd>     | Right Round Bracket      |
+| <kbd>-</kbd> Minus          | <kbd>_</kbd>     | Hyphen                   |
+| <kbd>=</kbd> Equal          | <kbd>+</kbd>     | Plus                     |
+| <kbd>[</kbd> Left Bracket   | <kbd>(</kbd>     | Left Round Bracket `⇧9`  |
+| <kbd>]</kbd>  Right Bracket | <kbd>)</kbd>     | Right Round Bracket `⇧0` |
+| <kbd>;</kbd> Semicolon      | <kbd>!</kbd>     | Exclamation              |
+| <kbd>'</kbd> Single Quote   | <kbd>=</kbd>     | EqualSign                |
+| <kbd>⌘</kbd><kbd>;</kbd> Semicolon     | <kbd>!</kbd>     | Colon                    |
+| <kbd>⌘</kbd><kbd>'</kbd> Single Quote  | <kbd>=</kbd>     | EqualSign                |
 
 ### Misc
 
