@@ -30,10 +30,9 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
   - macOS High Sierra (10.13)
   - macOS Sierra (10.12)
   - macOS EI Capitan (10.11)
-
-
-  - Old [XML]() Version (before OS X 10.11, *no longer maintained*) 
+  
 - [CapsLock(Windows)](win/) via AutoHotKey  *(no longer maintianed)*
+
   - Windows XP, Vista, 7, 8, 10
 
 
@@ -85,6 +84,10 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 - Hold additional <kbd>⇧</kbd> with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd> for **switching tab/app**
 - Hold additional <kbd>⌃</kbd>  with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd>  for **desktop management** . (just like holding ⌃ctrl with arrow key)
 
+
+<details>
+<summary>details</summary>
+
 | Origin  | Maps to         | Comment                    |
 | -----:  | --------------  | ------------------------   |
 | <kbd>H</kbd>     | <kbd>←</kbd> LeftArrow   | cursor left                |
@@ -107,6 +110,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>⌃</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow   | show desktops              |
 | <kbd>⌃</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow     | switch prev desktop        |
 | <kbd>⌃</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow  | switch next desktop        |
+
+</details>
+
 
 
 
@@ -168,17 +174,17 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin | Maps to                 | Comment                                         |
 | -----: | ----------------------- | ----------------------------------------------- |
-| `E`              | Open Safari             | Open Web Browser                         |
-| `⌘E`             | Open Finder             | Open File Browser                        |
-| `R`    | Open iTerm2             | Great terminal for osx (`Run`)                  |
-| `⌘R`   | Open Preview            | Switch to opened picture, pdf, etc...           |
-| `T`    | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
-| `⌘T`   | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
-| `⌘D` | Open Dictionary | Find words |
-| `⌘F`   | Open Dash               | Find API Document                               |
-| `F` | Open Alfred | Leaves to `⌃⌥⇧⌘F` |
-| `G`    | Open Intellij IDEA      | Open IDE                                        |
-| `⌘G`   | Open Chrome             | Google Chrome                                   |
+| <kbd>E</kbd>              | Open Safari             | Open Web Browser                         |
+| <kbd>⌘E</kbd>             | Open Finder             | Open File Browser                        |
+| <kbd>R</kbd>    | Open iTerm2             | Great terminal for osx (`Run`)                  |
+| <kbd>⌘R</kbd>   | Open Preview            | Switch to opened picture, pdf, etc...           |
+| <kbd>T</kbd>    | Open Visual Studio Code | Text Editor: Visual Studio Code                 |
+| <kbd>⌘T</kbd>   | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
+| <kbd>⌘D</kbd> | Open Dictionary | Find words |
+| <kbd>⌘F</kbd>   | Open Dash               | Find API Document                               |
+| <kbd>F</kbd> | Open Alfred | Leaves to `⌃⌥⇧⌘F` |
+| <kbd>G</kbd>    | Open Intellij IDEA      | Open IDE                                        |
+| <kbd>⌘G</kbd>   | Open Chrome             | Google Chrome                                   |
 
 ### Functional
 
@@ -187,6 +193,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 - If you are using RMBP with Bar, consider changing your bar back to function keys with 
 
   `Karabiner -> Function Keys -> Use all F1, F2, etc. keys as standard function keys  `
+
+<details>
+<summary>details</summary>
 
 | Origin            | Maps to              | Comment                          |
 | ----------------: | -------------------- | -------------------------------- |
@@ -212,29 +221,32 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 | <kbd>PgUp</kbd>            | <kbd>⌥VolumeUp</kbd>          | Fine grained volume up           |
 | <kbd>PgDn</kbd>            | <kbd>⌥VolumeDown</kbd>        | Fine grained volume down         |
 
+</details>
+
+
 ### Shifter
 
 - A more convient shift for most case
-- Semicolon`;` and Quote  `'` have some special treatment, makes input `!=` and `:=`  easier
+- Semicolon <kbd>;</kbd> and Quote  <kbd>'</kbd> have some special treatment, makes input <kbd>!=</kbd> and <kbd>:=</kbd>  easier
 
 | Origin             | Maps to | Comment                  |
 | -----------------: | ------- | ------------------------ |
-| <kbd>1</kbd>                | <kbd>!</kbd>     | Exclamation              |
-| <kbd>2</kbd>                | <kbd>@</kbd>     | At                       |
-| <kbd>3</kbd>                | <kbd>#</kbd>     | Sharp                    |
-| <kbd>4</kbd>                | <kbd>$</kbd>     | Dollar                   |
-| <kbd>5</kbd>                | <kbd>%</kbd>     | Percent                  |
-| <kbd>6</kbd>                | <kbd>^</kbd>     | Caret                    |
-| <kbd>7</kbd>                | <kbd>&</kbd>     | Ampersand                |
-| <kbd>8</kbd>                | <kbd>*</kbd>     | Star                     |
-| <kbd>9</kbd>                | <kbd>(</kbd>     | Left Round Bracket       |
-| <kbd>0</kbd>                | <kbd>)</kbd>     | Right Round Bracket      |
-| <kbd>-</kbd> Minus          | <kbd>_</kbd>     | Hyphen                   |
-| <kbd>=</kbd> Equal          | <kbd>+</kbd>     | Plus                     |
-| <kbd>[</kbd> Left Bracket   | <kbd>(</kbd>     | Left Round Bracket `⇧9`  |
-| <kbd>]</kbd>  Right Bracket | <kbd>)</kbd>     | Right Round Bracket `⇧0` |
-| <kbd>;</kbd> Semicolon      | <kbd>!</kbd>     | Exclamation              |
-| <kbd>'</kbd> Single Quote   | <kbd>=</kbd>     | EqualSign                |
+| <kbd>1</kbd>                           | <kbd>!</kbd>     | Exclamation              |
+| <kbd>2</kbd>                           | <kbd>@</kbd>     | At                       |
+| <kbd>3</kbd>                           | <kbd>#</kbd>     | Sharp                    |
+| <kbd>4</kbd>                           | <kbd>$</kbd>     | Dollar                   |
+| <kbd>5</kbd>                           | <kbd>%</kbd>     | Percent                  |
+| <kbd>6</kbd>                           | <kbd>^</kbd>     | Caret                    |
+| <kbd>7</kbd>                           | <kbd>&</kbd>     | Ampersand                |
+| <kbd>8</kbd>                           | <kbd>*</kbd>     | Star                     |
+| <kbd>9</kbd>                           | <kbd>(</kbd>     | Left Round Bracket       |
+| <kbd>0</kbd>                           | <kbd>)</kbd>     | Right Round Bracket      |
+| <kbd>-</kbd> Minus                     | <kbd>_</kbd>     | Hyphen                   |
+| <kbd>=</kbd> Equal                     | <kbd>+</kbd>     | Plus                     |
+| <kbd>[</kbd> Left Bracket              | <kbd>(</kbd>     | Left Round Bracket `⇧9`  |
+| <kbd>]</kbd>  Right Bracket            | <kbd>)</kbd>     | Right Round Bracket `⇧0` |
+| <kbd>;</kbd> Semicolon                 | <kbd>!</kbd>     | Exclamation              |
+| <kbd>'</kbd> Single Quote              | <kbd>=</kbd>     | EqualSign                |
 | <kbd>⌘</kbd><kbd>;</kbd> Semicolon     | <kbd>!</kbd>     | Colon                    |
 | <kbd>⌘</kbd><kbd>'</kbd> Single Quote  | <kbd>=</kbd>     | EqualSign                |
 
@@ -242,13 +254,13 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Origin                 | Maps to             | Comment                                        |
 | ---------------------: | ------------------- | ---------------------------------------------- |
-| `⎋` Escape             | `⇪`  CapsLock       | Bug: Difficult to turn capslock off after emit |
-| `~` BackQuote          | `⌃⇧⌘4`              | macOS Area Screenshot to Clipboard             |
-| `⌘~` Command+BackQuote | `⌃⇧4`               | macOS Area Screenshot to Desktop File          |
-| `⌫` Backspace          | `⌘⌫`                | macOS Delete File                              |
-| `/` Slash              | `⌘/` Command+Slash  | Comment/Uncomment in many IDE                  |
-| `\` Backslash          | `⌘/` Command+Slash  | Comment/Uncomment in many IDE                  |
-| `␢` Spacebar           | `⌃␢`  Ctrl+Spacebar | Switch Input Source                            |
+| <kbd>⎋</kbd> Escape             | <kbd>⇪</kbd>  CapsLock       | Bug: Difficult to turn capslock off after emit |
+| <kbd>~</kbd> BackQuote          | <kbd>⌃⇧⌘4</kbd>              | macOS Area Screenshot to Clipboard             |
+| <kbd>⌘</kbd><kbd>~</kbd> Command+BackQuote | <kbd>⌃⇧4</kbd>               | macOS Area Screenshot to Desktop File          |
+| <kbd>⌫</kbd> Backspace          | <kbd>⌘</kbd><kbd>⌫</kbd>                | macOS Delete File                              |
+| <kbd>/</kbd> Slash              | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
+| <kbd>\</kbd> Backslash          | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
+| <kbd>␢</kbd> Spacebar           | <kbd>⌃</kbd><kbd>␢</kbd>  Ctrl+Spacebar | Switch Input Source                            |
 
 
 
@@ -258,56 +270,56 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 | Sym    | Key     |
 | :----: | ------- |
-| ✱      | Hyper   |
-| ⌃      | Control |
-| ⌥      | Option  |
-| ⇧      | Shift   |
-| ⌘      | Command |
+| <kbd>✱</kbd>      | Hyper   |
+| <kbd>⌃</kbd>      | Control |
+| <kbd>⌥</kbd>      | Option  |
+| <kbd>⇧</kbd>      | Shift   |
+| <kbd>⌘</kbd>      | Command |
 
 ### Modifiers: ⊞Windows
 
 |  Sym   | Key     |
 | :----: | ------- |
-| ✱      | Hyper   |
-| ⌃      | Control |
-| ⊞      | Windows |
-| ⇧      | Shift   |
-| ⎇      | Alter   |
+| <kbd>✱</kbd>      | Hyper   |
+| <kbd>⌃</kbd>      | Control |
+| <kbd>⊞</kbd>      | Windows |
+| <kbd>⇧</kbd>      | Shift   |
+| <kbd>⎇</kbd>     | Alter   |
 
 ### Normal Keys
 
 |   GLYPH   | NAME                                   |
 | :-------: | -------------------------------------- |
-|        | Apple                                  |
-| ⌘       | Command, Cmd, Clover, (formerly) Apple |
-| ⌃       | Control, Ctl, Ctrl                     |
-| ⌥       | Option, Opt, (Windows) Alt             |
-| ⎇       | Alt                                    |
-| ⇧       | Shift                                  |
-| ⇪       | Caps lock                              |
-| ⏏       | Eject                                  |
-| ↩, ↵, ⏎ | Return, Carriage Return                |
-| ⌤       | Enter                                  |
-| ⌫       | Delete, Backspace                      |
-| ⌦       | Forward Delete                         |
-| ⎋       | Escape, Esc                            |
-| →       | Right arrow                            |
-| ←       | Left arrow                             |
-| ↑       | Up arrow                               |
-| ↓       | Down arrow                             |
-| ⇞       | Page Up, PgUp                          |
-| ⇟       | Page Down, PgDn                        |
-| ↖       | Home                                   |
-| ↘       | End                                    |
-| ⌧       | Clear                                  |
-| ⇥       | Tab, Tab Right, Horizontal Tab         |
-| ⇤       | Shift Tab, Tab Left, Back-tab          |
-| ␢       | Space, Blank                           |
-| ␣       | Space, Blank                           |
-| ❘⃝      | Power                                  |
-| ⇭       | Num lock                               |
-| ?⃝      | Help                                   |
-|        | Context menu                           |
+| <kbd></kbd>       | Apple                                  |
+| <kbd>⌘</kbd>       | Command, Cmd, Clover, (formerly) Apple |
+| <kbd>⌃</kbd>       | Control, Ctl, Ctrl                     |
+| <kbd>⌥</kbd>       | Option, Opt, (Windows) Alt             |
+| <kbd>⎇</kbd>       | Alt                                    |
+| <kbd>⇧</kbd>       | Shift                                  |
+| <kbd>⇪</kbd>       | Caps lock                              |
+| <kbd>⏏</kbd>       | Eject                                  |
+| <kbd>↩</kbd>, <kbd>↵</kbd>, <kbd>⏎</kbd> | Return, Carriage Return                |
+| <kbd>⌤</kbd>       | Enter                                  |
+| <kbd>⌫</kbd>       | Delete, Backspace                      |
+| <kbd>⌦</kbd>       | Forward Delete                         |
+| <kbd>⎋</kbd>       | Escape, Esc                            |
+| <kbd>→</kbd>       | Right arrow                            |
+| <kbd>←</kbd>       | Left arrow                             |
+| <kbd>↑</kbd>       | Up arrow                               |
+| <kbd>↓</kbd>       | Down arrow                             |
+| <kbd>⇞</kbd>       | Page Up, PgUp                          |
+| <kbd>⇟</kbd>       | Page Down, PgDn                        |
+| <kbd>↖</kbd>       | Home                                   |
+| <kbd>↘</kbd>       | End                                    |
+| <kbd>⌧</kbd>       | Clear                                  |
+| <kbd>⇥</kbd>       | Tab, Tab Right, Horizontal Tab         |
+| <kbd>⇤</kbd>       | Shift Tab, Tab Left, Back-tab          |
+| <kbd>␢</kbd>       | Space, Blank                           |
+| <kbd>␣</kbd>       | Space, Blank                           |
+| <kbd>❘⃝</kbd>      | Power                                  |
+| <kbd>⇭</kbd>       | Num lock                               |
+| <kbd>?⃝</kbd>      | Help                                   |
+| <kbd></kbd>       | Context menu                           |
 
 
 
