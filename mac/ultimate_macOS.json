@@ -33,6 +33,11 @@
               "key_code": "escape"
             }
           ],
+          "to_if_held_down": [
+            {
+              "key_code": "fn"
+            }
+          ],
           "type": "basic"
         }
       ]
