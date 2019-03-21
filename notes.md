@@ -2,6 +2,12 @@
 
 [TOC]
 
+## Generate profile
+
+### KE ruby
+
+### [GokuRakuJoudol(https://github.com/yqrashawn/GokuRakuJoudo)
+
 ## macOS Default Keyboard Shortcuts
 
 <details>
