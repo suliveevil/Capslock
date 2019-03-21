@@ -1,13 +1,11 @@
 ![](images/function-overview.png)
 
-[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock)
-[![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]()
+[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]() [![English]()](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
 
-# ultimate macOS
+# ultimate macOS 
 
-forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/)
 
-*让 <kbd>CapsLock</kbd> 更 NB！* <span align="left"> [**English**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)</span>
+forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *让 <kbd>CapsLock</kbd> 更 NB！* 
 
 需要/可以改进的地方：
 
