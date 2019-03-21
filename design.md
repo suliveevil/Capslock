@@ -18,9 +18,7 @@
 
 ## Vim
 
-
-
-
+HJKL
 
 ## Design
 
