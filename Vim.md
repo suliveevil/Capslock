@@ -1,3 +1,5 @@
+![ADM-3A终端机键盘电路板](images/ADM-3A终端机键盘电路板.jpg) 
+
 # Vim 笔记
 
 [TOC]
@@ -7,7 +9,7 @@
 
 | 操作 | 目的                 | why                                                          |
 | ---- | -------------------- | ------------------------------------------------------------ |
-| <kbd>h</kbd>    | <kbd>←</kbd>向左移动**一个字符** | 当 Bill Joy 创建 Vi 文本编辑器时，他使用的机器机器是 ADM-3A 终端机。 |
+| <kbd>h</kbd>    | <kbd>←</kbd>向左移动**一个字符** | 当 Bill Joy 创建 Vi 文本编辑器时，他使用的机器机器是 ADM-3A 终端机。|
 | <kbd>j</kbd>    | <kbd>↓</kbd>向下移动**一行** | ADM-3A 把 HJKL 键作为方向键。<kbd>←</kbd> <kbd>↓</kbd> <kbd>↑</kbd> <kbd>→</kbd> |
 | <kbd>k</kbd>    | <kbd>↑</kbd> 向上移动**一行**       | 当时的 <kbd>Esc</kbd> 在 <kbd>Q</kbd> 的左边，Home 键 <kbd>～</kbd> 在键盘右上角 |
 | <kbd>l</kbd>    | <kbd>→</kbd> 向右移动**一个字符**     |                                                              |
