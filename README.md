@@ -46,9 +46,11 @@ This Repo (open in safari)
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json
 ```
 
-~~Karabiner-Elements Offical Script Gallery~~
+Karabiner-Elements Offical Script Gallery
+
 ```bash
 # will submit soon
+https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 ```
 
 3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.

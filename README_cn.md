@@ -48,14 +48,16 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *让 <kbd>Cap
 
 2. 拷贝下面的链接到浏览器来导入设置脚本。
 
+URL 直接安装 (在 Safari 中打开)
+
 ```bash
-# URL 安装 (在 Safari 中打开)
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
 ```
 
+Karabiner-Elements 官方脚本库安装
+
 ```bash
-# Karabiner-Elements 官方脚本库
-暂无
+https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 ```
 
 3. 打开 Karabiner, 找到 "ComplexModification", 点击 "Add Item", 开始自定义配置。
