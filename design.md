@@ -1,6 +1,8 @@
 # Capslock Enhancement Design
 
-https://pqrs.org/osx/karabiner/complex_modifications/
+
+
+## CapsLock 键
 
 ⇪CapsLock，即大写锁定键，其起源可追溯至打字机时代。打字机是纯机械的设备，当按下Shift时，整套设备会与墨条纸带发生位移，使小写字母“上档”为大写字母。此等操作对小拇指是不小的负担，以致连续输入两到三个大写字母都比较吃力。于是在今天键盘上⇪Capslock的位置上出现了其原型Shiftlock功能键：可以在大小写状态之间切换与保持。这样的设计解决了一指禅选手的困境，更减轻了打字员的负担。
 
@@ -13,6 +15,12 @@ https://pqrs.org/osx/karabiner/complex_modifications/
 譬如创造一个类似⇧ Shift、⌃ Ctrl、⌥ Option、⊞ Win、⎇ Alt 、 ⌘ Command等修饰键的全新功能键：
 
 ​										✱ Hyper
+
+## Vim
+
+
+
+
 
 ## Design
 
@@ -95,4 +103,10 @@ https://pqrs.org/osx/karabiner/complex_modifications/
    `Hyper-G： IntelliJ IDEA.app`，`Hyper-⌘G: Clion`，G就是`Great`的意思，所以放了IDE
 
    `Hyper-B`可以放一些别的东西，目前当做了呼叫Emoji窗口的快捷键(`^⇧Space`)。
+
+## 相关链接
+
+
+
+### [KE complex modification gallery](https://pqrs.org/osx/karabiner/complex_modifications/)
 
