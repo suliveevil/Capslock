@@ -1436,6 +1436,13 @@
                     },
                     "to": [
                         {
+                            "key_code": "g",
+                            "modifiers": [
+                                "right_command",
+                                "right_control",
+                                "right_option",
+                                "right_shift"
+                            ]
                         }
                     ],
                     "to_if_held_down": [
