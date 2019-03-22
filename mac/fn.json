@@ -11,39 +11,6 @@
             "manipulators": [
                 {
                     "from": {
-                        "key_code": "g",
-                        "modifiers": {
-                            "mandatory": [
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "parameters": {
-                        "basic.to_if_alone_timeout_milliseconds": 250,
-                        "basic.to_if_held_down_threshold_milliseconds": 250
-                    },
-                    "to": [
-                        {
-                            "shell_command": "open -a 'GitHub Desktop'"
-                        }
-                    ],
-                    "to_if_held_down": [
-                        {
-                            "key_code": "fn"
-                        }
-                    ],
-                    "type": "basic"
-                }
-            ]
-        },
-        {
-            "description": "CapsLock to Hyper/Escape",
-            "manipulators": [
-                {
-                    "from": {
                         "key_code": "caps_lock",
                         "modifiers": {
                             "optional": [
@@ -1463,9 +1430,18 @@
                             ]
                         }
                     },
+                    "parameters": {
+                        "basic.to_if_alone_timeout_milliseconds": 250,
+                        "basic.to_if_held_down_threshold_milliseconds": 250
+                    },
                     "to": [
                         {
                             "shell_command": "open -a 'GitHub Desktop'"
+                        }
+                    ],
+                    "to_if_held_down": [
+                        {
+                            "key_code": "fn"
                         }
                     ],
                     "type": "basic"
