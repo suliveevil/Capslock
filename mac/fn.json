@@ -1436,7 +1436,6 @@
                     },
                     "to": [
                         {
-                            "shell_command": "open -a 'GitHub Desktop'"
                         }
                     ],
                     "to_if_held_down": [
