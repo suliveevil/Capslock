@@ -1260,7 +1260,7 @@
             ]
         },
         {
-            "description": "Hyper Application",
+            "description": "Hyper Application (held down CapsLock+G to Fn)",
             "manipulators": [
                 {
                     "from": {
