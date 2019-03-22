@@ -7,36 +7,6 @@
   "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json",
   "rules": [
     {
-      "description": "G to Fn (if held down)",
-      "manipulators": [
-        {
-          "from": {
-            "key_code": "g",
-            "modifiers": {
-              "optional": [
-                "any"
-              ]
-            }
-          },
-          "parameters": {
-            "basic.to_if_alone_timeout_milliseconds": 250,
-            "basic.to_if_held_down_threshold_milliseconds": 250,
-          },
-          "to_if_alone": [
-            {
-              "key_code": "g"
-            }
-          ],
-          "to_if_held_down": [
-          {
-            "key_code": "fn"
-          }
-          ],
-          "type": "basic"
-        }
-      ]
-    },
-    {
       "description": "CapsLock to Hyper/Escape",
       "manipulators": [
         {
