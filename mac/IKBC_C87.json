@@ -7,7 +7,7 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/IKBC_C87.json",
     "rules": [
         {
-            "description": "IKBC C87 Change left command to left_option",
+            "description": "IKBC C87 Change left_command to left_option",
             "manipulators": [
                 {
                     "type": "basic",
