@@ -73,7 +73,7 @@
 
 ## 用法 (mac)
 
-![](images/keyboard.png)
+![](mac/images/keyboard.png)
 
 ### 基础用法
 
