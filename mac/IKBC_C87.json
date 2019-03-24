@@ -1,5 +1,5 @@
 {
-    "title": "IKBC_C87",
+    "title": "IKBC C87",
     "author": "suliveevil(suliveevil@outlook.com)",
     "homepage": "https://github.com/suliveevil/Capslock",
     "hostpage": "https://pqrs.org/osx/karabiner/complex_modifications/",
@@ -7,46 +7,67 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/IKBC_C87.json",
     "rules": [
         {
-            "type": "device_if",
-            "identifiers": [
-                "vendor_id": 1547,
-                "product_id": 31235,
+            "description": "IKBC C87 Change left command to left_option",
+            "manipulators": [
                 {
-                    "description": "Alt to Option, Win to Command",
-                    "manipulators": [
+                    "type": "basic",
+                    "from": {
+                        "key_code": "left_command",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
                         {
-                            "from": {
-                                "key_code": "left_alt",
-                                "modifiers": {
-                                    "optional": [
-                                        "any"
-                                    ]
-                                }
-                            },
-                            "to": [
+                            "type": "device_if",
+                            "identifiers": [
                                 {
-                                    "key_code": "left_command"
-                                }
-                            ],
-                        },
-                        {
-                            "from": {
-                                "key_code": "left_command",
-                                "modifiers": {
-                                    "optional": [
-                                        "any"
-                                    ]
-                                }
-                            },
-                            "to": [
-                                {
-                                    "key_code": "left_option"
+                                    "product_id": 31235,
+                                    "vendor_id": 1547
                                 }
                             ]
                         }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "left_option"
+                        }
                     ]
                 }
-
+            ]
+        },
+        {
+            "description": "IKBC C87 Change left_option to left_command",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "left_option",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "device_if",
+                            "identifiers": [
+                                {
+                                    "product_id": 31235,
+                                    "vendor_id": 1547
+                                }
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "left_command"
+                        }
+                    ]
+                }
             ]
         },
         {
