@@ -175,10 +175,10 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘</kbd> <kbd>J</kbd>    | <kbd>⇧</kbd> <kbd>↓</kbd> 下箭头   | 光标下移并选择        |
 | <kbd>⌘</kbd> <kbd>K</kbd>    | <kbd>⇧</kbd> <kbd>↑</kbd> 上箭头   | 光标上移并选择        |
 | <kbd>⌘</kbd> <kbd>L</kbd>    | <kbd>⇧</kbd> <kbd>→</kbd> 右箭头   | 光标右移并选择        |
-|  <kbd>⌥</kbd> <kbd>H</kbd>    | <kbd>←</kbd> 左箭头  |      |
-|  <kbd>⌥</kbd> <kbd>J</kbd>    | <kbd>↓</kbd> 下箭头  |      |
-|  <kbd>⌥</kbd> <kbd>K</kbd>    | <kbd>↑</kbd> 上箭头  |      |
-|  <kbd>⌥</kbd> <kbd>L</kbd>    | <kbd>→</kbd> 右箭头  |      |
+|  <kbd>⌥</kbd> <kbd>H</kbd>    | <kbd>⌥</kbd> <kbd>←</kbd> 左箭头  | ⌥ + 左箭头     |
+|  <kbd>⌥</kbd> <kbd>J</kbd>    | <kbd>⌥</kbd> <kbd>↓</kbd> 下箭头  | ⌥ + 下箭头     |
+|  <kbd>⌥</kbd> <kbd>K</kbd>    | <kbd>⌥</kbd> <kbd>↑</kbd> 上箭头  | ⌥ + 上箭头     |
+|  <kbd>⌥</kbd> <kbd>L</kbd>    | <kbd>⌥</kbd> <kbd>→</kbd> 右箭头  | ⌥ + 右箭头     |
 |  <kbd>⌃</kbd> <kbd>H</kbd>    | <kbd>⌃</kbd> <kbd>←</kbd> 左箭头  | expose all                    |
 |  <kbd>⌃</kbd> <kbd>J</kbd>    | <kbd>⌃</kbd> <kbd>↓</kbd> 下箭头  | 应用程序窗口 ~~show desktops~~  |
 |  <kbd>⌃</kbd> <kbd>K</kbd>    | <kbd>⌃</kbd> <kbd>↑</kbd> 上箭头  | 转到上一桌面                    |
@@ -191,10 +191,10 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘</kbd> <kbd>I</kbd>    | <kbd>↓</kbd> 下箭头  |      |
 | <kbd>⌘</kbd> <kbd>O</kbd>    | <kbd>↑</kbd> 上箭头  |      |
 | <kbd>⌘</kbd> <kbd>P</kbd>    | <kbd>→</kbd> 右箭头  |      |
-|  <kbd>⌥</kbd> <kbd>U</kbd>    | <kbd>←</kbd> 左箭头  | 鼠标光标左移     |
-|  <kbd>⌥</kbd> <kbd>I</kbd>    | <kbd>↓</kbd> 下箭头  | 鼠标光标下移     |
-|  <kbd>⌥</kbd> <kbd>O</kbd>    | <kbd>↑</kbd> 上箭头  | 鼠标光标上移     |
-|  <kbd>⌥</kbd> <kbd>P</kbd>    | <kbd>→</kbd> 右箭头  | 鼠标光标右移     |
+|  <kbd>⌥</kbd> <kbd>U</kbd>    | <kbd>←</kbd> 左箭头  | 鼠标左移     |
+|  <kbd>⌥</kbd> <kbd>I</kbd>    | <kbd>↓</kbd> 下箭头  | 鼠标下移     |
+|  <kbd>⌥</kbd> <kbd>O</kbd>    | <kbd>↑</kbd> 上箭头  | 鼠标上移     |
+|  <kbd>⌥</kbd> <kbd>P</kbd>    | <kbd>→</kbd> 右箭头  | 鼠标右移     |
 |  <kbd>⌃</kbd> <kbd>U</kbd>    | <kbd>←</kbd> 左箭头  |      |
 |  <kbd>⌃</kbd> <kbd>I</kbd>    | <kbd>↓</kbd> 下箭头  |      |
 |  <kbd>⌃</kbd> <kbd>O</kbd>    | <kbd>↑</kbd> 上箭头  |      |
