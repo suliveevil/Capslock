@@ -308,8 +308,8 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | Origin                 | Maps to             | Comment                                        |
 | ---------------------: | ------------------- | ---------------------------------------------- |
 | <kbd>⎋</kbd> Escape             | <kbd>⇪</kbd>  CapsLock       | Bug: Difficult to turn capslock off after emit |
-| <kbd>~</kbd> BackQuote          | <kbd>⌃⇧⌘4</kbd>              | macOS Area Screenshot to Clipboard             |
-| <kbd>⌘</kbd><kbd>~</kbd> Command+BackQuote | <kbd>⌃⇧4</kbd>               | macOS Area Screenshot to Desktop File          |
+| <kbd>~</kbd> BackQuote          | <kbd>⇧⌘4</kbd>              | macOS Area Screenshot to Desktop  file           |
+| <kbd>⌘</kbd><kbd>~</kbd> Command+BackQuote | <kbd>⌃⇧⌘4</kbd>               | macOS Area Screenshot to Clipboard          |
 | <kbd>⌫</kbd> Backspace          | <kbd>⌘</kbd><kbd>⌫</kbd>                | macOS Delete File                              |
 | <kbd>/</kbd> Slash              | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
 | <kbd>\\</kbd> Backslash         | <kbd>⌘</kbd><kbd>/</kbd> Command+Slash  | Comment/Uncomment in many IDE                  |
