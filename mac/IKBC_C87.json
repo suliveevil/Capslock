@@ -2396,7 +2396,6 @@
                         "key_code": "grave_accent_and_tilde",
                         "modifiers": {
                             "mandatory": [
-                                "left_command",
                                 "right_command",
                                 "right_control",
                                 "right_shift",
@@ -2420,6 +2419,7 @@
                         "key_code": "grave_accent_and_tilde",
                         "modifiers": {
                             "mandatory": [
+                                "left_command",
                                 "right_command",
                                 "right_control",
                                 "right_shift",
