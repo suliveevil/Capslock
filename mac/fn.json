@@ -7,6 +7,70 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/fn.json",
     "rules": [
         {
+            "description": "IKBC C87 Change left_command to left_option",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "left_command",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "device_if",
+                            "identifiers": [
+                                {
+                                    "product_id": 31235,
+                                    "vendor_id": 1547
+                                }
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "left_option"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "IKBC C87 Change left_option to left_command",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "left_option",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "device_if",
+                            "identifiers": [
+                                {
+                                    "product_id": 31235,
+                                    "vendor_id": 1547
+                                }
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "left_command"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "description": "CapsLock to Hyper/Escape",
             "manipulators": [
                 {
