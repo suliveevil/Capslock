@@ -1,4 +1,4 @@
-![ADM-3A终端机键盘电路板](images/ADM-3A终端机键盘电路板.jpg) 
+![ADM-3A终端机键盘电路板](../../images/ADM-3A终端机键盘电路板.jpg) 
 
 # Vim 笔记
 
