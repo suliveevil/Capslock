@@ -2686,13 +2686,13 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "caps_lock"
+                        "key_code": "escape"
                     },
                     "conditions": [
                         {
                             "type": "frontsmost_application_if",
                             "bundle_identifiers": [
-                                "com.apple.Safari"
+                                "^com.apple.Safari"
                             ]
                         }
                     ],
