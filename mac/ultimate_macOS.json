@@ -2,8 +2,6 @@
     "title": "ultimate macOS",
     "author": "suliveevil(suliveevil@outlook.com)",
     "homepage": "https://github.com/suliveevil/Capslock",
-    "hostpage": "https://pqrs.org/osx/karabiner/complex_modifications/",
-    "manual": "https://github.com/suliveevil/Capslock/tree/master/mac",
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json",
     "rules": [
         {
@@ -2684,6 +2682,33 @@
                         }
                     ],
                     "type": "basic"
+                }
+            ]
+        },
+        {
+            "description": "Remap Esc to Option+Esc in Safari only",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "escape"
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontsmost_application_if",
+                            "bundle_identifiers": [
+                                "com.apple.Safari"
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "escape",
+                            "modifiers": [
+                                "left_option"
+                            ]
+                        }
+                    ]
                 }
             ]
         }
