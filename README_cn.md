@@ -167,27 +167,40 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 
 | Origin | Maps to        | Comment                  |
 | ------: | -------------- | ------------------------ |
+| <kbd>⌘</kbd> <kbd>0</kbd>    | <kbd>⌘</kbd><kbd>←</kbd> 左箭头  | 光标移动到行首         |
+| <kbd>⌘</kbd> <kbd>4($)</kbd>    | <kbd>⌘</kbd> <kbd>→</kbd> 下箭头  | 光标移动到行末          |
 | <kbd>H</kbd>    | <kbd>←</kbd> 左箭头  | 光标左移         |
 | <kbd>J</kbd>    | <kbd>↓</kbd> 下箭头  | 光标下移          |
 | <kbd>K</kbd>    | <kbd>↑</kbd> 上箭头    | 光标上移        |
 | <kbd>L</kbd>    | <kbd>→</kbd> 右箭头 | 光标右移           |
-| <kbd>U</kbd>    | <kbd>⇞</kbd> PageUp     | 光标向上翻页   |
-| <kbd>I</kbd>    | <kbd>↖</kbd> Home       | 光标移动到行首 |
-| <kbd>O</kbd>    | <kbd>↘</kbd>  End       | 光标移动到行末 |
-| <kbd>P</kbd>    | <kbd>⇟</kbd> PageDn     | 光标向下翻页   |
-|  <kbd>⌃</kbd> <kbd>H</kbd>    | <kbd>⌃</kbd> <kbd>←</kbd> 左箭头  | expose all      |
-|  <kbd>⌃</kbd> <kbd>J</kbd>    | <kbd>⌃</kbd> <kbd>↓</kbd> 下箭头  | 应用程序窗口 ~~show desktops~~  |
-|  <kbd>⌃</kbd> <kbd>K</kbd>    | <kbd>⌃</kbd> <kbd>↑</kbd> 上箭头    | 转到上一桌面    |
-|  <kbd>⌃</kbd> <kbd>L</kbd>    | <kbd>⌃</kbd> <kbd>→</kbd> 右箭头 | 转到下一桌面   |
 | <kbd>⌘</kbd> <kbd>H</kbd>    | <kbd>⇧</kbd><kbd>←</kbd> 左箭头  | 光标左移并选择         |
 | <kbd>⌘</kbd> <kbd>J</kbd>    | <kbd>⇧</kbd> <kbd>↓</kbd> 下箭头  | 光标下移并选择          |
 | <kbd>⌘</kbd> <kbd>K</kbd>    | <kbd>⇧</kbd> <kbd>↑</kbd> 上箭头    | 光标上移并选择        |
 | <kbd>⌘</kbd> <kbd>L</kbd>    | <kbd>⇧</kbd> <kbd>→</kbd> 右箭头 | 光标右移并选择          |
-|  <kbd>⌥</kbd> <kbd>H</kbd>    | <kbd>←</kbd> 左箭头  | 光标左移     |
-|  <kbd>⌥</kbd> <kbd>J</kbd>    | <kbd>↓</kbd> 下箭头  | 光标下移      |
-|  <kbd>⌥</kbd> <kbd>K</kbd>    | <kbd>↑</kbd> 上箭头    | 光标上移    |
-|  <kbd>⌥</kbd> <kbd>L</kbd>    | <kbd>→</kbd> 右箭头 | 光标右移   |
-
+|  <kbd>⌥</kbd> <kbd>H</kbd>    | <kbd>←</kbd> 左箭头  | <kbd>⌥</kbd> <kbd>←</kbd> |
+|  <kbd>⌥</kbd> <kbd>J</kbd>    | <kbd>↓</kbd> 下箭头  | <kbd>⌥</kbd> <kbd>↓</kbd> |
+|  <kbd>⌥</kbd> <kbd>K</kbd>    | <kbd>↑</kbd> 上箭头    | <kbd>⌥</kbd> <kbd>↑</kbd> |
+|  <kbd>⌥</kbd> <kbd>L</kbd>    | <kbd>→</kbd> 右箭头 | <kbd>⌥</kbd> <kbd>→</kbd> |
+|  <kbd>⌃</kbd> <kbd>H</kbd>    | <kbd>⌃</kbd> <kbd>←</kbd> 左箭头  | expose all      |
+|  <kbd>⌃</kbd> <kbd>J</kbd>    | <kbd>⌃</kbd> <kbd>↓</kbd> 下箭头  | 应用程序窗口 ~~show desktops~~  |
+|  <kbd>⌃</kbd> <kbd>K</kbd>    | <kbd>⌃</kbd> <kbd>↑</kbd> 上箭头    | 转到上一桌面    |
+|  <kbd>⌃</kbd> <kbd>L</kbd>    | <kbd>⌃</kbd> <kbd>→</kbd> 右箭头 | 转到下一桌面   |
+| <kbd>U</kbd>    | <kbd>⇞</kbd> PageUp     | 光标向上翻页   |
+| <kbd>I</kbd>    | <kbd>↖</kbd> Home       | 光标移动到行首 |
+| <kbd>O</kbd>    | <kbd>↘</kbd>  End       | 光标移动到行末 |
+| <kbd>P</kbd>    | <kbd>⇟</kbd> PageDn     | 光标向下翻页   |
+| <kbd>⌘</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌘</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌘</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌘</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | 鼠标左移 |
+| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | 鼠标右移 |
+| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | 鼠标上移 |
+| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | 鼠标右移 |
+| <kbd>⌃</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌃</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌃</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌃</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 
 </details>
 
@@ -198,7 +211,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <summary>details</summary>
 
 * 用键盘模拟鼠标
-* Also can be achieved by <kbd>⌥</kbd>  with <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 
+* Also can be achieved by <kbd>⌥</kbd>  with <kbd>U</kbd> <kbd>I</kbd> <kbd>O</kbd> <kbd>P</kbd> 
 
 | Origin | Maps to        | Comment                  |
 | ------: | -------------- | ------------------------ |
@@ -282,8 +295,8 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 
 | Origin | Maps to      | Comment                       |
 | -----: | ------------ | ----------------------------- |
-| <kbd>⌘</kbd> <kbd>E</kbd> | 打开 Safari | 打开网页浏览器  |
 | <kbd>E</kbd>          | 打开访达 | 打开文件浏览器  |
+| <kbd>⌘</kbd> <kbd>E</kbd> | 打开 Safari | 打开网页浏览器  |
 | <kbd>R</kbd>    | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
 | <kbd>⌘</kbd> <kbd>R</kbd>   | 打开PyCharm | PyCharm |
 | <kbd>T</kbd>    | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |

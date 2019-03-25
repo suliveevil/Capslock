@@ -5,7 +5,7 @@
 # ultimate macOS [**中文**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
 
 
-*Make <kbd>CapsLock</kbd> Great Again!*  
+forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>CapsLock</kbd> Great Again!*  
 
 ![](images/trump.jpg)
 
@@ -93,6 +93,8 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 
 | Origin  | Maps to         | Comment                    |
 | -----:  | --------------  | ------------------------   |
+| <kbd>⌘</kbd><kbd>0</kbd>    | <kbd>⌘</kbd><kbd>←</kbd> LeftArrow  | cursor move to the begin of the line  |
+| <kbd>⌘</kbd><kbd>4($)</kbd>    | <kbd>⌘</kbd><kbd>→</kbd> RightArrow | cursor move to the end of the line |
 | <kbd>H</kbd>                | <kbd>←</kbd> LeftArrow              | cursor left                |
 | <kbd>J</kbd>                | <kbd>↓</kbd> DownArrow              | cursor down                |
 | <kbd>K</kbd>                | <kbd>↑</kbd> UpArrow                | cursor up                  |
@@ -101,10 +103,10 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘</kbd><kbd>J</kbd>    | <kbd>⇧</kbd><kbd>↓</kbd> DownArrow  | cursor down and selection  |
 | <kbd>⌘</kbd><kbd>K</kbd>    | <kbd>⇧</kbd><kbd>↑</kbd> UpArrow    | cursor up and selection    |
 | <kbd>⌘</kbd><kbd>L</kbd>    | <kbd>⇧</kbd><kbd>→</kbd> RightArrow | cursor right and selection |
-| <kbd>⌥</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow              | mouse left                 |
-| <kbd>⌥</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow              | mouse down                 |
-| <kbd>⌥</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow                | mouse up                   |
-| <kbd>⌥</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow             | mouse right                |
+| <kbd>⌥</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow              | <kbd>⌥</kbd> <kbd>←</kbd> |
+| <kbd>⌥</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow              | <kbd>⌥</kbd> <kbd>↓</kbd> |
+| <kbd>⌥</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow                | <kbd>⌥</kbd> <kbd>↑</kbd> |
+| <kbd>⌥</kbd><kbd>L</kbd>    | <kbd>→</kbd> RightArrow             | <kbd>⌥</kbd> <kbd>→</kbd> |
 | <kbd>⌃</kbd><kbd>H</kbd>    | <kbd>←</kbd> LeftArrow              | expose all                 |
 | <kbd>⌃</kbd><kbd>J</kbd>    | <kbd>↓</kbd> DownArrow              | show desktops              |
 | <kbd>⌃</kbd><kbd>K</kbd>    | <kbd>↑</kbd> UpArrow                | switch prev desktop        |
@@ -117,10 +119,10 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌘</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌘</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | mouse left |
+| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | mouse down |
+| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | mouse up |
+| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | mouse right |
 | <kbd>⌃</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌃</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌃</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
@@ -136,7 +138,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <summary>details</summary>
 
 * Emulate mouse with keyboard
-* Also can be archived by <kbd>⌥</kbd>  with <kbd>H</kbd><kbd>J</kbd><kbd>K</kbd><kbd>L</kbd>
+* Also can be archived by <kbd>⌥</kbd>  with <kbd>U</kbd><kbd>I</kbd><kbd>O</kbd><kbd>P</kbd>
 
 | Origin | Maps to        | Comment                  |
 | -----: | -------------- | ------------------------ |
@@ -215,8 +217,8 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 
 | Origin | Maps to                 | Comment                                         |
 | -----: | ----------------------- | ----------------------------------------------- |
-| <kbd>⌘E</kbd>             | Open Safari             | Open Web Browser                                |
 | <kbd>E</kbd>              | Open **Finder**         | Open File Browser                               |
+| <kbd>⌘E</kbd>             | Open Safari             | Open Web Browser                                |
 | <kbd>R</kbd>              | Open **iTerm2**         | Great terminal for osx (`Run`)                  |
 | <kbd>⌘R</kbd>             | Open Pycharm            | Open IDE                                        |
 | <kbd>T</kbd>              | Open **Visual Studio Code** | Text Editor: Visual Studio Code             |
