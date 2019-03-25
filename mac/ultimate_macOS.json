@@ -2679,33 +2679,6 @@
                     "type": "basic"
                 }
             ]
-        },
-        {
-            "description": "Safari: Remap Esc to Option+Esc",
-            "manipulators": [
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "escape"
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontsmost_application_if",
-                            "bundle_identifiers": [
-                                "^com.apple.Safari"
-                            ]
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "escape",
-                            "modifiers": [
-                                "left_option"
-                            ]
-                        }
-                    ]
-                }
-            ]
         }
     ]
 }
