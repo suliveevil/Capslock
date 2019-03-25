@@ -2681,7 +2681,7 @@
             ]
         },
         {
-            "description": "Remap Esc to Option+Esc in Safari only",
+            "description": "Safari: Remap Esc to Option+Esc",
             "manipulators": [
                 {
                     "type": "basic",
