@@ -8,13 +8,13 @@
 <summary>Beginner Text Navigation</summary>
 
 | 操作 | 目的                 | why                                                          |
-| ---- | -------------------- | ------------------------------------------------------------ |
+| ----: | -------------------- | ------------------------------------------------------------ |
 | <kbd>h</kbd>    | <kbd>←</kbd>向左移动**一个字符** | 当 Bill Joy 创建 Vi 文本编辑器时，他使用的机器机器是 ADM-3A 终端机。|
 | <kbd>j</kbd>    | <kbd>↓</kbd>向下移动**一行** | ADM-3A 把 HJKL 键作为方向键。<kbd>←</kbd> <kbd>↓</kbd> <kbd>↑</kbd> <kbd>→</kbd> |
 | <kbd>k</kbd>    | <kbd>↑</kbd> 向上移动**一行**       | 当时的 <kbd>Esc</kbd> 在 <kbd>Q</kbd> 的左边，Home 键 <kbd>～</kbd> 在键盘右上角 |
 | <kbd>l</kbd>    | <kbd>→</kbd> 向右移动**一个字符**     |                                                              |
 | <kbd>e</kbd> | 移动到单词**末尾** | Move to **end** of word |
-| <kbd>b</kbd> | 移动到单词**开始**** | Move to **beginning** of word |
+| <kbd>b</kbd> | 移动到单词**开始** | Move to **beginning** of word |
 | <kbd>$</kbd> | 移动到行尾 | Move to **end** of line |
 | <kbd>0</kbd> | 移动到行首 | Move to **beginning** of line |
 | <kbd>⇧</kbd> <kbd>H</kbd> | 移动到屏幕显示的首行 | Move to first line(**head**) of screen |
@@ -60,7 +60,7 @@
 <summary>Intermediate Text Navigation 2</summary>
 
 | 操作 | 目的                 | why                                                          |
-| ---- | -------------------- | ------------------------------------------------------------ |
+| ----: | -------------------- | ------------------------------------------------------------ |
 | <kbd>5</kbd> <kbd>w</kbd> | | Move 5 words forward |
 | <kbd>5</kbd> <kbd>b</kbd> | | Move 5 words backward |
 | <kbd>⌃</kbd> <kbd>e</kbd> | | Scroll down |
@@ -78,7 +78,7 @@
 <summary>Intermediate Text Editing 2</summary>
 
 | 操作 | 目的  | why     |
-| ---- | ----- | ------ |
+| ----: | ----- | ------ |
 | <kbd>⇧</kbd><kbd>p</kbd> | 粘贴到光标之前 | **Paste** before cursor |
 | <kbd>u</kbd> | 撤销操作 |**Undo** |
 | <kbd>⇧</kbd><kbd>U</kbd> | 撤销对当前行的所有操作 |**Undo** all changes to current line |
@@ -95,7 +95,7 @@
 <summary>Advanced Text Navigation</summary>
 
 | 操作 | 目的  | why     |
-| ---- | ----- | ------ |
+| ----: | ----- | ------ |
 | <kbd>⌃</kbd> | | Move to first non whitespace char |
 | <kbd>2</kbd> <kbd>0</kbd> <kbd>l</kbd> | | Go to column 20 |
 | <kbd>%</kbd> | | Go to matching parenthesis or brackets |
@@ -129,7 +129,7 @@
 <summary>Window Management</summary>
 
 | 操作 | 目的  | why     |
-| ---- | ----- | ------ |
+| ----: | ----- | ------ |
 | `:e FileName` <kbd>↵</kbd> | | Set current buffer to 'FileName' |
 | `:sp`  <kbd>↵</kbd>| | New window above |
 | `:vs`  <kbd>↵</kbd>| | New window to left |
@@ -142,7 +142,7 @@
 <summary>File Management</summary>
 
 | 操作 | 目的  | why     |
-| ---- | ----- | ------ |
+| ----: | ----- | ------ |
 | `:q!` <kbd>↵</kbd> | | Quit without saving |
 | `:wq` <kbd>↵</kbd> | | Save(**Write**) and exit |
 | `:w !sudo tee %`| 追加 sudo 权限 | [How does the vim “write with sudo trick work?”](https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work) |
