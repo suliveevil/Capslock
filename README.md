@@ -21,13 +21,12 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>Ca
 * Well-Designed:  High-Freq key in hot-area. Bring lots of useful functionalities.
 * Compatiable: Work well with other modifiers, appliactions, devices.
 * Light-Weight:  Just a small script, carry it everywhere !
-* [Design Document](design.md)
-
+* [Design Document](design.md) 
+* [KeyRemap Document](mac/ultimate_macOS.key)
 
 ### Platforms
 
 - [CapsLock(Mac)](mac/)  via  [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
-
   - macOS Mojave (10.14)
   - macOS High Sierra (10.13)
   - macOS Sierra (10.12)
