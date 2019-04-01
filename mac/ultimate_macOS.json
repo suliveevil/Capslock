@@ -2194,7 +2194,7 @@
             ]
         },
         {
-            "description": "Hyper Shifter(ultimate macOS version: 1554149862)",
+            "description": "Hyper Shifter (ultimate macOS version: 1554150056)",
             "manipulators": [
                 {
                     "from": {
@@ -2591,7 +2591,7 @@
             ]
         },
         {
-            "description": "Hyper Misc (Check https://github.com/suliveevil/Capslock for all details)",
+            "description": "Hyper Misc    (Check https://github.com/suliveevil/Capslock for all details)",
             "manipulators": [
                 {
                     "type": "basic",
