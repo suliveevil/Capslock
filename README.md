@@ -291,8 +291,8 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>0</kbd>                           | <kbd>)</kbd>     | Right Round Bracket      |
 | <kbd>-</kbd> Minus                     | <kbd>_</kbd>     | Hyphen                   |
 | <kbd>=</kbd> Equal                     | <kbd>+</kbd>     | Plus                     |
-| <kbd>[</kbd> Left Bracket              | <kbd>(</kbd>     | Left Round Bracket `⇧9`  |
-| <kbd>]</kbd>  Right Bracket            | <kbd>)</kbd>     | Right Round Bracket `⇧0` |
+| <kbd>[</kbd> Left Bracket              | <kbd>{</kbd>     | Left Bracket <kbd>⇧</kbd> <kbd>{[</kbd>  |
+| <kbd>]</kbd>  Right Bracket            | <kbd>}</kbd>     | Right Bracket <kbd>⇧</kbd> <kbd>}]</kbd>  |
 | <kbd>;</kbd> Semicolon                 | <kbd>!</kbd>     | Exclamation              |
 | <kbd>'</kbd> Single Quote              | <kbd>=</kbd>     | EqualSign                |
 | <kbd>⌘</kbd><kbd>;</kbd> Semicolon     | <kbd>!</kbd>     | Colon                    |

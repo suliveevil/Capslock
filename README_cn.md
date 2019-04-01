@@ -370,8 +370,8 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>0</kbd>                | <kbd>)</kbd>     | 右括号   |
 | <kbd>-</kbd> Minus          | <kbd>_</kbd>     | Hyphen                   |
 | <kbd>=</kbd> Equal          | <kbd>+</kbd>     | Plus                     |
-| <kbd>[</kbd> Left Bracket   | <kbd>(</kbd>     | 左括号  <kbd>⇧</kbd><kbd>9</kbd> |
-| <kbd>]</kbd>  Right Bracket | <kbd>)</kbd>     | 右括号 <kbd>⇧</kbd><kbd>0</kbd> |
+| <kbd>[</kbd> Left Bracket              | <kbd>{</kbd>     | 左花括号 <kbd>⇧</kbd> <kbd>{[</kbd>  |
+| <kbd>]</kbd>  Right Bracket            | <kbd>}</kbd>     | 右花括号 <kbd>⇧</kbd> <kbd>}]</kbd>  |
 | <kbd>;</kbd> Semicolon      | <kbd>!</kbd>     | Exclamation              |
 | <kbd>'</kbd> Single Quote   | <kbd>=</kbd>     | EqualSign                |
 | <kbd>⌘</kbd> <kbd>;</kbd> Semicolon     | <kbd>!</kbd>     | Colon                    |
