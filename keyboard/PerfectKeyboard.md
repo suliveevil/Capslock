@@ -6,17 +6,35 @@
 
 ## 可编程
 
-多 layer
+多层编程
 
 
 
 ## 蓝牙/有线双模 键线分离
 
-蓝牙 5.0 及以上
+### 蓝牙 5.0 及以上
 
-USB Type-C
+
+
+### USB Type-C
+
+
 
 ## 键位
+
+
+
+### 标准键位
+
+### 特殊键位
+
+## 形态
+
+### 标准
+
+### 分体
+
+ultimate hacking keyboard
 
 
 
@@ -24,11 +42,22 @@ USB Type-C
 
 ## 候选名单
 
+### Ultimate Hacking Keyboard + 小红点（TrackPoint）或 mini 轨迹球
+
+[终于等到你，Ultimate Hacking Keyboard分体键盘 - Chiphell](https://www.chiphell.com/thread-1901752-1-1.html)
+
+
+
+
 ### Chicory 40% 蓝牙/有线双模（DIY）
 
 
 
 ### Vortexgear Core
+
+
+
+### IKBC Poker 系列
 
 
 
