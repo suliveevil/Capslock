@@ -1,13 +1,11 @@
 {
-    "title": "fn + ultimate macOS",
+    "title": "ultimate macOS",
     "author": "suliveevil(suliveevil@outlook.com)",
     "homepage": "https://github.com/suliveevil/Capslock",
-    "hostpage": "https://pqrs.org/osx/karabiner/complex_modifications/",
-    "manual": "https://github.com/suliveevil/Capslock/tree/master/mac",
-    "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/fn.json",
+    "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json",
     "rules": [
         {
-            "description": "IKBC C87 Change left_command to left_option",
+            "description": "Device: IKBC C87: Swap Win/Command and Alt/Option",
             "manipulators": [
                 {
                     "type": "basic",
@@ -35,12 +33,7 @@
                             "key_code": "left_option"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "description": "IKBC C87 Change left_option to left_command",
-            "manipulators": [
+                },
                 {
                     "type": "basic",
                     "from": {
@@ -65,6 +58,60 @@
                     "to": [
                         {
                             "key_code": "left_command"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "right_command",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "device_if",
+                            "identifiers": [
+                                {
+                                    "product_id": 31235,
+                                    "vendor_id": 1547
+                                }
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "right_option"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "right_option",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "device_if",
+                            "identifiers": [
+                                {
+                                    "product_id": 31235,
+                                    "vendor_id": 1547
+                                }
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "right_command"
                         }
                     ]
                 }
@@ -102,7 +149,7 @@
             ]
         },
         {
-            "description": "Hyper Navigation",
+            "description": "Hyper Navigation: 0 4($) HJKL UIOP",
             "manipulators": [
                 {
                     "from": {
@@ -875,7 +922,7 @@
             ]
         },
         {
-            "description": "Hyper Mousekey",
+            "description": "Hyper Mousekey: ←↓↑→",
             "manipulators": [
                 {
                     "from": {
@@ -1003,7 +1050,7 @@
             ]
         },
         {
-            "description": "Hyper Deletion",
+            "description": "Hyper Deletion: N M , .",
             "manipulators": [
                 {
                     "from": {
@@ -1136,7 +1183,7 @@
             ]
         },
         {
-            "description": "Hyper Window Control",
+            "description": "Hyper Window Control: ⇥ QWASD",
             "manipulators": [
                 {
                     "from": {
@@ -1345,8 +1392,30 @@
             ]
         },
         {
-            "description": "Hyper Bash Control",
+            "description": "Hyper Bash Control: D ZXCVB",
             "manipulators": [
+                {
+                    "from": {
+                        "key_code": "d",
+                        "modifiers": {
+                            "mandatory": [
+                                "right_command",
+                                "right_control",
+                                "right_shift",
+                                "right_option"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "d",
+                            "modifiers": [
+                                "left_control"
+                            ]
+                        }
+                    ],
+                    "type": "basic"
+                },
                 {
                     "from": {
                         "key_code": "z",
@@ -1456,33 +1525,11 @@
                         }
                     ],
                     "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "d",
-                        "modifiers": {
-                            "mandatory": [
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "d",
-                            "modifiers": [
-                                "left_control"
-                            ]
-                        }
-                    ],
-                    "type": "basic"
                 }
             ]
         },
         {
-            "description": "Hyper Application (held down CapsLock+G to Fn)",
+            "description": "Hyper Application (held down hyper+g to Fn)",
             "manipulators": [
                 {
                     "from": {
@@ -1538,7 +1585,7 @@
                     },
                     "to": [
                         {
-                            "shell_command": "open -a 'PyCharm'"
+                            "shell_command": "open -b com.jetbrains.pycharm"
                         }
                     ],
                     "type": "basic"
@@ -1616,6 +1663,25 @@
                     "to": [
                         {
                             "shell_command": "open -a 'Siri'"
+                        }
+                    ],
+                    "type": "basic"
+                },
+                {
+                    "from": {
+                        "key_code": "f",
+                        "modifiers": {
+                            "mandatory": [
+                                "right_command",
+                                "right_control",
+                                "right_shift",
+                                "right_option"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "shell_command": "open -b com.runningwithcrayons.Alfred-3"
                         }
                     ],
                     "type": "basic"
@@ -2128,7 +2194,7 @@
             ]
         },
         {
-            "description": "Hyper Shifter",
+            "description": "Hyper Shifter (ultimate macOS version: 1554153122)",
             "manipulators": [
                 {
                     "from": {
@@ -2408,7 +2474,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "9",
+                            "key_code": "open_bracket",
                             "modifiers": [
                                 "left_shift"
                             ]
@@ -2430,7 +2496,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "0",
+                            "key_code": "close_bracket",
                             "modifiers": [
                                 "left_shift"
                             ]
@@ -2525,7 +2591,7 @@
             ]
         },
         {
-            "description": "Hyper Misc (Check https://github.com/suliveevil/Capslock for all details)",
+            "description": "Hyper Misc    (Check https://github.com/suliveevil/Capslock for all details)",
             "manipulators": [
                 {
                     "type": "basic",
