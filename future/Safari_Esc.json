@@ -1,5 +1,8 @@
 {
     "title": "Don't exit fullscreen when pressing ESC in Safari",
+    "author": "suliveevil(suliveevil@outlook.com)",
+    "homepage": "https://github.com/suliveevil/Capslock",
+    "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/future/Safari_Esc.json",
     "rules": [
         {
             "description": "Remap ESC to Option-ESC in Safari only",
@@ -20,7 +23,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com.apple.Safari"
+                                "^com\\.apple\\.Safari$"
                             ]
                         }
                     ],
