@@ -1175,6 +1175,7 @@
                         "key_code": "d",
                         "modifiers": {
                             "mandatory": [
+                                "left_option",
                                 "right_command",
                                 "right_control",
                                 "right_shift",
