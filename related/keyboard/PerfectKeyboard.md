@@ -1,10 +1,12 @@
 # PerfectKeyboard 完美键盘
 
+[TOC]
+
 
 
 ## 可编程
 
-
+多 layer
 
 
 
@@ -14,11 +16,21 @@
 
 USB Type-C
 
+## 键位
+
 
 
 
 
 ## 候选名单
+
+### Chicory 40% 蓝牙/有线双模（DIY）
+
+
+
+### Vortexgear Core
+
+
 
 
 
