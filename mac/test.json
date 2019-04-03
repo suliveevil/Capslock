@@ -1,8 +1,8 @@
 {
-    "title": "ultimate macOS",
+    "title": "test ultimate_macOS",
     "author": "suliveevil(suliveevil@outlook.com)",
     "homepage": "https://github.com/suliveevil/Capslock",
-    "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json",
+    "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/test.json",
     "rules": [
         {
             "description": "Device: IKBC C87: Swap Win/Command and Alt/Option",
@@ -691,28 +691,6 @@
                         "key_code": "u",
                         "modifiers": {
                             "mandatory": [
-                                "left_option",
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "x": -345
-                            }
-                        }
-                    ],
-                    "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "u",
-                        "modifiers": {
-                            "mandatory": [
                                 "right_command",
                                 "right_control",
                                 "right_shift",
@@ -746,28 +724,6 @@
                             "modifiers": [
                                 "left_shift"
                             ]
-                        }
-                    ],
-                    "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "i",
-                        "modifiers": {
-                            "mandatory": [
-                                "left_option",
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "y": 345
-                            }
                         }
                     ],
                     "type": "basic"
@@ -819,28 +775,6 @@
                         "key_code": "o",
                         "modifiers": {
                             "mandatory": [
-                                "left_option",
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "y": -345
-                            }
-                        }
-                    ],
-                    "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "o",
-                        "modifiers": {
-                            "mandatory": [
                                 "right_command",
                                 "right_control",
                                 "right_shift",
@@ -874,28 +808,6 @@
                             "modifiers": [
                                 "left_shift"
                             ]
-                        }
-                    ],
-                    "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "p",
-                        "modifiers": {
-                            "mandatory": [
-                                "left_option",
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "x": 345
-                            }
                         }
                     ],
                     "type": "basic"
