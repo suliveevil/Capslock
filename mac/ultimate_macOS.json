@@ -1129,6 +1129,28 @@
                         "key_code": "s",
                         "modifiers": {
                             "mandatory": [
+                                "right_command",
+                                "right_control",
+                                "right_shift",
+                                "right_option"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "tab",
+                            "modifiers": [
+                                "left_control"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "s",
+                        "modifiers": {
+                            "mandatory": [
                                 "left_command",
                                 "right_command",
                                 "right_control",
@@ -1150,32 +1172,9 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "s",
-                        "modifiers": {
-                            "mandatory": [
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "tab",
-                            "modifiers": [
-                                "left_control"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
                         "key_code": "d",
                         "modifiers": {
                             "mandatory": [
-                                "left_command",
                                 "right_command",
                                 "right_control",
                                 "right_shift",
@@ -1185,7 +1184,7 @@
                     },
                     "to": [
                         {
-                            "shell_command": "open -a 'Dictionary'"
+                            "key_code": "f11"
                         }
                     ]
                 }
@@ -1464,6 +1463,26 @@
                     "to": [
                         {
                             "shell_command": "open -a 'Siri'"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "d",
+                        "modifiers": {
+                            "mandatory": [
+                                "left_command",
+                                "right_command",
+                                "right_control",
+                                "right_shift",
+                                "right_option"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "shell_command": "open -a 'Dictionary'"
                         }
                     ]
                 },
