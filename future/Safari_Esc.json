@@ -1,7 +1,5 @@
 {
     "title": "Don't exit fullscreen when pressing ESC in Safari",
-    "author": "suliveevil(suliveevil@outlook.com)",
-    "homepage": "https://github.com/suliveevil/Capslock",
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/future/Safari_Esc.json",
     "rules": [
         {
@@ -31,6 +29,119 @@
                             "modifiers": [
                                 "left_option"
                             ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Remap Capslock+ASDW to ←↓→↑",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "a",
+                        "modifiers": {
+                            "key_code": [
+                                "caps_lock"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^com\\.sublimetext\\.3$"
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "left_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "s",
+                        "modifiers": {
+                            "key_code": [
+                                "caps_lock"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^com\\.sublimetext\\.3$"
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "down_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "d",
+                        "modifiers": {
+                            "key_code": [
+                                "caps_lock"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^com\\.sublimetext\\.3$"
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "right_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "w",
+                        "modifiers": {
+                            "key_code": [
+                                "caps_lock"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^com\\.sublimetext\\.3$"
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "up_arrow"
                         }
                     ]
                 }
