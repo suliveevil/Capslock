@@ -5,7 +5,7 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/future/Safari_Esc.json",
     "rules": [
         {
-            "description": "Remap ESC to Option-ESC in Safari only",
+            "description": "Remap ESC to Option-ESC in Safari only(version: 1554334211)",
             "manipulators": [
                 {
                     "from": {
