@@ -203,6 +203,25 @@
                         "key_code": "h",
                         "modifiers": {
                             "mandatory": [
+                                "right_command",
+                                "right_control",
+                                "right_shift",
+                                "right_option"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "left_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "h",
+                        "modifiers": {
+                            "mandatory": [
                                 "left_command",
                                 "right_command",
                                 "right_control",
@@ -287,25 +306,6 @@
                                 "left_control",
                                 "left_shift"
                             ]
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "h",
-                        "modifiers": {
-                            "mandatory": [
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "left_arrow"
                         }
                     ]
                 },
