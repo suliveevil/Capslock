@@ -814,6 +814,25 @@
                         "key_code": "return_or_enter",
                         "modifiers": {
                             "mandatory": [
+                                "right_command",
+                                "right_control",
+                                "right_shift",
+                                "right_option"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "pointing_button": "button1"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "return_or_enter",
+                        "modifiers": {
+                            "mandatory": [
                                 "left_command",
                                 "right_command",
                                 "right_control",
@@ -825,25 +844,6 @@
                     "to": [
                         {
                             "pointing_button": "button2"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "return_or_enter",
-                        "modifiers": {
-                            "mandatory": [
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "pointing_button": "button1"
                         }
                     ]
                 }
