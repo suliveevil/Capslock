@@ -8,17 +8,15 @@
             "description": "Remap ESC to Option-ESC in Safari only(version: 1554334211)",
             "manipulators": [
                 {
+                    "type": "basic",
                     "from": {
-                        "key_code": "escape"
-                    },
-                    "to": [
-                        {
-                            "key_code": "escape",
-                            "modifiers": [
-                                "left_option"
+                        "key_code": "escape",
+                        "modifiers": {
+                            "optional": [
+                                "any"
                             ]
                         }
-                    ],
+                    },
                     "conditions": [
                         {
                             "type": "frontmost_application_if",
@@ -27,7 +25,14 @@
                             ]
                         }
                     ],
-                    "type": "basic"
+                    "to": [
+                        {
+                            "key_code": "escape",
+                            "modifiers": [
+                                "left_option"
+                            ]
+                        }
+                    ]
                 }
             ]
         }
