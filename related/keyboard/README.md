@@ -46,7 +46,7 @@ CW40 的配列升级，增加双空格支持
 
 预留i2c、SPI、ISP接口，增加板子扩展性（基于SPI的蓝牙固件正在开发中，如果动手能力强的可以将Daisy改为蓝牙有线双模）
 
-
+### Vortexgear Core
 
 
 
@@ -55,5 +55,8 @@ CW40 的配列升级，增加双空格支持
 [Daisy键盘简介 - 简书](https://www.jianshu.com/p/ee834787c5eb)
 
 [TMK Keymap Generator](https://kai.tkg.io/)
+
+[TMK Keymap Generator](http://yang.tkg.io/)
+
 
 [Daisy 刷机指南 - 简书](https://www.jianshu.com/p/1602dbb75e39)
