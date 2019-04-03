@@ -3,7 +3,7 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/future/Safari_Esc.json",
     "rules": [
         {
-            "description": "Remap ESC to Option-ESC in Safari only(version: 1554334211)",
+            "description": "Remap ESC to Option-ESC in Safari only(version: 1554335729)",
             "manipulators": [
                 {
                     "type": "basic",
@@ -25,18 +25,42 @@
                     ],
                     "to": [
                         {
-                            "key_code": "escape",
-                            "modifiers": [
-                                "left_option"
-                            ]
+                            "key_code": "left_option"
                         }
                     ]
                 }
             ]
         },
         {
-            "description": "Remap Capslock+ASDW to ←↓→↑",
+            "description": "Remap Capslock+ASDW to ←↓→↑ in Sunlime Text 3",
             "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "w",
+                        "modifiers": {
+                            "key_code": [
+                                "caps_lock"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^com\\.sublimetext\\.3$"
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "up_arrow"
+                        }
+                    ]
+                },
                 {
                     "type": "basic",
                     "from": {
@@ -115,33 +139,6 @@
                     "to": [
                         {
                             "key_code": "right_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "w",
-                        "modifiers": {
-                            "key_code": [
-                                "caps_lock"
-                            ],
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^com\\.sublimetext\\.3$"
-                            ]
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "up_arrow"
                         }
                     ]
                 }
