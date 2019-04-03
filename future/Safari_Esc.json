@@ -1,5 +1,5 @@
 {
-    "title": "Don't exit fullscreen when pressing ESC in Safari",
+    "title": "test frontmost application",
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/future/Safari_Esc.json",
     "rules": [
         {
