@@ -691,28 +691,6 @@
                         "key_code": "u",
                         "modifiers": {
                             "mandatory": [
-                                "left_option",
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "x": -345
-                            }
-                        }
-                    ],
-                    "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "u",
-                        "modifiers": {
-                            "mandatory": [
                                 "right_command",
                                 "right_control",
                                 "right_shift",
@@ -746,28 +724,6 @@
                             "modifiers": [
                                 "left_shift"
                             ]
-                        }
-                    ],
-                    "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "i",
-                        "modifiers": {
-                            "mandatory": [
-                                "left_option",
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "y": 345
-                            }
                         }
                     ],
                     "type": "basic"
@@ -819,28 +775,6 @@
                         "key_code": "o",
                         "modifiers": {
                             "mandatory": [
-                                "left_option",
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "y": -345
-                            }
-                        }
-                    ],
-                    "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "o",
-                        "modifiers": {
-                            "mandatory": [
                                 "right_command",
                                 "right_control",
                                 "right_shift",
@@ -883,28 +817,6 @@
                         "key_code": "p",
                         "modifiers": {
                             "mandatory": [
-                                "left_option",
-                                "right_command",
-                                "right_control",
-                                "right_shift",
-                                "right_option"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "x": 345
-                            }
-                        }
-                    ],
-                    "type": "basic"
-                },
-                {
-                    "from": {
-                        "key_code": "p",
-                        "modifiers": {
-                            "mandatory": [
                                 "right_command",
                                 "right_control",
                                 "right_shift",
@@ -922,7 +834,7 @@
             ]
         },
         {
-            "description": "Hyper Mousekey: ←↓↑→",
+            "description": "Hyper MouseMove: ←↓↑→",
             "manipulators": [
                 {
                     "from": {
@@ -2194,7 +2106,7 @@
             ]
         },
         {
-            "description": "Hyper Shifter (ultimate macOS version: 1554153122)",
+            "description": "Hyper Shifter (ultimate macOS version: 1554298432)",
             "manipulators": [
                 {
                     "from": {
