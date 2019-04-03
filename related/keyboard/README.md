@@ -2,14 +2,32 @@
 
 ## 104键
 
+## 90%
 
+### XD96
 
-## 87键
+## 80%
 
+### XD87
+
+### IKBC C87
+
+## 75%
+
+### XD84
 
 
 ## 60%
 
+### GH60
+
+### XD64
+
+### XD75Am
+
+## 50%
+
+### JJ50
 
 
 ## 40%
@@ -35,3 +53,7 @@ CW40 的配列升级，增加双空格支持
 ## 参考资料
 
 [Daisy键盘简介 - 简书](https://www.jianshu.com/p/ee834787c5eb)
+
+[TMK Keymap Generator](https://kai.tkg.io/)
+
+[Daisy 刷机指南 - 简书](https://www.jianshu.com/p/1602dbb75e39)
