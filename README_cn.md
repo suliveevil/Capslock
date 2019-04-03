@@ -193,10 +193,10 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌘</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌘</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | 鼠标左移 |
-| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | 鼠标右移 |
-| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | 鼠标上移 |
-| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | 鼠标右移 |
+| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌃</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌃</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌃</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
@@ -211,7 +211,6 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <summary>details</summary>
 
 * 用键盘模拟鼠标
-* Also can be achieved by <kbd>⌥</kbd>  with <kbd>U</kbd> <kbd>I</kbd> <kbd>O</kbd> <kbd>P</kbd> 
 
 | Origin | Maps to        | Comment                  |
 | ------: | -------------- | ------------------------ |

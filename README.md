@@ -118,10 +118,10 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌘</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌘</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
-| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | mouse left |
-| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | mouse down |
-| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | mouse up |
-| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | mouse right |
+| <kbd>⌥</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
+| <kbd>⌥</kbd><kbd>P</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌃</kbd><kbd>U</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌃</kbd><kbd>I</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
 | <kbd>⌃</kbd><kbd>O</kbd>   | <kbd>X</kbd><kbd>X</kbd>       | leave to other apps |
@@ -137,7 +137,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <summary>details</summary>
 
 * Emulate mouse with keyboard
-* Also can be archived by <kbd>⌥</kbd>  with <kbd>U</kbd><kbd>I</kbd><kbd>O</kbd><kbd>P</kbd>
+* ~~Also can be archived by <kbd>⌥</kbd>  with <kbd>U</kbd><kbd>I</kbd><kbd>O</kbd><kbd>P</kbd>~~
 
 | Origin | Maps to        | Comment                  |
 | -----: | -------------- | ------------------------ |
