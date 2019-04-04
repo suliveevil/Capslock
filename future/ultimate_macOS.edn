@@ -16,7 +16,13 @@
     {:devices {:IKBC-C87 [{:vendor_id 1547 :product_id 31235}]}
                :main [{:des "Swap Win/Command and Alt/Option"}
                :rules [[:##C :O] [:##O :C] [:##Q :E] [:##E :Q]]]}
-    {:main [{des "Capslock to Hyper/Escape" :rules [[] []}]}
+    {:main [{des "Capslock to Hyper/Escape" :rules [[:##caps_lock :!! nil {:alone :escape}]]}
+
+    ;;{:devices {:IKBC-C87 [{:vendor_id 1547 :product_id 31235}]}
+    ;; :main [{:des "Swap Win/Command and Alt/Option"}
+    ;; :rules [[:##C :O] [:##O :C] [:##Q :E] [:##E :Q]]]}
+
+
     "rules": [
         {
             :des "CapsLock to Hyper/Escape",
