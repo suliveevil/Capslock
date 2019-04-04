@@ -1,23 +1,14 @@
-![](images/function-overview.png)
-
-[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]() [![English]()](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
-
-# ultimate macOS 
+# ultimate（终极） macOS
 
 
 forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *让 <kbd>CapsLock</kbd> 更 NB！* 
 
-需要/可以改进的地方：
+[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]() [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-- [ ] **应用模块** 可以自定义
-- [ ] **鼠标移动** 需要重新设计
-
-
-![](images/trump.jpg)
+![](images/function-overview.png)
 
 
-
-## Why CapsLock
+## 为什么用 CapsLock 键
 
 ### 让 Capslock 成为一个 *Hyper* 键, 极大提高效率!
 
@@ -46,15 +37,13 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *让 <kbd>Cap
 
 1. 下载 [Karabiner-Elements](https://pqrs.org/osx/karabiner/) 并安装
 
-2. 拷贝下面的链接到浏览器来导入设置脚本。
-
-URL 直接安装 (在 Safari 中打开)
+2. 拷贝下面的链接到浏览器 (**在 Safari 中打开**)来导入配置文件。
 
 ```bash
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
 ```
 
-Karabiner-Elements 官方脚本库安装
+或者在 Karabiner-Elements 官方网站导入配置文件
 
 ```bash
 https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS

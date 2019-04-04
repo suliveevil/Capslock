@@ -4,9 +4,10 @@
 
 forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>CapsLock</kbd> Great Again!* 
 
+[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]()[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 ![](images/function-overview.png)
 
-[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]()
 
 
 ## Why <kbd>CapsLock</kbd>
@@ -22,7 +23,7 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>Ca
 
 ### Platforms
 
-- [CapsLock(Mac)](mac/)  via  [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
+- [ultimate macOS](mac/)  via  [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
   - macOS Mojave (10.14)
   - macOS High Sierra (10.13)
   - macOS Sierra (10.12)
@@ -33,18 +34,15 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>Ca
 
 1. Download [Karabiner-Elements](https://pqrs.org/osx/karabiner/) and Install
 
-2. Copy URL to your browser to import configuration script.
-
-This Repo (open in safari)
+2. Copy URL to your browser(**open in safari**) to import configuration script.
 
 ```bash
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json
 ```
 
-Karabiner-Elements Offical Script Gallery
+or import config file from Karabiner-Elements Offical Script Gallery
 
 ```bash
-# will submit soon
 https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 ```
 
@@ -220,11 +218,11 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘T</kbd>             | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
 | <kbd>T</kbd>              | Open **Visual Studio Code** | Text Editor: Visual Studio Code             |
 | <kbd>Y</kbd>              | Open **Siri**               | Siri                                        |
-| <kbd>⌘D</kbd>             | Open Dictionary                  | Find words                                |
-| <kbd>F</kbd>              | Open Alfred             | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>        |
-| <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
-| <kbd>G</kbd>              | Open GitHub Desktop     | GitHub Desktop                                  |
-| <kbd>⌘G</kbd>             | Open Chrome             | Google Chrome                                   |
+| <kbd>⌘D</kbd>          | Open Dictionary                  | Find words                                |
+| <kbd>F</kbd>               | Open Alfred                             |                                                     |
+| <kbd>⌘F</kbd>            | Open Dash               | Find API Document                               |
+| <kbd>G</kbd>               | Open GitHub Desktop     | GitHub Desktop                                  |
+| <kbd>⌘G</kbd>           | Open Chrome             | Google Chrome                                   |
 
 </details>
          
