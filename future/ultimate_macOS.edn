@@ -1,26 +1,21 @@
 {
-    ;; 1554407002
-    ;;"title": "ultimate macOS",
-    ;;"author": "suliveevil(suliveevil@outlook.com)",
-    ;;"homepage": "https://github.com/suliveevil/Capslock",
-    ;;"import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json",
-    
-    ;;{:main [{:des "hahahaha"}
+    ;; 1554410189
+
+    ;;{:main [{:des "hahaha"}
     ;;         :rules [["1"] ["2"] ["3"]]]}
-    ;;{:main [{:des "heheheheheheh"}
+    ;;{:main [{:des "hehehe"}
     ;;         :rules [["1"] ["2"] ["3"]]]}
     ;;{:main [{:des "a to 1" :rules [[:a :1]]}
     ;;        {:des "b to 2" :rules [[:b :2]]}
     ;;        {:des "c to insert 123" :rules [[:c [:1 :2 :3]]]}]}
     
+    ;;IKBC C87
     {:devices {:IKBC-C87 [{:vendor_id 1547 :product_id 31235}]}
                :main [{:des "Swap Win/Command and Alt/Option"}
                :rules [[:##C :O] [:##O :C] [:##Q :E] [:##E :Q]]]}
-    {:main [{des "Capslock to Hyper/Escape" :rules [[:##caps_lock :!! nil {:alone :escape}]]}
 
-    ;;{:devices {:IKBC-C87 [{:vendor_id 1547 :product_id 31235}]}
-    ;; :main [{:des "Swap Win/Command and Alt/Option"}
-    ;; :rules [[:##C :O] [:##O :C] [:##Q :E] [:##E :Q]]]}
+    ;;Capslock to Hyper/Escape
+    {:main [{des "Capslock to Hyper/Escape" :rules [[:##caps_lock :!! nil {:alone :escape}]]}
 
 
     "rules": [
