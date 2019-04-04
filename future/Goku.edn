@@ -44,7 +44,7 @@
                                [:j ["say 'j press down'" ["test-mode-j-dbpress-mode" 1]] nil {:delayed {:canceled ["test-mode-j-dbpress-mode" 0]
                                                                                                         :invoked  ["test-mode-j-dbpress-mode" 0]}
                                                                                               :held    "say 'j held down'"}]]}
-                      {:des   "contexts (ver: 1554400731)"
+                      {:des   "contexts"
                        :rules [[[:m :l] [:f16 ["in-contexts" 1]]]
                                [:semicolon :right_option nil {:alone :semicolon}]
                                [:escape [:escape ["in-contexts" 0]] ["in-contexts" 1]]
