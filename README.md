@@ -1,16 +1,12 @@
-![](images/function-overview.png)
-
-[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]()
 
 # ultimate macOS [**中文**](https://github.com/suliveevil/Capslock/blob/master/README_cn.md)
 
 
-forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>CapsLock</kbd> Great Again!*  
+forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>CapsLock</kbd> Great Again!* 
 
-![](images/trump.jpg)
+![](images/function-overview.png)
 
-[TOC]
-
+[![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]()
 
 
 ## Why <kbd>CapsLock</kbd>
@@ -33,7 +29,7 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>Ca
   - macOS EI Capitan (10.11)
 
 
-### Install (mac)
+### Install
 
 1. Download [Karabiner-Elements](https://pqrs.org/osx/karabiner/) and Install
 
@@ -59,7 +55,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 5. Enable functions: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
 
 
-## Usage (mac)
+## Usage
 
 ![](images/keyboard.png)
 
@@ -146,7 +142,8 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>↑</kbd>    | MouseUp         | mouse cursor up           |
 | <kbd>→</kbd>    | MouseRight      | mouse cursor right        |
 | <kbd>↩</kbd>    | MouseLeft       | mouse left button click   |
-| <kbd>⌘↩</kbd>   | MouseRight      | mouse right button click  |
+| <kbd>⌥</kbd> <kbd>↩</kbd>    | MouseMiddle       | mouse Middle button click   |
+| <kbd>⌘</kbd> <kbd>↩</kbd>   | MouseRight      | mouse right button click  |
 
 </details>
 
@@ -181,8 +178,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘A</kbd>             | <kbd>⌃↑</kbd>  Ctrl+UpArrow      | OSX Expose All                                                       |
 | <kbd>S</kbd>              | <kbd>⌃⇥</kbd>  Ctrl+Tab          | Switch Tab                                                           |
 | <kbd>⌘S</kbd>             | <kbd>⌃⇧⇥</kbd> Ctrl+Shift+Tab    | Swtich Tab Reversely                                                 |
-| <kbd>⌘D</kbd>             | <kbd>F11</kbd>                   | Show Desktop  ** conflicts to fix**                                  |
-| <kbd>⌘D</kbd>             | Open Dictionary                  | Find words    ** conflicts to fix**                                  |
+| <kbd>⌥D</kbd>             | <kbd>F11</kbd>                   | Show Desktop                             |
 
 </details>
 
@@ -224,6 +220,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘T</kbd>             | Open Typora             | Text Editor: Typora , a great WYSIWYG md editor |
 | <kbd>T</kbd>              | Open **Visual Studio Code** | Text Editor: Visual Studio Code             |
 | <kbd>Y</kbd>              | Open **Siri**               | Siri                                        |
+| <kbd>⌘D</kbd>             | Open Dictionary                  | Find words                                |
 | <kbd>F</kbd>              | Open Alfred             | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>        |
 | <kbd>⌘F</kbd>             | Open Dash               | Find API Document                               |
 | <kbd>G</kbd>              | Open GitHub Desktop     | GitHub Desktop                                  |
@@ -236,26 +233,23 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <details>
 <summary>details</summary>
 
-- Use F1,…F12 as standard functional keys, while hold hyper to turn them back.
+- Use <kbd>hyper</kbd> + <kbd>1~9</kbd> and <kbd>0</kbd> and <kbd>-</kbd> and <kbd>=</kbd> as standard functional keys(F1,…F12).
 
-- If you are using RMBP with Bar, consider changing your bar back to function keys with 
-
-  `Karabiner -> Function Keys -> Use all F1, F2, etc. keys as standard function keys  `
 
 | Origin            | Maps to              | Comment                          |
 | ----------------: | -------------------- | -------------------------------- |
-| <kbd>F1</kbd>              | <kbd>BrightnessDown</kbd>     |                                  |
-| <kbd>F2</kbd>              | <kbd>BrightnessUp</kbd>       |                                  |
-| <kbd>F3</kbd>              | <kbd>ExposeAll</kbd>          |                                  |
-| <kbd>F4</kbd>              | <kbd>LaunchPad</kbd>          |                                  |
-| <kbd>F5</kbd>              | <kbd>KeyboardLightDown</kbd>  |                                  |
-| <kbd>F6</kbd>              | <kbd>KeyboardLightUp</kbd>    |                                  |
-| <kbd>F7</kbd>              | <kbd>MusicPrev</kbd>          |                                  |
-| <kbd>F8</kbd>              | <kbd>MusicPlay</kbd>          |                                  |
-| <kbd>F9</kbd>              | <kbd>MusicNext</kbd>          |                                  |
-| <kbd>F10</kbd>             | <kbd>Mute</kbd>               |                                  |
-| <kbd>F11</kbd>             | <kbd>VolumeDown</kbd>         |                                  |
-| <kbd>F12</kbd>             | <kbd>VolumeUp</kbd>           |                                  |
+| <kbd>⌥</kbd><kbd>1</kbd>              | <kbd>BrightnessDown</kbd>     |                                  |
+| <kbd>⌥</kbd><kbd>2</kbd>              | <kbd>BrightnessUp</kbd>       |                                  |
+| <kbd>⌥</kbd><kbd>3</kbd>              | <kbd>ExposeAll</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>4</kbd>              | <kbd>LaunchPad</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>5</kbd>              | <kbd>KeyboardLightDown</kbd>  |                                  |
+| <kbd>⌥</kbd><kbd>6</kbd>              | <kbd>KeyboardLightUp</kbd>    |                                  |
+| <kbd>⌥</kbd><kbd>7</kbd>              | <kbd>MusicPrev</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>8</kbd>              | <kbd>MusicPlay</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>9</kbd>              | <kbd>MusicNext</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>0</kbd>             | <kbd>Mute</kbd>               |                                  |
+| <kbd>⌥</kbd><kbd>-</kbd>             | <kbd>VolumeDown</kbd>         |                                  |
+| <kbd>⌥</kbd><kbd>=</kbd>             | <kbd>VolumeUp</kbd>           |                                  |
 | <kbd>F13</kbd> PrintScreen | <kbd>MusicPrev</kbd>          |                                  |
 | <kbd>F14</kbd> ScrollLock  | <kbd>MusicNext</kbd>          |                                  |
 | <kbd>F15</kbd> Pause       | <kbd>MusicPlay</kbd>          | Just as it shows                 |
@@ -391,26 +385,6 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd></kbd>       | Context menu                          |
 
 </details>
-
-
-
-## FAQ
-
-- Q： Why using ✱ as symbol of hyper key？
-
-  A：Cause asterisk have the ascii code 42, which is the answer to life, the universe, and everything!  while itself has meaning 'star'. ✱ (Heavy-Asterisk) is a pretty version of `*` (Asterisk). Actually I would choose ☯  if Github could render it properly...
-
-- Q：Why Linux support is missing？
-
-  A：because I choose Mac, and use Linux through terminal.
-
-- Q:  Why there is some different key bindings between Mac version and Win version?
-
-  A:   I don't use windows anymore,  Win version is no longer maintained. Welcome if you can fix that.
-
-- Q:  Why there's an old Mac version?
-
-  A:  Apple is really capricious. macOS Sierra changes it's kernel architecture, so the old version karabiner is incompatible with macOS after 10.12. But now there's a new version of karabiner named karabiner-elements. While karabiner-elements use a new JSON-format conf instead of old XML-format. Please using the new version.
 
 
 

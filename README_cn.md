@@ -214,12 +214,13 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 
 | Origin | Maps to        | Comment                  |
 | ------: | -------------- | ------------------------ |
-| <kbd>←</kbd>   | 鼠标左移  | 鼠标光标向左移动              |
-| <kbd>↓</kbd>    | 鼠标下移  | 鼠标光标向右移动              |
-| <kbd>↑</kbd>    | 鼠标上移    | 鼠标光标向上移动            |
-| <kbd>→</kbd>    | 鼠标右移 | 鼠标光标向右移动               |
-| <kbd>↩</kbd>    | 鼠标左键     | 鼠标左键点击              |
-| <kbd>⌘</kbd> <kbd>↩</kbd>    | 鼠标右键    | 鼠标右键点击 |
+| <kbd>←</kbd>    | 鼠标左移    | 鼠标光标向左移动               |
+| <kbd>↓</kbd>    | 鼠标下移    | 鼠标光标向右移动               |
+| <kbd>↑</kbd>    | 鼠标上移    | 鼠标光标向上移动               |
+| <kbd>→</kbd>    | 鼠标右移    | 鼠标光标向右移动               |
+| <kbd>↩</kbd>    | 鼠标左键    | 鼠标左键点击                  |
+| <kbd>⌥</kbd> <kbd>↩</kbd>    | 鼠标中键点击    | 鼠标左键点击  |
+| <kbd>⌘</kbd> <kbd>↩</kbd>    | 鼠标右键点击    | 鼠标右键点击  |
 
 </details>
 
@@ -258,7 +259,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌘</kbd><kbd>A</kbd>             | <kbd>⌃</kbd> <kbd>↑</kbd>  Ctrl+UpArrow      | 应用 Expose                  |
 | <kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇥</kbd>  Ctrl+Tab          | 切换标签页                                |
 | <kbd>⌘</kbd><kbd>S</kbd>             | <kbd>⌃</kbd> <kbd>⇧</kbd> <kbd>⇥</kbd> Ctrl+Shift+Tab    | 反向切换标签页     |
-| <kbd>⌘</kbd><kbd>D</kbd>             | <kbd>F11</kbd>                   | Show Desktop                             |
+| <kbd>⌥</kbd><kbd>D</kbd>             | <kbd>F11</kbd>                   | Show Desktop                             |
 
 
 </details>
@@ -285,26 +286,27 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 </details>
 
 
-### 应用
+### 应用程序
 
 <details>
 <summary>details</summary>
 
 - 以下设置可以被重写为你喜欢的 app。
 
-| Origin | Maps to      | Comment                       |
-| -----: | ------------ | ----------------------------- |
-| <kbd>E</kbd>          | 打开访达 | 打开文件浏览器  |
+| Origin | Maps to          | Comment                       |
+| -----: | ------------     | ----------------------------- |
+| <kbd>E</kbd>              | 打开访达 | 打开文件浏览器  |
 | <kbd>⌘</kbd> <kbd>E</kbd> | 打开 Safari | 打开网页浏览器  |
-| <kbd>R</kbd>    | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
-| <kbd>⌘</kbd> <kbd>R</kbd>   | 打开PyCharm | PyCharm |
-| <kbd>T</kbd>    | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |
-| <kbd>⌘</kbd> <kbd>T</kbd>  | 打开 Typora  | 文本编辑器: Typora , 一个所见即所得的 markdown 编辑器 |
-| <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典 | 查询单词 |
-| <kbd>⌘</kbd> <kbd>F</kbd>   | 打开 Dash      | 查询 API 文档      |
-| <kbd>F</kbd> | 打开 Alfred | Leaves to <kbd>⌃</kbd><kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>F</kbd>|
-| <kbd>G</kbd>    | 打开 GitHub Desktop | GitHub Desktop                          |
-| <kbd>⌘</kbd><kbd>G</kbd>   | 打开 Chrome             | Google Chrome                                   |
+| <kbd>R</kbd>              | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
+| <kbd>⌘</kbd> <kbd>R</kbd> | 打开PyCharm | PyCharm |
+| <kbd>T</kbd>              | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |
+| <kbd>⌘</kbd> <kbd>T</kbd> | 打开 Typora  | 文本编辑器: Typora , 一个所见即所得的 markdown 编辑器 |
+| <kbd>Y</kbd>              | 打开 Siri |                 |
+| <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典        | 查询单词 |
+| <kbd>F</kbd>              | 打开 Alfred            |               |
+| <kbd>⌘</kbd> <kbd>F</kbd> | 打开 Dash      | 查询 API 文档      |
+| <kbd>G</kbd>              | 打开 GitHub Desktop | GitHub Desktop                          |
+| <kbd>⌘</kbd><kbd>G</kbd>  | 打开 Chrome             | Google Chrome                                   |
 
 </details>
 
@@ -314,26 +316,23 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <details>
 <summary>details</summary>
 
-- 使用 F1,…F12 作为标准功能键，当按下 hyper to turn them back.
+- 使用 1…9、0、-、= 作为标准功能键（F1-F12）.
 
-- If you are using RMBP with TouchBar, consider changing your bar back to function keys with 
-
-  `Karabiner -> Function Keys -> Use all F1, F2, etc. keys as standard function keys  `
 
 | Origin            | Maps to              | Comment                          |
 | ----------------: | -------------------- | -------------------------------- |
-| <kbd>F1</kbd>              | <kbd>BrightnessDown</kbd>     |                                  |
-| <kbd>F2</kbd>              | <kbd>BrightnessUp</kbd>       |                                  |
-| <kbd>F3</kbd>              | <kbd>ExposeAll</kbd>          |                                  |
-| <kbd>F4</kbd>              | <kbdLaunchPad></kbd>          |                                  |
-| <kbd>F5</kbd>              | <kbd>KeyboardLightDown</kbd>  |                                  |
-| <kbd>F6</kbd>              | <kbd>KeyboardLightUp</kbd>    |                                  |
-| <kbd>F7</kbd>              | <kbd>MusicPrev</kbd>          |                                  |
-| <kbd>F8</kbd>              | <kbd>MusicPlay</kbd>          |                                  |
-| <kbd>F9</kbd>              | <kbd>MusicNext</kbd>          |                                  |
-| <kbd>F10</kbd>             | <kbd>Mute</kbd>               |                                  |
-| <kbd>F11</kbd>             | <kbd>VolumeDown</kbd>         |                                  |
-| <kbd>F12</kbd>             | <kbd>VolumeUp</kbd>           |                                  |
+| <kbd>⌥</kbd><kbd>1</kbd>              | <kbd>BrightnessDown</kbd>     |                                  |
+| <kbd>⌥</kbd><kbd>2</kbd>              | <kbd>BrightnessUp</kbd>       |                                  |
+| <kbd>⌥</kbd><kbd>3</kbd>              | <kbd>ExposeAll</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>4</kbd>              | <kbdLaunchPad></kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>5</kbd>              | <kbd>KeyboardLightDown</kbd>  |                                  |
+| <kbd>⌥</kbd><kbd>6</kbd>              | <kbd>KeyboardLightUp</kbd>    |                                  |
+| <kbd>⌥</kbd><kbd>7</kbd>              | <kbd>MusicPrev</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>8</kbd>              | <kbd>MusicPlay</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>9</kbd>              | <kbd>MusicNext</kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>0</kbd>              | <kbd>Mute</kbd>               |                                  |
+| <kbd>⌥</kbd><kbd>-</kbd>              | <kbd>VolumeDown</kbd>         |                                  |
+| <kbd>⌥</kbd><kbd>=</kbd>              | <kbd>VolumeUp</kbd>           |                                  |
 | <kbd>F13</kbd> <kbd>PrintScreen</kbd> | <kbd>MusicPrev</kbd>          |                                  |
 | <kbd>F14</kbd> <kbd>ScrollLock</kbd>  | <kbd>MusicNext</kbd>          |                                  |
 | <kbd>F15</kbd> Pause       | <kbd>MusicPlay</kbd>                     | Just as it shows                 |
