@@ -1,0 +1,153 @@
+[
+  [
+    {
+      "a": 0
+    },
+    "Esc\n\n\n\n~\n`",
+    {
+      "a": 4
+    },
+    "!\n1\n\n\nF1",
+    "@\n2\n\n\nF2",
+    "#\n3\n\n\nF3",
+    "$\n4\n\n\nF4",
+    "%\n5\n\n\nF5",
+    "^\n6\n\n\nF6",
+    "&\n7\n\n\nF7",
+    "*\n8\n\n\nF8",
+    "(\n9\n\n\nF9",
+    ")\n0\n\n\nF10",
+    "_\n-\n\n\nF11",
+    "+\n=\n\n\nF12",
+    {
+      "a": 7
+    },
+    "Backspace\n\n\n\nDelete",
+    {
+      "a": 4
+    },
+    "Fn5"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    "Q",
+    "W\n\n\n\n↑",
+    "E",
+    "R",
+    "T",
+    "Y\n\n\n\nCalc",
+    "U",
+    "I\n\n\n\nIns",
+    "O",
+    "P\n\n\n\nPSc",
+    "{\n[\n\n\nScrLk",
+    {
+      "a": 0
+    },
+    "}\n]\n\n\nPus\nBrk",
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "|\n\\"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Caps Lock",
+    "A\n\n\n\n←",
+    "S\n\n\n\n↓",
+    "D\n\n\n\n→",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    ":\n;\n\n\nHome",
+    "\"\n'\n\n\nPgUp",
+    {
+      "a": 7
+    },
+    "Fn4",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Shift",
+    {
+      "a": 7
+    },
+    "Fn2",
+    {
+      "a": 4
+    },
+    "Z",
+    "X\n\n\n\nApp",
+    "C\n\n\n\nFn2",
+    "V\n\n\n\nFn1",
+    "B\n\n\n\nFn3",
+    "N\n\n\n\nVolDn",
+    "M\n\n\n\nVolUp",
+    "<\n,\n\n\nMute",
+    ">\n.\n\n\nEnd",
+    "?\n/\n\n\nPgDn",
+    {
+      "a": 7
+    },
+    "Fn3",
+    {
+      "a": 4,
+      "w": 1.75
+    },
+    "RShift"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 1.5
+    },
+    "Fn0",
+    {
+      "w": 4.5
+    },
+    "Space",
+    {
+      "w": 1.5
+    },
+    "Fn1",
+    {
+      "w": 1.25
+    },
+    "RAlt",
+    {
+      "w": 1.25
+    },
+    "RWin",
+    {
+      "w": 1.25
+    },
+    "RCtrl"
+  ]
+]
