@@ -18,13 +18,11 @@
     {:main [{des "Capslock to Hyper/Escape" :rules [[:##caps_lock :!! nil {:alone :escape}]]}
 
 
-;;{:devices {:IKBC-C87 [{:vendor_id 1547 :product_id 31235}]}
-;;           :main [{:des "Swap Win/Command and Alt/Option"}
-;;           :rules [[:##C :O] [:##O :C] [:##Q :E] [:##E :Q]]]}
+
 ;;{:main [{des "Capslock to Hyper/Escape" :rules [[:##caps_lock :!! nil {:alone :escape}]]}
 
 {:profiles
-    {:Goku {:default true
+    {:test {:default true
             :sim     70
             :delay   500
             :alone   1000
@@ -32,48 +30,22 @@
     }
 
     :main    [#_{:des "Capslock to Hyper/Escape"
-                 :rules [[:##caps_lock :!! nil {:alone :escape}]]}
-]
- :devices    {:macbook-internal [{:product_id 34304 :vendor_id 1452}]
-              :IKBC-C87         [{:product_id 31235 :vendor_id 1547}]
-              :filco-minila-air [{:product_id 34050 :vendor_id 2652}]
-              :hhkb-pro-bt      [{:vendor_id 1278 :product_id 514}]}
-;;           :main [{:des "Swap Win/Command and Alt/Option"}
-;;           :rules [[:##C :O] [:##O :C] [:##Q :E] [:##E :Q]]]}
-}
+                 :rules [[:##caps_lock :!! nil {:alone :escape}]]}]
+
+    :devices    {:macbook-internal [{:product_id 34304 :vendor_id 1452}]
+                 :filco-minila-air [{:product_id 34050 :vendor_id 2652}]
+                 :hhkb-pro-bt      [{:vendor_id 1278   :product_id 514}]
+                 :IKBC-C87         [{:product_id 31235 :vendor_id 1547}]}}
+
+;;{:devices {:IKBC-C87 [{:vendor_id 1547 :product_id 31235}]}
+;;    :main [{:des "Swap Win/Command and Alt/Option"}
+;;    :rules [[:##C :O] [:##O :C] [:##Q :E] [:##E :Q]]]}
+
+;;    {:des "Caps_Lock to Hyper/Escape"
+;;     :rules [[:##caps_lock :!! nil {alone : escape}]]}
 
 
-    "rules": [
-        {
-            :des "CapsLock to Hyper/Escape",
-            "manipulators": [
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "caps_lock",
-                        "modifiers": {
-                            ##
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "R",
-                            "modifiers": [
-                                "Q",
-                                "W",
-                                "E"
-                            ]
-                        }
-                    ],
-                    "to_if_alone": [
-                        {
-                            "key_code": "escape"
-                        }
-                    ]
-                }
-            ]
-        },
+
         {
             :des "Hyper Navigation: 0 4($) HJKL UIOP",
             "manipulators": [
