@@ -8,7 +8,11 @@
 
 
 
-## [固件](https://tkg.io)
+## 固件 eep
+
+### [https://tkg.io](https://tkg.io)
+
+### [http://www.enjoyclick.org/tkg/](http://www.enjoyclick.org/tkg/)
 
 
 
@@ -19,4 +23,6 @@
 ## 参考文章
 
 [【转】拿到 GH60 的艰辛与幸福之路-电子产品世界论坛](http://forum.eepw.com.cn/thread/272262/1)
+
+[How_Key_Matrices_Works](http://pcbheaven.com/wikipages/How_Key_Matrices_Works/)
 
