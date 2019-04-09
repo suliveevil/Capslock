@@ -1,16 +1,13 @@
 [
   {
-    "name": "XD60_minila+1",
+    "name": "XD60_键帽",
     "author": "suliveevil"
   },
   [
     {
-      "c": "#d31929"
+      "c": "#e3e2dd"
     },
     "~\n`\n\n\nEsc",
-    {
-      "c": "#b4b2ab"
-    },
     "!\n1\n\n\nF1",
     "@\n2\n\n\nF2",
     "#\n3\n\n\nF3",
@@ -35,14 +32,11 @@
   ],
   [
     {
-      "c": "#2b2c2e",
+      "c": "#e3e2dd",
       "a": 4,
       "w": 1.5
     },
     "Tab",
-    {
-      "c": "#b4b2ab"
-    },
     "Q",
     "W\n\n\n\n↑",
     "E",
@@ -56,7 +50,6 @@
     "{\n[\n\n\nScrLk",
     "}\n]",
     {
-      "c": "#2b2c2e",
       "w": 1.5
     },
     "|\n\\"
@@ -66,9 +59,6 @@
       "w": 1.75
     },
     "Hyper\n\n\n\n\n\n\n\n\nCaps Lock",
-    {
-      "c": "#b4b2ab"
-    },
     "A\n\n\n\n←",
     "S\n\n\n\n↓",
     "D\n\n\n\n→",
@@ -86,24 +76,22 @@
     },
     "\n\n\n\nFn10",
     {
-      "c": "#2b2c2e",
       "a": 4,
       "w": 1.25
     },
-    "Enter"
+    "1.25u\n\n\n\n\n\n\n\n\nEnter"
   ],
   [
     {
       "w": 1.25
     },
-    "Shift",
+    "1.25u\n\n\n\n\n\n\n\n\nShift",
     {
-      "c": "#0075ad",
       "a": 7
     },
     "\n\n\n\nFn5",
     {
-      "c": "#b4b2ab",
+      "c": "#e3e2dd",
       "a": 4
     },
     "Z\n\n\n\nFn4",
@@ -117,51 +105,43 @@
     ">\n.\n\n\nMute",
     "?\n/\n\n\nPgDn",
     {
-      "c": "#2b2c2e",
+      "c": "#0075ad",
       "w": 1.75
     },
-    "Shift\n\n\n\n\n\n\n\n\n↑",
+    "1.75u\n\n\n\n\n\nShift\n\n\n↑",
     {
-      "c": "#0075ad",
       "a": 7
     },
     "\n\n\n\nFn9"
   ],
   [
     {
-      "c": "#2b2c2e",
+      "c": "#e3e2dd",
       "a": 4,
       "w": 1.25
     },
-    "Ctrl",
+    "1.25u\n\n\n\n\n\n\n\n\nCtrl",
     {
       "w": 1.25
     },
-    "Win",
+    "1.25u\n\nWin\n\n\n\n\n\n\nOption",
     {
       "w": 1.25
     },
-    "Alt",
-    {
-      "c": "#b4b2ab",
-      "a": 5,
-      "w": 3
-    },
-    "Space",
+    "1.25u\n\nAlt\n\n\n\n\n\n\nCommand",
     {
       "c": "#0075ad",
+      "w": 3
+    },
+    "3u\n\nRshift\n\n\n\n\n\n\nSpace",
+    {
       "w": 2.25
     },
-    "Space\n\n\n\nFn0",
-    {
-      "c": "#2b2c2e",
-      "a": 4
-    },
+    "Lshift\n\n2.25u\n\n\n\n\n\n\nSpace\nFn0",
     "Ralt",
     "Rwin",
     "Rctrl",
     {
-      "c": "#0075ad",
       "a": 7
     },
     "←\n\n\n\nFn6",
