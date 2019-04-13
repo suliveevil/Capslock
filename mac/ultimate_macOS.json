@@ -5,6 +5,9 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json",
     "rules": [
         {
+            "description": "ultimate macOS (version: 1555149870)"
+        },
+        {
             "description": "Device: IKBC C87: Swap Win/Command and Alt/Option",
             "manipulators": [
                 {
@@ -1582,7 +1585,8 @@
                     ],
                     "to_if_held_down": [
                         {
-                            "key_code": "fn"
+                            "key_code": "fn",
+                            "modifiers": "any"
                         }
                     ]
                 },
@@ -2052,7 +2056,7 @@
             ]
         },
         {
-            "description": "Hyper Shifter (ultimate macOS version: 1555149870)",
+            "description": "Hyper Shifter",
             "manipulators": [
                 {
                     "type": "basic",
