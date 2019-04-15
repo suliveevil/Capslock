@@ -5,7 +5,7 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json",
     "rules": [
         {
-            "description": "ultimate macOS (version: 1555149870)"
+            "description": "ultimate macOS (version: 1555319479)"
         },
         {
             "description": "Device: IKBC C87: Swap Win/Command and Alt/Option",
