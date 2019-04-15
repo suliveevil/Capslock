@@ -5,7 +5,7 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/suliveevil/Capslock/master/mac/ultimate_macOS.json",
     "rules": [
         {
-            "description": "ultimate macOS (version: 1555319479)"
+            "description": "ultimate macOS (version: 1555319765)"
         },
         {
             "description": "Device: IKBC C87: Swap Win/Command and Alt/Option",
@@ -1553,8 +1553,7 @@
                     "type": "basic",
                     "from": {
                         "key_code": "g",
-                        "modifiers": [
-                            {
+                        "modifiers": {
                                 "mandatory": [
                                     "right_command",
                                     "right_control",
@@ -1562,7 +1561,6 @@
                                     "right_option"
                                 ]
                             }
-                        ]
                     },
                     "parameters": {
                         "basic.to_if_alone_timeout_milliseconds": 250,
@@ -2524,6 +2522,7 @@
                     ]
                 },
                 {
+                    "type": "basic",
                     "from": {
                         "key_code": "backslash",
                         "modifiers": {
