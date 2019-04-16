@@ -1,6 +1,7 @@
 [
   {
-    "name": "MBP13(2018)"
+    "name": "MBP13mid2018",
+    "author": "suliveevil"
   },
   [
     "~\n`",
@@ -19,7 +20,7 @@
     {
       "w": 1.5
     },
-    "\n\n\n⌫"
+    "Backspace"
   ],
   [
     {
@@ -44,7 +45,7 @@
     {
       "w": 1.75
     },
-    "Caps Lock",
+    "Caps Lock\n中/英",
     "A",
     "S",
     "D",
@@ -59,7 +60,7 @@
     {
       "w": 1.75
     },
-    "\n\n\n↵"
+    "Enter"
   ],
   [
     {
@@ -79,16 +80,16 @@
     {
       "w": 2.25
     },
-    "\n\n\n⇧"
+    "Shift"
   ],
   [
-    "\nfn",
-    "\n\n⌃\n\n\n\n\n\n\n\ncontrol",
-    "\n\n⌥\n\n\n\n\n\n\n\noption",
+    "\nFn",
+    "⌃\n\n\n\n\n\n\n\n\nControl",
+    "⌥\n\n\n\n\n\n\n\n\nOption",
     {
       "w": 1.25
     },
-    "\n\n⌘\n\n\n\n\n\n\n\ncommand",
+    "⌘\n\n\n\n\n\n\n\n\nCommand",
     {
       "a": 7,
       "w": 5
@@ -98,8 +99,8 @@
       "a": 4,
       "w": 1.25
     },
-    "⌘\n\n\n\n\n\n\n\n\n\ncommand",
-    "⌥\n\n\n\n\n\n\n\n\n\noption",
+    "⌘\n\n\n\n\n\n\n\n\nCommand",
+    "⌥\n\n\n\n\n\n\n\n\nOption",
     {
       "a": 7
     },

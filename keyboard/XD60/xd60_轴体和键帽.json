@@ -1,0 +1,337 @@
+[
+  {
+    "name": "XD60_轴体和键帽",
+    "author": "suliveevil"
+  },
+  [
+    {
+      "c": "#e3e2dd"
+    },
+    "~\n`\n\n\nEsc",
+    "!\n1\n\n\nF1",
+    "@\n2\n\n\nF2",
+    "#\n3\n\n\nF3",
+    "$\n4\n\n\nF4",
+    "%\n5\n\n\nF5",
+    "^\n6\n\n\nF6",
+    "&\n7\n\n\nF7",
+    "*\n8\n\n\nF8",
+    "(\n9\n\n\nF9",
+    ")\n0\n\n\nF10",
+    "_\n-\n\n\nF11",
+    "+\n=\n\n\nF12",
+    {
+      "c": "#d31929"
+    },
+    "Backspace\n\n\n\nDelete",
+    {
+      "c": "#0075ad",
+      "a": 7
+    },
+    "\n\n\n\nFn11"
+  ],
+  [
+    {
+      "c": "#e3e2dd",
+      "a": 4,
+      "w": 1.5
+    },
+    "Tab",
+    "Q",
+    "W\n\n\n\n↑",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I\n\n\n\nIns",
+    "O",
+    "P\n\n\n\nPSc",
+    "{\n[\n\n\nScrLk",
+    "}\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\\"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Hyper\n\n\n\n\n\n\n\n\nCaps Lock",
+    "A\n\n\n\n←",
+    "S\n\n\n\n↓",
+    "D\n\n\n\n→",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    ":\n;\n\n\nHome",
+    "\"\n'\n\n\nPgUp",
+    {
+      "c": "#0075ad",
+      "a": 7
+    },
+    "\n\n\n\nFn10",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "1.25u\n\n\n\n\n\n\n\n\nEnter"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "1.25u\n\n\n\n\n\n\n\n\nShift",
+    {
+      "a": 7
+    },
+    "\n\n\n\nFn5",
+    {
+      "c": "#e3e2dd",
+      "a": 4
+    },
+    "Z\n\n\n\nFn4",
+    "X\n\n\n\nFn3",
+    "C\n\n\n\nFn2",
+    "V\n\n\n\nFn1",
+    "B",
+    "N",
+    "M\n\n\n\nVolDn",
+    "<\n,\n\n\nVolUp",
+    ">\n.\n\n\nMute",
+    "?\n/\n\n\nPgDn",
+    {
+      "c": "#0075ad",
+      "w": 1.75
+    },
+    "1.75u\n\n\n\n\n\nShift\n\n\n↑",
+    {
+      "a": 7
+    },
+    "\n\n\n\nFn9"
+  ],
+  [
+    {
+      "c": "#e3e2dd",
+      "a": 4,
+      "w": 1.25
+    },
+    "1.25u\n\n\n\n\n\n\n\n\nCtrl",
+    {
+      "w": 1.25
+    },
+    "1.25u\n\nWin\n\n\n\n\n\n\nOption",
+    {
+      "w": 1.25
+    },
+    "1.25u\n\nAlt\n\n\n\n\n\n\nCommand",
+    {
+      "c": "#0075ad",
+      "w": 3
+    },
+    "3u\n\nRshift\n\n\n\n\n\n\nSpace",
+    {
+      "w": 2.25
+    },
+    "Lshift\n\n2.25u\n\n\n\n\n\n\nSpace\nFn0",
+    "Ralt",
+    "Rwin",
+    "Rctrl",
+    {
+      "a": 7
+    },
+    "←\n\n\n\nFn6",
+    "↓\n\n\n\nFn7",
+    "→\n\n\n\nFn8"
+  ],
+  [
+    {
+      "y": 1,
+      "c": "#c0a480"
+    },
+    "~\n\n\n\nEsc",
+    {
+      "c": "#d13c42"
+    },
+    "!\n\n\n\nF1",
+    "@\n\n\n\nF2",
+    "#\n\n\n\nF3",
+    "$\n\n\n\nF4",
+    "%\n\n\n\nF5",
+    "^\n\n\n\nF6",
+    "&\n\n\n\nF7",
+    "*\n\n\n\nF8",
+    "(\n\n\n\nF9",
+    ")\n\n\n\nF10",
+    "_\n\n\n\nF11",
+    "+\n\n\n\nF12",
+    {
+      "c": "#c0a480"
+    },
+    "Backspace\n\n\n\nDelete",
+    {
+      "c": "#5dcde3"
+    },
+    "\n\n\n\nFn11"
+  ],
+  [
+    {
+      "c": "#c0a480",
+      "a": 4,
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "c": "#d13c42"
+    },
+    "Q",
+    "W\n\n\n\n↑",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I\n\n\n\nIns",
+    "O",
+    {
+      "c": "#c0a480"
+    },
+    "P\n\n\n\nPSc",
+    {
+      "c": "#d13c42"
+    },
+    "{\n[\n\n\nScrLk",
+    "}\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\\"
+  ],
+  [
+    {
+      "c": "#c0a480",
+      "w": 1.75
+    },
+    "Hyper\n\n\n\n\n\n\n\n\nCaps Lock",
+    {
+      "c": "#d13c42"
+    },
+    "A\n\n\n\n←",
+    "S\n\n\n\n↓",
+    "D\n\n\n\n→",
+    {
+      "c": "#c0a480"
+    },
+    "F",
+    {
+      "c": "#d13c42"
+    },
+    "G",
+    {
+      "c": "#c0a480"
+    },
+    "H",
+    "J",
+    "K",
+    "L",
+    {
+      "c": "#d13c42"
+    },
+    ":\n;\n\n\nHome",
+    "\"\n'\n\n\nPgUp",
+    {
+      "c": "#5dcde3",
+      "a": 7
+    },
+    "\n\n\n\nFn10",
+    {
+      "c": "#c0a480",
+      "a": 4,
+      "w": 1.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Shift",
+    {
+      "c": "#5dcde3",
+      "a": 7
+    },
+    "\n\n\n\nFn5",
+    {
+      "c": "#d13c42",
+      "a": 4
+    },
+    "Z\n\n\n\nFn4",
+    "X\n\n\n\nFn3",
+    "C\n\n\n\nFn2",
+    "V\n\n\n\nFn1",
+    {
+      "c": "#c0a480"
+    },
+    "B",
+    "N",
+    {
+      "c": "#d13c42"
+    },
+    "M\n\n\n\nVolDn",
+    "<\n,\n\n\nVolUp",
+    ">\n.\n\n\nMute",
+    "?\n/\n\n\nPgDn",
+    {
+      "c": "#c0a480",
+      "w": 1.75
+    },
+    "Shift\n\n\n\n\n\n\n\n\n↑",
+    {
+      "c": "#5dcde3",
+      "a": 7
+    },
+    "\n\n\n\nFn9"
+  ],
+  [
+    {
+      "c": "#c0a480",
+      "a": 4,
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "a": 5,
+      "w": 3
+    },
+    "Space",
+    {
+      "w": 2.25
+    },
+    "Space\n\n\n\nFn0",
+    {
+      "a": 4
+    },
+    "Ralt",
+    "Rwin",
+    "Rctrl",
+    {
+      "c": "#5dcde3",
+      "a": 7
+    },
+    "←\n\n\n\nFn6",
+    "↓\n\n\n\nFn7",
+    "→\n\n\n\nFn8"
+  ]
+]
