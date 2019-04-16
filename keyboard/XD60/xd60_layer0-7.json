@@ -1,6 +1,7 @@
 [
   {
-    "name": "XD60_layer0-7"
+    "name": "XD60_layer0-7",
+    "notes": "\"0\":[\"ACTION_LAYER_TAP_KEY\",1,\"KC_SPACE\"],\"1\":[\"ACTION_LAYER_MOMENTARY\",1],\"2\":[\"ACTION_LAYER_MOMENTARY\",\"2\"],\"3\":[\"ACTION_LAYER_MOMENTARY\",\"3\"],\"4\":[\"ACTION_LAYER_MOMENTARY\",\"4\"],\"5\":[\"ACTION_LAYER_MOMENTARY\",\"5\"],\"6\":[\"ACTION_LAYER_MOMENTARY\",\"6\"],\"7\":[\"ACTION_LAYER_MOMENTARY\",\"7\"]"
   },
   [
     "~\n`",
@@ -252,9 +253,13 @@
     },
     "",
     {
+      "a": 4,
       "w": 2.25
     },
-    "",
+    "Fn0",
+    {
+      "a": 7
+    },
     "",
     "",
     "",
@@ -400,9 +405,15 @@
       "y": 1
     },
     "",
-    "",
-    "",
-    "",
+    {
+      "a": 4
+    },
+    "Power",
+    "Sleep",
+    "Wake",
+    {
+      "a": 7
+    },
     "",
     "",
     "",
@@ -420,11 +431,17 @@
       "w": 1.5
     },
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
+    {
+      "a": 4
+    },
+    "btn5",
+    "btn4",
+    "btn1",
+    "btn3",
+    "btn2",
+    {
+      "a": 7
+    },
     "",
     "",
     "",
@@ -442,17 +459,17 @@
       "w": 1.75
     },
     "",
-    "",
     {
       "a": 4
     },
-    "btn1",
-    "btn3",
-    "btn2",
+    "CursorLeft",
+    "CursorDown",
+    "CursorUp",
+    "CursorRight",
+    "accel1",
     {
       "a": 7
     },
-    "",
     "",
     "",
     "",
@@ -471,11 +488,17 @@
     },
     "",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
+    {
+      "a": 4
+    },
+    "WheelLeft",
+    "WheelDown",
+    "WheelUp",
+    "WheelRight",
+    "accel2",
+    {
+      "a": 7
+    },
     "",
     "",
     "",
