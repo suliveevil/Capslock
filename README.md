@@ -6,7 +6,7 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *Make <kbd>Ca
 
 [![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]()[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-![](images/function-overview.png)
+![](images/ANSI_60_80_100.png)
 
 
 
