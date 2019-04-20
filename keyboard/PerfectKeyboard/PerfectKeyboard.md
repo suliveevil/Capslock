@@ -4,7 +4,7 @@
 
 
 
-## 可编程
+## 可编程 :computer:
 
 多层编程
 
@@ -20,13 +20,27 @@
 
 
 
-## 键位
+## 键位 :keyboard:
 
 
 
 ### 标准键位
 
 ### 特殊键位
+
+## 旋钮
+
+
+
+## 声音 :sound:
+
+
+
+## 灯光
+
+RGB 光污染
+
+
 
 ## 形态
 
@@ -65,7 +79,11 @@ ultimate hacking keyboard
 
 
 
+[Tetris - 发“烧”级客制化有线 Planck 键盘 - Fengz' Cloud](http://sync.sh/#40)
 
+
+
+[自制(亚克力飞线) 机械键盘　QMK(tmk) powered. - Fengz' Cloud](http://sync.sh/#33)
 
 ### HHKB Pro BT 静电容键盘
 
