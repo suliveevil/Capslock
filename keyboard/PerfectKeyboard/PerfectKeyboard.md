@@ -8,7 +8,7 @@
 
 多层编程
 
-### USB Type-C
+### USB Type-C（C2C）
 
 
 
