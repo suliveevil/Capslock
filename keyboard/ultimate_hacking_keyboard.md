@@ -1,2 +1,0 @@
-# ultimate hacking keyboard
-
