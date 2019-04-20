@@ -84,3 +84,11 @@ ultimate hacking keyboard
 
 []()
 
+## 参考资料
+
+### KiCAD
+
+### KLE
+
+### TKG/TMK
+
