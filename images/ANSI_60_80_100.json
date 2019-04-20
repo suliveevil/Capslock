@@ -1,6 +1,33 @@
 [
   [
     {
+      "c": "#0075ad",
+      "w": 22.5,
+      "h": 0.5
+    },
+    "\n\n\n\n\n\n\n100 %\n\n\nANSI Keyboard Format Factor"
+  ],
+  [
+    {
+      "y": -0.5,
+      "c": "#81817e",
+      "w": 18.25,
+      "h": 0.5
+    },
+    "\n\n\n\n\n\n\n80 %\n\n\nANSI Keyboard Format Factor"
+  ],
+  [
+    {
+      "y": -0.5,
+      "c": "#e3e2dd",
+      "w": 15,
+      "h": 0.5
+    },
+    "\n\n\n\n\n\n\n60 %\n\n\nANSI Keyboard Format Factor"
+  ],
+  [
+    {
+      "y": -0.25,
       "c": "#81817e"
     },
     "Esc",
@@ -326,33 +353,5 @@
       "f": 3
     },
     ".\nDel"
-  ],
-  [
-    {
-      "y": 0.5,
-      "c": "#e3e2dd",
-      "a": 5,
-      "f": 3,
-      "w": 15
-    },
-    "60 %\nANSI Keyboard Format Factor"
-  ],
-  [
-    {
-      "y": 0.5,
-      "c": "#81817e",
-      "f": 3,
-      "w": 18.25
-    },
-    "80 %\nANSI Keyboard Format Factor"
-  ],
-  [
-    {
-      "y": 0.5,
-      "c": "#0075ad",
-      "f": 3,
-      "w": 22.5
-    },
-    "100 %\nANSI Keyboard Format Factor"
   ]
 ]
