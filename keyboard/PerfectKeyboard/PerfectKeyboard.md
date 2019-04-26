@@ -72,7 +72,7 @@ ultimate hacking keyboard
 
 [终于等到你，Ultimate Hacking Keyboard分体键盘 - Chiphell](https://www.chiphell.com/thread-1901752-1-1.html)
 
-### [Filco Minila Air](https://www.diatec.co.jp/en/det.php?prod_c=1471)
+### [Filco Minila Air](https://www.diatec.co.jp/en/det.php?prod_c=1471)/Minira
 
 
 #### 特点/优点
