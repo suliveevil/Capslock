@@ -8,7 +8,7 @@
 #define PRODUCT_ID      0x6060
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    dztech
-#define PRODUCT         undefined
+#define PRODUCT         45rstandard
 #define DESCRIPTION     Keyboard
 
 /* key matrix size */
@@ -46,7 +46,7 @@
 #define RGBLIGHT_HUE_STEP 8
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
-#define RGBLIGHT_LIMIT_VAL undefined
+#define RGBLIGHT_LIMIT_VAL 128
 #endif
 
 #endif
