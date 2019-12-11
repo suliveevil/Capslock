@@ -1,11 +1,11 @@
 {
-    "title": "ultimate macOS",
+    "title": "ultimate macOS update",
     "maintainers": ["suliveevil"],
     "homepage": "https://github.com/suliveevil/Capslock",
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Muxinleep/Capslock/MuxinLee-patch-ultimate_macOS_update/mac/ultimate_macOS_update.json",
     "rules": [
         {
-            "description": "ultimate macOS (version: 1556140182)"
+            "description": "ultimate macOS update(version: 1.0)"
         },
         {
             "description": "KBD: BluetoothConverter、IKBC_C87、XD60: Swap Win/CMD and Alt/Opt",
