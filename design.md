@@ -90,17 +90,21 @@ HJKL
 
    这里`ERTYFGB`作为应用快捷键，加上⌘总共可以设置14个高频应用程序的快捷方式。这里是我的设置：
 
-   `Hyper-E： Google Chrome.app`，`Hyper-⌘E: Finder`，E取自Explore的涵义。
+	`Hyper-E： Path Finder.app`，`Hyper-⌘E: Safari.app`，E取自Explore的涵义。
 
-   `Hyper-R: iTerm`，`Hyper-⌘R: Ctrl+R (Run)`，R取自Run。
+	`Hyper-R: iTerm`，`Hyper-⌘R: webstorm.app`，R取自Run。
 
-   `Hyper-T： Sublime Text.app`，`Hyper-⌘T: Typora`，T取自Text，放置了常用的文本编辑器。
+	`Hyper-T： Visual Studio Code.app `，`Hyper-⌘T: Typora.app`，T取自Text，放置了常用的文本编辑器。
 
-   `Hyper-F： Dash.app`，`Dictionary`，F取自Find的涵义。最常用的查询软件。
+	`Hyper-Y： Siri.app `，Y 映射为Siri
 
-   `Hyper-G： IntelliJ IDEA.app`，`Hyper-⌘G: Clion`，G就是`Great`的意思，所以放了IDE
+	`Hyper-F： Alfred.app`，`Hyper-F ⌘：Dash.app`，F取自Find的涵义。最常用的查询软件。
 
-   `Hyper-B`可以放一些别的东西，目前当做了呼叫Emoji窗口的快捷键(`^⇧Space`)。
+	`Hyper-G： held down hyper+g to Fn`，`Hyper-⌘G: google chrome.app`，G就是`Great`的意思，所以放了IDE
+
+	`Hyper-B`  映射为  [Tmux](http://tmux.github.io) Default Prefix ~~可以放一些别的东西，目前当做了呼叫Emoji窗口的快捷键~~ (`^⌘Space`) 映射为`Hyper-⌘B: BBEdit.app` B取自BBEdit的首字母大写，Mac下常用的编辑器。
+
+	`Hyper-D： ⌥D`，`Hyper-⌘D：Eudic.app`，D取自Dictionary的涵义(欧路词典)。最常用的词典软件。
 
 ## 相关链接
 
