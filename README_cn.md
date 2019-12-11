@@ -287,16 +287,16 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>E</kbd>              | 打开访达 | 打开文件浏览器  |
 | <kbd>⌘</kbd> <kbd>E</kbd> | 打开 Safari | 打开网页浏览器  |
 | <kbd>R</kbd>              | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
-| <kbd>⌘</kbd> <kbd>R</kbd> | 打开PyCharm | PyCharm |
+| <kbd>⌘</kbd> <kbd>R</kbd> | 打开 Webstorm | Webstorm |
 | <kbd>T</kbd>              | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |
 | <kbd>⌘</kbd> <kbd>T</kbd> | 打开 Typora  | 文本编辑器: Typora , 一个所见即所得的 markdown 编辑器 |
 | <kbd>Y</kbd>              | 打开 Siri |                 |
 | <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典        | 查询单词 |
 | <kbd>F</kbd>              | 打开 Alfred            |               |
 | <kbd>⌘</kbd> <kbd>F</kbd> | 打开 Dash      | 查询 API 文档      |
-| <kbd>G</kbd>              | 打开 GitHub Desktop | GitHub Desktop                          |
-| <kbd>⌘</kbd><kbd>G</kbd>  | 打开 Chrome             | Google Chrome                                   |
-
+| <kbd>G</kbd>              | add held down hyper g to fn | fn                |
+| <kbd>⌘</kbd><kbd>G</kbd>  | 打开 Chrome             | Google Chrome   |
+| <kbd>⌘</kbd><kbd>B</kbd>  | 打开 BBEdit             | BBEdit        |
 </details>
 
 
