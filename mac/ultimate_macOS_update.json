@@ -2,7 +2,7 @@
     "title": "ultimate macOS",
     "maintainers": ["suliveevil"],
     "homepage": "https://github.com/suliveevil/Capslock",
-    "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Muxinleep/Capslock/master/mac/ultimate_macOS_update.json",
+    "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Muxinleep/Capslock/MuxinLee-patch-ultimate_macOS_update/mac/ultimate_macOS_update.json",
     "rules": [
         {
             "description": "ultimate macOS (version: 1556140182)"
