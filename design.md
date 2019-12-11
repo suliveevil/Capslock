@@ -102,7 +102,7 @@ HJKL
 
 	`Hyper-G： held down hyper+g to Fn`，`Hyper-⌘G: google chrome.app`，G就是`Great`的意思，所以放了IDE
 
-	`Hyper-B`  映射为  [Tmux](http://tmux.github.io) Default Prefix ~~可以放一些别的东西，目前当做了呼叫Emoji窗口的快捷键~~ (`^⌘Space`) 映射为`Hyper-⌘B: BBEdit.app` B取自BBEdit的首字母大写，Mac下常用的编辑器。
+	`Hyper-B`  映射为  [Tmux](http://tmux.github.io) Default Prefix ~~可以放一些别的东西，目前当做了呼叫Emoji窗口的快捷键~~ (`^⌘Space`) 映射为 `Hyper-⌘B: BBEdit.app` B取自BBEdit的首字母大写，Mac下常用的编辑器。
 
 	`Hyper-D： ⌥D`，`Hyper-⌘D：Eudic.app`，D取自Dictionary的涵义(欧路词典)。最常用的词典软件。
 
