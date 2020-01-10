@@ -5,7 +5,7 @@
     "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Muxinleep/Capslock/MuxinLee-patch-ultimate_macOS_update/mac/ultimate_macOS_update.json",
     "rules": [
         {
-            "description": "ultimate macOS update(version: 1.0)"
+            "description": "ultimate macOS update(version: 1576063975)"
         },
         {
             "description": "KBD: BluetoothConverter、IKBC_C87、XD60: Swap Win/CMD and Alt/Opt",
@@ -1421,7 +1421,7 @@
                     },
                     "to": [
                         {
-                            "shell_command": "open -a 'path finder'"
+                            "shell_command": "open -a 'finder'"
                         }
                     ]
                 },
@@ -2501,6 +2501,27 @@
         {
             "description": "Hyper Misc    (Check https://github.com/suliveevil/Capslock for all details)",
             "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "spacebar",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "left_command"
+                        }
+                    ],
+                    "to_if_alone": [
+                        {
+                            "key_code": "spacebar"
+                        }
+                    ]
+                },
                 {
                     "type": "basic",
                     "from": {
