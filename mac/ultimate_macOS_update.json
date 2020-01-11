@@ -1519,7 +1519,7 @@
                     },
                     "to": [
                         {
-                            "shell_command": "open -a 'Typora'"
+                            "shell_command": "open -a 'Notion'"
                         }
                     ]
                 },
@@ -2501,27 +2501,6 @@
         {
             "description": "Hyper Misc    (Check https://github.com/suliveevil/Capslock for all details)",
             "manipulators": [
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "spacebar",
-                        "modifiers": {
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "left_command"
-                        }
-                    ],
-                    "to_if_alone": [
-                        {
-                            "key_code": "spacebar"
-                        }
-                    ]
-                },
                 {
                     "type": "basic",
                     "from": {
