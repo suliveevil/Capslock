@@ -289,7 +289,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>R</kbd>              | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
 | <kbd>⌘</kbd> <kbd>R</kbd> | 打开 Webstorm | Webstorm |
 | <kbd>T</kbd>              | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |
-| <kbd>⌘</kbd> <kbd>T</kbd> | 打开 Typora  | 文本编辑器: Typora , 一个所见即所得的 markdown 编辑器 |
+| <kbd>⌘</kbd> <kbd>T</kbd> | 打开 Notion  | The all-in-one workspace for your notes,tasks,wikis,and databeses. |
 | <kbd>Y</kbd>              | 打开 Siri |                 |
 | <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典        | 查询单词 |
 | <kbd>F</kbd>              | 打开 Alfred            |               |
