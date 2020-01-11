@@ -94,7 +94,7 @@ HJKL
 
 	`Hyper-R: iTerm`，`Hyper-⌘R: webstorm.app`，R取自Run。
 
-	`Hyper-T： Visual Studio Code.app `，`Hyper-⌘T: Typora.app`，T取自Text，放置了常用的文本编辑器。
+	`Hyper-T： Visual Studio Code.app `，`Hyper-⌘T: Notion.app`，T取自Text，放置了常用的文本编辑器。
 
 	`Hyper-Y： Siri.app `，Y 映射为Siri
 
