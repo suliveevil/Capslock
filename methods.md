@@ -1,5 +1,19 @@
 # Methods
 
+![](/images/键盘映射.jpg)
+
+## 软件级别
+
+## 插件级别
+
+## 软件映射级别
+
+## 硬件映射级别
+
+## 硬件级别
+
+
+
 ## ultimate-macOS
 
 - 模拟 ADM-3A 键盘的 <kbd>Esc</kbd> 键
