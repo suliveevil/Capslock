@@ -338,7 +338,7 @@ CapsLock & g:: Send, {AppsKey}                                       ;|
 
 
 ;=====================================================================o
-;                        CapsLock Self Defined Area                  ;|
+;                        CapsLock   自定义区域                        ;|
 ;-----------------------------------o---------------------------------o
 ;                     CapsLock + d  |  Alt + d(Dictionary)           ;|
 ;                     CapsLock + f  |  Alt + f(Search via Everything);|
@@ -350,7 +350,7 @@ CapsLock & d:: Send, !d                                              ;|
 CapsLock & f:: Send, !f                                              ;|
 CapsLock & e:: Run http://cn.bing.com/                               ;|
 CapsLock & r:: Run Powershell                                        ;|
-CapsLock & t:: Run C:\Program Files (x86)\Notepad++\notepad++.exe    ;|
+CapsLock & t:: Run C:\Program Files\Typora\Typora.exe    ;|
 ;---------------------------------------------------------------------o
 
 
