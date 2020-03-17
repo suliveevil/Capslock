@@ -1,0 +1,1380 @@
+
+Layout info:
+{
+	"name": "00000804",
+	"id": "",
+	"text": "Chinese (Simplified) - US Keyboard"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyA |   a   |                         A |                         A |                          a |         |
+|                     Shift+KeyA |   A   |                   Shift+A |                   Shift+A |                    shift+a |         |
+|                  Ctrl+Alt+KeyA |  ---  |                Ctrl+Alt+A |                Ctrl+Alt+A |                 ctrl+alt+a |         |
+|            Ctrl+Shift+Alt+KeyA |  ---  |          Ctrl+Shift+Alt+A |          Ctrl+Shift+Alt+A |           ctrl+shift+alt+a |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyB |   b   |                         B |                         B |                          b |         |
+|                     Shift+KeyB |   B   |                   Shift+B |                   Shift+B |                    shift+b |         |
+|                  Ctrl+Alt+KeyB |  ---  |                Ctrl+Alt+B |                Ctrl+Alt+B |                 ctrl+alt+b |         |
+|            Ctrl+Shift+Alt+KeyB |  ---  |          Ctrl+Shift+Alt+B |          Ctrl+Shift+Alt+B |           ctrl+shift+alt+b |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyC |   c   |                         C |                         C |                          c |         |
+|                     Shift+KeyC |   C   |                   Shift+C |                   Shift+C |                    shift+c |         |
+|                  Ctrl+Alt+KeyC |  ---  |                Ctrl+Alt+C |                Ctrl+Alt+C |                 ctrl+alt+c |         |
+|            Ctrl+Shift+Alt+KeyC |  ---  |          Ctrl+Shift+Alt+C |          Ctrl+Shift+Alt+C |           ctrl+shift+alt+c |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyD |   d   |                         D |                         D |                          d |         |
+|                     Shift+KeyD |   D   |                   Shift+D |                   Shift+D |                    shift+d |         |
+|                  Ctrl+Alt+KeyD |  ---  |                Ctrl+Alt+D |                Ctrl+Alt+D |                 ctrl+alt+d |         |
+|            Ctrl+Shift+Alt+KeyD |  ---  |          Ctrl+Shift+Alt+D |          Ctrl+Shift+Alt+D |           ctrl+shift+alt+d |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyE |   e   |                         E |                         E |                          e |         |
+|                     Shift+KeyE |   E   |                   Shift+E |                   Shift+E |                    shift+e |         |
+|                  Ctrl+Alt+KeyE |  ---  |                Ctrl+Alt+E |                Ctrl+Alt+E |                 ctrl+alt+e |         |
+|            Ctrl+Shift+Alt+KeyE |  ---  |          Ctrl+Shift+Alt+E |          Ctrl+Shift+Alt+E |           ctrl+shift+alt+e |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyF |   f   |                         F |                         F |                          f |         |
+|                     Shift+KeyF |   F   |                   Shift+F |                   Shift+F |                    shift+f |         |
+|                  Ctrl+Alt+KeyF |  ---  |                Ctrl+Alt+F |                Ctrl+Alt+F |                 ctrl+alt+f |         |
+|            Ctrl+Shift+Alt+KeyF |  ---  |          Ctrl+Shift+Alt+F |          Ctrl+Shift+Alt+F |           ctrl+shift+alt+f |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyG |   g   |                         G |                         G |                          g |         |
+|                     Shift+KeyG |   G   |                   Shift+G |                   Shift+G |                    shift+g |         |
+|                  Ctrl+Alt+KeyG |  ---  |                Ctrl+Alt+G |                Ctrl+Alt+G |                 ctrl+alt+g |         |
+|            Ctrl+Shift+Alt+KeyG |  ---  |          Ctrl+Shift+Alt+G |          Ctrl+Shift+Alt+G |           ctrl+shift+alt+g |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyH |   h   |                         H |                         H |                          h |         |
+|                     Shift+KeyH |   H   |                   Shift+H |                   Shift+H |                    shift+h |         |
+|                  Ctrl+Alt+KeyH |  ---  |                Ctrl+Alt+H |                Ctrl+Alt+H |                 ctrl+alt+h |         |
+|            Ctrl+Shift+Alt+KeyH |  ---  |          Ctrl+Shift+Alt+H |          Ctrl+Shift+Alt+H |           ctrl+shift+alt+h |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyI |   i   |                         I |                         I |                          i |         |
+|                     Shift+KeyI |   I   |                   Shift+I |                   Shift+I |                    shift+i |         |
+|                  Ctrl+Alt+KeyI |  ---  |                Ctrl+Alt+I |                Ctrl+Alt+I |                 ctrl+alt+i |         |
+|            Ctrl+Shift+Alt+KeyI |  ---  |          Ctrl+Shift+Alt+I |          Ctrl+Shift+Alt+I |           ctrl+shift+alt+i |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyJ |   j   |                         J |                         J |                          j |         |
+|                     Shift+KeyJ |   J   |                   Shift+J |                   Shift+J |                    shift+j |         |
+|                  Ctrl+Alt+KeyJ |  ---  |                Ctrl+Alt+J |                Ctrl+Alt+J |                 ctrl+alt+j |         |
+|            Ctrl+Shift+Alt+KeyJ |  ---  |          Ctrl+Shift+Alt+J |          Ctrl+Shift+Alt+J |           ctrl+shift+alt+j |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyK |   k   |                         K |                         K |                          k |         |
+|                     Shift+KeyK |   K   |                   Shift+K |                   Shift+K |                    shift+k |         |
+|                  Ctrl+Alt+KeyK |  ---  |                Ctrl+Alt+K |                Ctrl+Alt+K |                 ctrl+alt+k |         |
+|            Ctrl+Shift+Alt+KeyK |  ---  |          Ctrl+Shift+Alt+K |          Ctrl+Shift+Alt+K |           ctrl+shift+alt+k |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyL |   l   |                         L |                         L |                          l |         |
+|                     Shift+KeyL |   L   |                   Shift+L |                   Shift+L |                    shift+l |         |
+|                  Ctrl+Alt+KeyL |  ---  |                Ctrl+Alt+L |                Ctrl+Alt+L |                 ctrl+alt+l |         |
+|            Ctrl+Shift+Alt+KeyL |  ---  |          Ctrl+Shift+Alt+L |          Ctrl+Shift+Alt+L |           ctrl+shift+alt+l |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyM |   m   |                         M |                         M |                          m |         |
+|                     Shift+KeyM |   M   |                   Shift+M |                   Shift+M |                    shift+m |         |
+|                  Ctrl+Alt+KeyM |  ---  |                Ctrl+Alt+M |                Ctrl+Alt+M |                 ctrl+alt+m |         |
+|            Ctrl+Shift+Alt+KeyM |  ---  |          Ctrl+Shift+Alt+M |          Ctrl+Shift+Alt+M |           ctrl+shift+alt+m |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyN |   n   |                         N |                         N |                          n |         |
+|                     Shift+KeyN |   N   |                   Shift+N |                   Shift+N |                    shift+n |         |
+|                  Ctrl+Alt+KeyN |  ---  |                Ctrl+Alt+N |                Ctrl+Alt+N |                 ctrl+alt+n |         |
+|            Ctrl+Shift+Alt+KeyN |  ---  |          Ctrl+Shift+Alt+N |          Ctrl+Shift+Alt+N |           ctrl+shift+alt+n |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyO |   o   |                         O |                         O |                          o |         |
+|                     Shift+KeyO |   O   |                   Shift+O |                   Shift+O |                    shift+o |         |
+|                  Ctrl+Alt+KeyO |  ---  |                Ctrl+Alt+O |                Ctrl+Alt+O |                 ctrl+alt+o |         |
+|            Ctrl+Shift+Alt+KeyO |  ---  |          Ctrl+Shift+Alt+O |          Ctrl+Shift+Alt+O |           ctrl+shift+alt+o |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyP |   p   |                         P |                         P |                          p |         |
+|                     Shift+KeyP |   P   |                   Shift+P |                   Shift+P |                    shift+p |         |
+|                  Ctrl+Alt+KeyP |  ---  |                Ctrl+Alt+P |                Ctrl+Alt+P |                 ctrl+alt+p |         |
+|            Ctrl+Shift+Alt+KeyP |  ---  |          Ctrl+Shift+Alt+P |          Ctrl+Shift+Alt+P |           ctrl+shift+alt+p |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyQ |   q   |                         Q |                         Q |                          q |         |
+|                     Shift+KeyQ |   Q   |                   Shift+Q |                   Shift+Q |                    shift+q |         |
+|                  Ctrl+Alt+KeyQ |  ---  |                Ctrl+Alt+Q |                Ctrl+Alt+Q |                 ctrl+alt+q |         |
+|            Ctrl+Shift+Alt+KeyQ |  ---  |          Ctrl+Shift+Alt+Q |          Ctrl+Shift+Alt+Q |           ctrl+shift+alt+q |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyR |   r   |                         R |                         R |                          r |         |
+|                     Shift+KeyR |   R   |                   Shift+R |                   Shift+R |                    shift+r |         |
+|                  Ctrl+Alt+KeyR |  ---  |                Ctrl+Alt+R |                Ctrl+Alt+R |                 ctrl+alt+r |         |
+|            Ctrl+Shift+Alt+KeyR |  ---  |          Ctrl+Shift+Alt+R |          Ctrl+Shift+Alt+R |           ctrl+shift+alt+r |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyS |   s   |                         S |                         S |                          s |         |
+|                     Shift+KeyS |   S   |                   Shift+S |                   Shift+S |                    shift+s |         |
+|                  Ctrl+Alt+KeyS |  ---  |                Ctrl+Alt+S |                Ctrl+Alt+S |                 ctrl+alt+s |         |
+|            Ctrl+Shift+Alt+KeyS |  ---  |          Ctrl+Shift+Alt+S |          Ctrl+Shift+Alt+S |           ctrl+shift+alt+s |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyT |   t   |                         T |                         T |                          t |         |
+|                     Shift+KeyT |   T   |                   Shift+T |                   Shift+T |                    shift+t |         |
+|                  Ctrl+Alt+KeyT |  ---  |                Ctrl+Alt+T |                Ctrl+Alt+T |                 ctrl+alt+t |         |
+|            Ctrl+Shift+Alt+KeyT |  ---  |          Ctrl+Shift+Alt+T |          Ctrl+Shift+Alt+T |           ctrl+shift+alt+t |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyU |   u   |                         U |                         U |                          u |         |
+|                     Shift+KeyU |   U   |                   Shift+U |                   Shift+U |                    shift+u |         |
+|                  Ctrl+Alt+KeyU |  ---  |                Ctrl+Alt+U |                Ctrl+Alt+U |                 ctrl+alt+u |         |
+|            Ctrl+Shift+Alt+KeyU |  ---  |          Ctrl+Shift+Alt+U |          Ctrl+Shift+Alt+U |           ctrl+shift+alt+u |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyV |   v   |                         V |                         V |                          v |         |
+|                     Shift+KeyV |   V   |                   Shift+V |                   Shift+V |                    shift+v |         |
+|                  Ctrl+Alt+KeyV |  ---  |                Ctrl+Alt+V |                Ctrl+Alt+V |                 ctrl+alt+v |         |
+|            Ctrl+Shift+Alt+KeyV |  ---  |          Ctrl+Shift+Alt+V |          Ctrl+Shift+Alt+V |           ctrl+shift+alt+v |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyW |   w   |                         W |                         W |                          w |         |
+|                     Shift+KeyW |   W   |                   Shift+W |                   Shift+W |                    shift+w |         |
+|                  Ctrl+Alt+KeyW |  ---  |                Ctrl+Alt+W |                Ctrl+Alt+W |                 ctrl+alt+w |         |
+|            Ctrl+Shift+Alt+KeyW |  ---  |          Ctrl+Shift+Alt+W |          Ctrl+Shift+Alt+W |           ctrl+shift+alt+w |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyX |   x   |                         X |                         X |                          x |         |
+|                     Shift+KeyX |   X   |                   Shift+X |                   Shift+X |                    shift+x |         |
+|                  Ctrl+Alt+KeyX |  ---  |                Ctrl+Alt+X |                Ctrl+Alt+X |                 ctrl+alt+x |         |
+|            Ctrl+Shift+Alt+KeyX |  ---  |          Ctrl+Shift+Alt+X |          Ctrl+Shift+Alt+X |           ctrl+shift+alt+x |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyY |   y   |                         Y |                         Y |                          y |         |
+|                     Shift+KeyY |   Y   |                   Shift+Y |                   Shift+Y |                    shift+y |         |
+|                  Ctrl+Alt+KeyY |  ---  |                Ctrl+Alt+Y |                Ctrl+Alt+Y |                 ctrl+alt+y |         |
+|            Ctrl+Shift+Alt+KeyY |  ---  |          Ctrl+Shift+Alt+Y |          Ctrl+Shift+Alt+Y |           ctrl+shift+alt+y |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                           KeyZ |   z   |                         Z |                         Z |                          z |         |
+|                     Shift+KeyZ |   Z   |                   Shift+Z |                   Shift+Z |                    shift+z |         |
+|                  Ctrl+Alt+KeyZ |  ---  |                Ctrl+Alt+Z |                Ctrl+Alt+Z |                 ctrl+alt+z |         |
+|            Ctrl+Shift+Alt+KeyZ |  ---  |          Ctrl+Shift+Alt+Z |          Ctrl+Shift+Alt+Z |           ctrl+shift+alt+z |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit1 |   1   |                         1 |                         1 |                          1 |         |
+|                   Shift+Digit1 |   !   |                   Shift+1 |                   Shift+1 |                    shift+1 |         |
+|                Ctrl+Alt+Digit1 |  ---  |                Ctrl+Alt+1 |                Ctrl+Alt+1 |                 ctrl+alt+1 |         |
+|          Ctrl+Shift+Alt+Digit1 |  ---  |          Ctrl+Shift+Alt+1 |          Ctrl+Shift+Alt+1 |           ctrl+shift+alt+1 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit2 |   2   |                         2 |                         2 |                          2 |         |
+|                   Shift+Digit2 |   @   |                   Shift+2 |                   Shift+2 |                    shift+2 |         |
+|                Ctrl+Alt+Digit2 |  ---  |                Ctrl+Alt+2 |                Ctrl+Alt+2 |                 ctrl+alt+2 |         |
+|          Ctrl+Shift+Alt+Digit2 |  ---  |          Ctrl+Shift+Alt+2 |          Ctrl+Shift+Alt+2 |           ctrl+shift+alt+2 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit3 |   3   |                         3 |                         3 |                          3 |         |
+|                   Shift+Digit3 |   #   |                   Shift+3 |                   Shift+3 |                    shift+3 |         |
+|                Ctrl+Alt+Digit3 |  ---  |                Ctrl+Alt+3 |                Ctrl+Alt+3 |                 ctrl+alt+3 |         |
+|          Ctrl+Shift+Alt+Digit3 |  ---  |          Ctrl+Shift+Alt+3 |          Ctrl+Shift+Alt+3 |           ctrl+shift+alt+3 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit4 |   4   |                         4 |                         4 |                          4 |         |
+|                   Shift+Digit4 |   $   |                   Shift+4 |                   Shift+4 |                    shift+4 |         |
+|                Ctrl+Alt+Digit4 |  ---  |                Ctrl+Alt+4 |                Ctrl+Alt+4 |                 ctrl+alt+4 |         |
+|          Ctrl+Shift+Alt+Digit4 |  ---  |          Ctrl+Shift+Alt+4 |          Ctrl+Shift+Alt+4 |           ctrl+shift+alt+4 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit5 |   5   |                         5 |                         5 |                          5 |         |
+|                   Shift+Digit5 |   %   |                   Shift+5 |                   Shift+5 |                    shift+5 |         |
+|                Ctrl+Alt+Digit5 |  ---  |                Ctrl+Alt+5 |                Ctrl+Alt+5 |                 ctrl+alt+5 |         |
+|          Ctrl+Shift+Alt+Digit5 |  ---  |          Ctrl+Shift+Alt+5 |          Ctrl+Shift+Alt+5 |           ctrl+shift+alt+5 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit6 |   6   |                         6 |                         6 |                          6 |         |
+|                   Shift+Digit6 |   ^   |                   Shift+6 |                   Shift+6 |                    shift+6 |         |
+|                Ctrl+Alt+Digit6 |  ---  |                Ctrl+Alt+6 |                Ctrl+Alt+6 |                 ctrl+alt+6 |         |
+|          Ctrl+Shift+Alt+Digit6 |  ---  |          Ctrl+Shift+Alt+6 |          Ctrl+Shift+Alt+6 |           ctrl+shift+alt+6 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit7 |   7   |                         7 |                         7 |                          7 |         |
+|                   Shift+Digit7 |   &   |                   Shift+7 |                   Shift+7 |                    shift+7 |         |
+|                Ctrl+Alt+Digit7 |  ---  |                Ctrl+Alt+7 |                Ctrl+Alt+7 |                 ctrl+alt+7 |         |
+|          Ctrl+Shift+Alt+Digit7 |  ---  |          Ctrl+Shift+Alt+7 |          Ctrl+Shift+Alt+7 |           ctrl+shift+alt+7 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit8 |   8   |                         8 |                         8 |                          8 |         |
+|                   Shift+Digit8 |   *   |                   Shift+8 |                   Shift+8 |                    shift+8 |         |
+|                Ctrl+Alt+Digit8 |  ---  |                Ctrl+Alt+8 |                Ctrl+Alt+8 |                 ctrl+alt+8 |         |
+|          Ctrl+Shift+Alt+Digit8 |  ---  |          Ctrl+Shift+Alt+8 |          Ctrl+Shift+Alt+8 |           ctrl+shift+alt+8 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit9 |   9   |                         9 |                         9 |                          9 |         |
+|                   Shift+Digit9 |   (   |                   Shift+9 |                   Shift+9 |                    shift+9 |         |
+|                Ctrl+Alt+Digit9 |  ---  |                Ctrl+Alt+9 |                Ctrl+Alt+9 |                 ctrl+alt+9 |         |
+|          Ctrl+Shift+Alt+Digit9 |  ---  |          Ctrl+Shift+Alt+9 |          Ctrl+Shift+Alt+9 |           ctrl+shift+alt+9 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Digit0 |   0   |                         0 |                         0 |                          0 |         |
+|                   Shift+Digit0 |   )   |                   Shift+0 |                   Shift+0 |                    shift+0 |         |
+|                Ctrl+Alt+Digit0 |  ---  |                Ctrl+Alt+0 |                Ctrl+Alt+0 |                 ctrl+alt+0 |         |
+|          Ctrl+Shift+Alt+Digit0 |  ---  |          Ctrl+Shift+Alt+0 |          Ctrl+Shift+Alt+0 |           ctrl+shift+alt+0 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                          Minus |   -   |                         - |                         - |                  oem_minus |    NO   |
+|                    Shift+Minus |   _   |                   Shift+- |                   Shift+- |            shift+oem_minus |    NO   |
+|                 Ctrl+Alt+Minus |  ---  |                Ctrl+Alt+- |                Ctrl+Alt+- |         ctrl+alt+oem_minus |    NO   |
+|           Ctrl+Shift+Alt+Minus |  ---  |          Ctrl+Shift+Alt+- |          Ctrl+Shift+Alt+- |   ctrl+shift+alt+oem_minus |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                          Equal |   =   |                         = |                         = |                   oem_plus |    NO   |
+|                    Shift+Equal |   +   |                   Shift+= |                   Shift+= |             shift+oem_plus |    NO   |
+|                 Ctrl+Alt+Equal |  ---  |                Ctrl+Alt+= |                Ctrl+Alt+= |          ctrl+alt+oem_plus |    NO   |
+|           Ctrl+Shift+Alt+Equal |  ---  |          Ctrl+Shift+Alt+= |          Ctrl+Shift+Alt+= |    ctrl+shift+alt+oem_plus |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                    BracketLeft |   [   |                         [ |                         [ |                      oem_4 |    NO   |
+|              Shift+BracketLeft |   {   |                   Shift+[ |                   Shift+[ |                shift+oem_4 |    NO   |
+|           Ctrl+Alt+BracketLeft |  ---  |                Ctrl+Alt+[ |                Ctrl+Alt+[ |             ctrl+alt+oem_4 |    NO   |
+|     Ctrl+Shift+Alt+BracketLeft |  ---  |          Ctrl+Shift+Alt+[ |          Ctrl+Shift+Alt+[ |       ctrl+shift+alt+oem_4 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                   BracketRight |   ]   |                         ] |                         ] |                      oem_6 |    NO   |
+|             Shift+BracketRight |   }   |                   Shift+] |                   Shift+] |                shift+oem_6 |    NO   |
+|          Ctrl+Alt+BracketRight |  ---  |                Ctrl+Alt+] |                Ctrl+Alt+] |             ctrl+alt+oem_6 |    NO   |
+|    Ctrl+Shift+Alt+BracketRight |  ---  |          Ctrl+Shift+Alt+] |          Ctrl+Shift+Alt+] |       ctrl+shift+alt+oem_6 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                      Backslash |   \   |                         \ |                         \ |                      oem_5 |    NO   |
+|                Shift+Backslash |   |   |                   Shift+\ |                   Shift+\ |                shift+oem_5 |    NO   |
+|             Ctrl+Alt+Backslash |  ---  |                Ctrl+Alt+\ |                Ctrl+Alt+\ |             ctrl+alt+oem_5 |    NO   |
+|       Ctrl+Shift+Alt+Backslash |  ---  |          Ctrl+Shift+Alt+\ |          Ctrl+Shift+Alt+\ |       ctrl+shift+alt+oem_5 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                       IntlHash |  ---  |                      null |                      null |                       null |    NO   |
+|                 Shift+IntlHash |  ---  |                      null |                      null |                       null |    NO   |
+|              Ctrl+Alt+IntlHash |  ---  |                      null |                      null |                       null |    NO   |
+|        Ctrl+Shift+Alt+IntlHash |  ---  |                      null |                      null |                       null |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                      Semicolon |   ;   |                         ; |                         ; |                      oem_1 |    NO   |
+|                Shift+Semicolon |   :   |                   Shift+; |                   Shift+; |                shift+oem_1 |    NO   |
+|             Ctrl+Alt+Semicolon |  ---  |                Ctrl+Alt+; |                Ctrl+Alt+; |             ctrl+alt+oem_1 |    NO   |
+|       Ctrl+Shift+Alt+Semicolon |  ---  |          Ctrl+Shift+Alt+; |          Ctrl+Shift+Alt+; |       ctrl+shift+alt+oem_1 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                          Quote |   '   |                         ' |                         ' |                      oem_7 |    NO   |
+|                    Shift+Quote |   "   |                   Shift+' |                   Shift+' |                shift+oem_7 |    NO   |
+|                 Ctrl+Alt+Quote |  ---  |                Ctrl+Alt+' |                Ctrl+Alt+' |             ctrl+alt+oem_7 |    NO   |
+|           Ctrl+Shift+Alt+Quote |  ---  |          Ctrl+Shift+Alt+' |          Ctrl+Shift+Alt+' |       ctrl+shift+alt+oem_7 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                      Backquote |   `   |                         ` |                         ` |                      oem_3 |    NO   |
+|                Shift+Backquote |   ~   |                   Shift+` |                   Shift+` |                shift+oem_3 |    NO   |
+|             Ctrl+Alt+Backquote |  ---  |                Ctrl+Alt+` |                Ctrl+Alt+` |             ctrl+alt+oem_3 |    NO   |
+|       Ctrl+Shift+Alt+Backquote |  ---  |          Ctrl+Shift+Alt+` |          Ctrl+Shift+Alt+` |       ctrl+shift+alt+oem_3 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                          Comma |   ,   |                         , |                         , |                  oem_comma |    NO   |
+|                    Shift+Comma |   <   |                   Shift+, |                   Shift+, |            shift+oem_comma |    NO   |
+|                 Ctrl+Alt+Comma |  ---  |                Ctrl+Alt+, |                Ctrl+Alt+, |         ctrl+alt+oem_comma |    NO   |
+|           Ctrl+Shift+Alt+Comma |  ---  |          Ctrl+Shift+Alt+, |          Ctrl+Shift+Alt+, |   ctrl+shift+alt+oem_comma |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         Period |   .   |                         . |                         . |                 oem_period |    NO   |
+|                   Shift+Period |   >   |                   Shift+. |                   Shift+. |           shift+oem_period |    NO   |
+|                Ctrl+Alt+Period |  ---  |                Ctrl+Alt+. |                Ctrl+Alt+. |        ctrl+alt+oem_period |    NO   |
+|          Ctrl+Shift+Alt+Period |  ---  |          Ctrl+Shift+Alt+. |          Ctrl+Shift+Alt+. |  ctrl+shift+alt+oem_period |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                          Slash |   /   |                         / |                         / |                      oem_2 |    NO   |
+|                    Shift+Slash |   ?   |                   Shift+/ |                   Shift+/ |                shift+oem_2 |    NO   |
+|                 Ctrl+Alt+Slash |  ---  |                Ctrl+Alt+/ |                Ctrl+Alt+/ |             ctrl+alt+oem_2 |    NO   |
+|           Ctrl+Shift+Alt+Slash |  ---  |          Ctrl+Shift+Alt+/ |          Ctrl+Shift+Alt+/ |       ctrl+shift+alt+oem_2 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|       HW Code combination      |  Key  |    KeyCode combination    |          UI label         |        User settings       | WYSIWYG |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                        ArrowUp |  ---  |                   UpArrow |                   UpArrow |                         up |         |
+|                  Shift+ArrowUp |  ---  |             Shift+UpArrow |             Shift+UpArrow |                   shift+up |         |
+|               Ctrl+Alt+ArrowUp |  ---  |          Ctrl+Alt+UpArrow |          Ctrl+Alt+UpArrow |                ctrl+alt+up |         |
+|         Ctrl+Shift+Alt+ArrowUp |  ---  |    Ctrl+Shift+Alt+UpArrow |    Ctrl+Shift+Alt+UpArrow |          ctrl+shift+alt+up |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                        Numpad0 |  ---  |                   NumPad0 |                   NumPad0 |                    numpad0 |         |
+|                  Shift+Numpad0 |  ---  |             Shift+NumPad0 |             Shift+NumPad0 |              shift+numpad0 |         |
+|               Ctrl+Alt+Numpad0 |  ---  |          Ctrl+Alt+NumPad0 |          Ctrl+Alt+NumPad0 |           ctrl+alt+numpad0 |         |
+|         Ctrl+Shift+Alt+Numpad0 |  ---  |    Ctrl+Shift+Alt+NumPad0 |    Ctrl+Shift+Alt+NumPad0 |     ctrl+shift+alt+numpad0 |         |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                  IntlBackslash |   \   |                   OEM_102 |                         \ |                    oem_102 |    NO   |
+|            Shift+IntlBackslash |   |   |             Shift+OEM_102 |                   Shift+\ |              shift+oem_102 |    NO   |
+|         Ctrl+Alt+IntlBackslash |  ---  |          Ctrl+Alt+OEM_102 |                Ctrl+Alt+\ |           ctrl+alt+oem_102 |    NO   |
+|   Ctrl+Shift+Alt+IntlBackslash |  ---  |    Ctrl+Shift+Alt+OEM_102 |          Ctrl+Shift+Alt+\ |     ctrl+shift+alt+oem_102 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                         IntlRo |  ---  |                   ABNT_C1 |                   unknown |                    abnt_c1 |    NO   |
+|                   Shift+IntlRo |  ---  |             Shift+ABNT_C1 |             Shift+unknown |              shift+abnt_c1 |    NO   |
+|                Ctrl+Alt+IntlRo |  ---  |          Ctrl+Alt+ABNT_C1 |          Ctrl+Alt+unknown |           ctrl+alt+abnt_c1 |    NO   |
+|          Ctrl+Shift+Alt+IntlRo |  ---  |    Ctrl+Shift+Alt+ABNT_C1 |    Ctrl+Shift+Alt+unknown |     ctrl+shift+alt+abnt_c1 |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+|                        IntlYen |  ---  |                      null |                      null |                       null |    NO   |
+|                  Shift+IntlYen |  ---  |                      null |                      null |                       null |    NO   |
+|               Ctrl+Alt+IntlYen |  ---  |                      null |                      null |                       null |    NO   |
+|         Ctrl+Shift+Alt+IntlYen |  ---  |                      null |                      null |                       null |    NO   |
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Raw mapping:
+{
+	"Sleep": {
+		"vkey": "VK_SLEEP",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"WakeUp": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyA": {
+		"vkey": "VK_A",
+		"value": "a",
+		"withShift": "A",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyB": {
+		"vkey": "VK_B",
+		"value": "b",
+		"withShift": "B",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyC": {
+		"vkey": "VK_C",
+		"value": "c",
+		"withShift": "C",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyD": {
+		"vkey": "VK_D",
+		"value": "d",
+		"withShift": "D",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyE": {
+		"vkey": "VK_E",
+		"value": "e",
+		"withShift": "E",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyF": {
+		"vkey": "VK_F",
+		"value": "f",
+		"withShift": "F",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyG": {
+		"vkey": "VK_G",
+		"value": "g",
+		"withShift": "G",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyH": {
+		"vkey": "VK_H",
+		"value": "h",
+		"withShift": "H",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyI": {
+		"vkey": "VK_I",
+		"value": "i",
+		"withShift": "I",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyJ": {
+		"vkey": "VK_J",
+		"value": "j",
+		"withShift": "J",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyK": {
+		"vkey": "VK_K",
+		"value": "k",
+		"withShift": "K",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyL": {
+		"vkey": "VK_L",
+		"value": "l",
+		"withShift": "L",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyM": {
+		"vkey": "VK_M",
+		"value": "m",
+		"withShift": "M",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyN": {
+		"vkey": "VK_N",
+		"value": "n",
+		"withShift": "N",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyO": {
+		"vkey": "VK_O",
+		"value": "o",
+		"withShift": "O",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyP": {
+		"vkey": "VK_P",
+		"value": "p",
+		"withShift": "P",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyQ": {
+		"vkey": "VK_Q",
+		"value": "q",
+		"withShift": "Q",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyR": {
+		"vkey": "VK_R",
+		"value": "r",
+		"withShift": "R",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyS": {
+		"vkey": "VK_S",
+		"value": "s",
+		"withShift": "S",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyT": {
+		"vkey": "VK_T",
+		"value": "t",
+		"withShift": "T",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyU": {
+		"vkey": "VK_U",
+		"value": "u",
+		"withShift": "U",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyV": {
+		"vkey": "VK_V",
+		"value": "v",
+		"withShift": "V",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyW": {
+		"vkey": "VK_W",
+		"value": "w",
+		"withShift": "W",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyX": {
+		"vkey": "VK_X",
+		"value": "x",
+		"withShift": "X",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyY": {
+		"vkey": "VK_Y",
+		"value": "y",
+		"withShift": "Y",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KeyZ": {
+		"vkey": "VK_Z",
+		"value": "z",
+		"withShift": "Z",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit1": {
+		"vkey": "VK_1",
+		"value": "1",
+		"withShift": "!",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit2": {
+		"vkey": "VK_2",
+		"value": "2",
+		"withShift": "@",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit3": {
+		"vkey": "VK_3",
+		"value": "3",
+		"withShift": "#",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit4": {
+		"vkey": "VK_4",
+		"value": "4",
+		"withShift": "$",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit5": {
+		"vkey": "VK_5",
+		"value": "5",
+		"withShift": "%",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit6": {
+		"vkey": "VK_6",
+		"value": "6",
+		"withShift": "^",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit7": {
+		"vkey": "VK_7",
+		"value": "7",
+		"withShift": "&",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit8": {
+		"vkey": "VK_8",
+		"value": "8",
+		"withShift": "*",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit9": {
+		"vkey": "VK_9",
+		"value": "9",
+		"withShift": "(",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Digit0": {
+		"vkey": "VK_0",
+		"value": "0",
+		"withShift": ")",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Enter": {
+		"vkey": "VK_RETURN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Escape": {
+		"vkey": "VK_ESCAPE",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Backspace": {
+		"vkey": "VK_BACK",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Tab": {
+		"vkey": "VK_TAB",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Space": {
+		"vkey": "VK_SPACE",
+		"value": " ",
+		"withShift": " ",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Minus": {
+		"vkey": "VK_OEM_MINUS",
+		"value": "-",
+		"withShift": "_",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Equal": {
+		"vkey": "VK_OEM_PLUS",
+		"value": "=",
+		"withShift": "+",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BracketLeft": {
+		"vkey": "VK_OEM_4",
+		"value": "[",
+		"withShift": "{",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BracketRight": {
+		"vkey": "VK_OEM_6",
+		"value": "]",
+		"withShift": "}",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Backslash": {
+		"vkey": "VK_OEM_5",
+		"value": "\\",
+		"withShift": "|",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Semicolon": {
+		"vkey": "VK_OEM_1",
+		"value": ";",
+		"withShift": ":",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Quote": {
+		"vkey": "VK_OEM_7",
+		"value": "'",
+		"withShift": "\"",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Backquote": {
+		"vkey": "VK_OEM_3",
+		"value": "`",
+		"withShift": "~",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Comma": {
+		"vkey": "VK_OEM_COMMA",
+		"value": ",",
+		"withShift": "<",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Period": {
+		"vkey": "VK_OEM_PERIOD",
+		"value": ".",
+		"withShift": ">",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Slash": {
+		"vkey": "VK_OEM_2",
+		"value": "/",
+		"withShift": "?",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"CapsLock": {
+		"vkey": "VK_CAPITAL",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F1": {
+		"vkey": "VK_F1",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F2": {
+		"vkey": "VK_F2",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F3": {
+		"vkey": "VK_F3",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F4": {
+		"vkey": "VK_F4",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F5": {
+		"vkey": "VK_F5",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F6": {
+		"vkey": "VK_F6",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F7": {
+		"vkey": "VK_F7",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F8": {
+		"vkey": "VK_F8",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F9": {
+		"vkey": "VK_F9",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F10": {
+		"vkey": "VK_F10",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F11": {
+		"vkey": "VK_F11",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F12": {
+		"vkey": "VK_F12",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"PrintScreen": {
+		"vkey": "VK_SNAPSHOT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ScrollLock": {
+		"vkey": "VK_SCROLL",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Pause": {
+		"vkey": "VK_NUMLOCK",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Insert": {
+		"vkey": "VK_INSERT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Home": {
+		"vkey": "VK_HOME",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"PageUp": {
+		"vkey": "VK_PRIOR",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Delete": {
+		"vkey": "VK_DELETE",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"End": {
+		"vkey": "VK_END",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"PageDown": {
+		"vkey": "VK_NEXT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ArrowRight": {
+		"vkey": "VK_RIGHT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ArrowLeft": {
+		"vkey": "VK_LEFT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ArrowDown": {
+		"vkey": "VK_DOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ArrowUp": {
+		"vkey": "VK_UP",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumLock": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumpadDivide": {
+		"vkey": "VK_DIVIDE",
+		"value": "/",
+		"withShift": "/",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumpadMultiply": {
+		"vkey": "VK_MULTIPLY",
+		"value": "*",
+		"withShift": "*",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumpadSubtract": {
+		"vkey": "VK_SUBTRACT",
+		"value": "-",
+		"withShift": "-",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumpadAdd": {
+		"vkey": "VK_ADD",
+		"value": "+",
+		"withShift": "+",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumpadEnter": {
+		"vkey": "VK_RETURN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad1": {
+		"vkey": "VK_END",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad2": {
+		"vkey": "VK_DOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad3": {
+		"vkey": "VK_NEXT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad4": {
+		"vkey": "VK_LEFT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad5": {
+		"vkey": "VK_CLEAR",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad6": {
+		"vkey": "VK_RIGHT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad7": {
+		"vkey": "VK_HOME",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad8": {
+		"vkey": "VK_UP",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad9": {
+		"vkey": "VK_PRIOR",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Numpad0": {
+		"vkey": "VK_INSERT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumpadDecimal": {
+		"vkey": "VK_DELETE",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"IntlBackslash": {
+		"vkey": "VK_OEM_102",
+		"value": "\\",
+		"withShift": "|",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ContextMenu": {
+		"vkey": "VK_APPS",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Power": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumpadEqual": {
+		"vkey": "VK_CLEAR",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F13": {
+		"vkey": "VK_F13",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F14": {
+		"vkey": "VK_F14",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F15": {
+		"vkey": "VK_F15",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F16": {
+		"vkey": "VK_F16",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F17": {
+		"vkey": "VK_F17",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F18": {
+		"vkey": "VK_F18",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F19": {
+		"vkey": "VK_F19",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F20": {
+		"vkey": "VK_F20",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F21": {
+		"vkey": "VK_F21",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F22": {
+		"vkey": "VK_F22",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F23": {
+		"vkey": "VK_F23",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"F24": {
+		"vkey": "VK_F24",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Help": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Undo": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Cut": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Copy": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Paste": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"AudioVolumeMute": {
+		"vkey": "VK_VOLUME_MUTE",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"AudioVolumeUp": {
+		"vkey": "VK_VOLUME_UP",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"AudioVolumeDown": {
+		"vkey": "VK_VOLUME_DOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NumpadComma": {
+		"vkey": "VK_ABNT_C2",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"IntlRo": {
+		"vkey": "VK_ABNT_C1",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"KanaMode": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"IntlYen": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Convert": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"NonConvert": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Lang1": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Lang2": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Lang3": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Lang4": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ControlLeft": {
+		"vkey": "VK_CONTROL",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ShiftLeft": {
+		"vkey": "VK_SHIFT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"AltLeft": {
+		"vkey": "VK_MENU",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"MetaLeft": {
+		"vkey": "VK_LWIN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ControlRight": {
+		"vkey": "VK_CONTROL",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"ShiftRight": {
+		"vkey": "VK_SHIFT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"AltRight": {
+		"vkey": "VK_MENU",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"MetaRight": {
+		"vkey": "VK_RWIN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"MediaTrackNext": {
+		"vkey": "VK_MEDIA_NEXT_TRACK",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"MediaTrackPrevious": {
+		"vkey": "VK_MEDIA_PREV_TRACK",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"MediaStop": {
+		"vkey": "VK_MEDIA_STOP",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"Eject": {
+		"vkey": "VK_UNKNOWN",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"MediaPlayPause": {
+		"vkey": "VK_MEDIA_PLAY_PAUSE",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"MediaSelect": {
+		"vkey": "VK_LAUNCH_MEDIA_SELECT",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"LaunchMail": {
+		"vkey": "VK_LAUNCH_MAIL",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"LaunchApp2": {
+		"vkey": "VK_LAUNCH_APP2",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"LaunchApp1": {
+		"vkey": "VK_LAUNCH_APP1",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BrowserSearch": {
+		"vkey": "VK_BROWSER_SEARCH",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BrowserHome": {
+		"vkey": "VK_BROWSER_HOME",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BrowserBack": {
+		"vkey": "VK_BROWSER_BACK",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BrowserForward": {
+		"vkey": "VK_BROWSER_FORWARD",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BrowserStop": {
+		"vkey": "VK_BROWSER_STOP",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BrowserRefresh": {
+		"vkey": "VK_BROWSER_REFRESH",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	},
+	"BrowserFavorites": {
+		"vkey": "VK_BROWSER_FAVORITES",
+		"value": "",
+		"withShift": "",
+		"withAltGr": "",
+		"withShiftAltGr": ""
+	}
+}
