@@ -1,7 +1,7 @@
 # ultimate（终极） macOS
 
 
-forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *让 <kbd>CapsLock</kbd> 更 NB！* 
+forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *让 <kbd>CapsLock</kbd> 更 NB！*
 
 [![openIssues](https://img.shields.io/github/issues-raw/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/issues/new) [![pullRequests](https://img.shields.io/github/issues-pr/suliveevil/Capslock.svg)](https://github.com/suliveevil/Capslock/compare)   [![star this repo](http://githubbadges.com/star.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock) [![fork this repo](http://githubbadges.com/fork.svg?user=suliveevil&repo=capslock&style=flat)](https://github.com/suliveevil/capslock/fork)[![Downloads](https://img.shields.io/github/downloads/suliveevil/Capslock/total.svg)]() [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
@@ -10,12 +10,12 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *让 <kbd>Cap
 
 ## 为什么用 CapsLock 键
 
-### 让 Capslock 成为一个 *Hyper* 键, 极大提高效率!
+### 让 Capslock 成为一个 *Hyper* 键，极大提高效率！
 
-* 功能强大: 把 <kbd>Capslock</kbd> 变成一个新的修饰键: **<kbd>Hyper(✱)</kbd>**.。
-* 精心设计: 在键盘热区高频率使用的按键. 带来很多有用的功能。
-* 兼容性: 和其他修饰键、应用、设备一起为你提高效率。
-* 轻量级:  仅一个小脚本, 随处使用 !
+* 功能强大：把 <kbd>Capslock</kbd> 变成一个新的修饰键：**<kbd>Hyper(✱)</kbd>**.。
+* 精心设计：在键盘热区高频率使用的按键。带来很多有用的功能。
+* 兼容性：和其他修饰键、应用、设备一起为你提高效率。
+* 轻量级：仅一个小脚本，随处使用 !
 * [设计文档](design.md)
 
 
@@ -37,7 +37,7 @@ forked from [Vonng/Capslock](https://github.com/Vonng/Capslock/) : *让 <kbd>Cap
 
 1. 下载 [Karabiner-Elements](https://pqrs.org/osx/karabiner/) 并安装
 
-2. 拷贝下面的链接到浏览器 (**在 Safari 中打开**)来导入配置文件。
+2. 拷贝下面的链接到浏览器 (**在 Safari 中打开**) 来导入配置文件。
 
 ```bash
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
@@ -53,34 +53,34 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 
 4. 默认配置文件的路径是  `$HOME/.config/karabiner/assets/complex_modifications`。你可以自行修改。
 
-5. 开启 **CapsLock** 功能: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
+5. 开启 **CapsLock** 功能：`[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
 
 ## 符号说明
 
 <details>
-<summary>修饰键:  macOS</summary>
+<summary>修饰键： macOS</summary>
 
-| Sym  | Key     |
-| :----: | ------- |
-| <kbd>✱</kbd>    | Hyper   |
-| <kbd>⌃</kbd>    | Control |
-| <kbd>⌥</kbd>    | Option  |
-| <kbd>⇧</kbd>    | Shift   |
-| <kbd>⌘</kbd>    | Command |
+| Sym          | Key     |
+|:------------:|---------|
+| <kbd>✱</kbd> | Hyper   |
+| <kbd>⌃</kbd> | Control |
+| <kbd>⌥</kbd> | Option  |
+| <kbd>⇧</kbd> | Shift   |
+| <kbd>⌘</kbd> | Command |
 
 </details>
 
 
 <details>
-<summary>修饰键: ⊞ Windows</summary>
+<summary>修饰键：⊞ Windows</summary>
 
-| Sym  | Key     |
-| :----: | ------- |
-| <kbd>✱</kbd>    | Hyper   |
-| <kbd>⌃</kbd>    | Control |
-| <kbd>⊞</kbd>    | Windows |
-| <kbd>⇧</kbd>    | Shift   |
-| <kbd>⎇</kbd>    | Alter   |
+| Sym          | Key     |
+|:------------:|---------|
+| <kbd>✱</kbd> | Hyper   |
+| <kbd>⌃</kbd> | Control |
+| <kbd>⊞</kbd> | Windows |
+| <kbd>⇧</kbd> | Shift   |
+| <kbd>⎇</kbd> | Alter   |
 
 </details>
 
@@ -88,38 +88,38 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <details>
 <summary>常用键</summary>
 
-| GLYPH   | NAME                                   |
-| :-------: | -------------------------------------- |
-| <kbd></kbd>       | Apple                                  |
-| <kbd>⌘</kbd>       | Command, Cmd, Clover, (formerly) Apple |
-| <kbd>⌃</kbd>       | Control, Ctl, Ctrl                     |
-| <kbd>⌥</kbd>       | Option, Opt, (Windows) Alt             |
-| <kbd>⎇</kbd>       | Alt                                   |
-| <kbd>⇧</kbd>       | Shift                                  |
-| <kbd>⇪</kbd>       | 大写锁定键(Caps Lock)                    |
-| <kbd>⏏</kbd>       | Eject                                  |
-| <kbd>↩</kbd>, <kbd>↵</kbd>, <kbd>⏎</kbd> | 返回键, 回车键(Return, Carriage Return) |
-| <kbd>⌤</kbd>       | Enter                                  |
-| <kbd>⌫</kbd>       | Delete, Backspace                      |
-| <kbd>⌦</kbd>       | Forward Delete                         |
-| <kbd>⎋</kbd>       | 退出(Escape, Esc)                       |
-| <kbd>→</kbd>       | 右箭头                                  |
-| <kbd>←</kbd>       | Left arrow                             |
-| <kbd>↑</kbd>       | Up arrow                               |
-| <kbd>↓</kbd>       | Down arrow                             |
-| <kbd>⇞</kbd>       | Page Up, PgUp                          |
-| <kbd>⇟</kbd>       | Page Down, PgDn                        |
-| <kbd>↖</kbd>       | Home                                   |
-| <kbd>↘</kbd>       | End                                    |
-| <kbd>⌧</kbd>       | Clear                                  |
-| <kbd>⇥</kbd>       | Tab, Tab Right, Horizontal Tab         |
-| <kbd>⇤</kbd>       | Shift Tab, Tab Left, Back-tab          |
-| <kbd>␢</kbd>       | 空格键(Space, Blank)                    |
-| <kbd>␣</kbd>       | 空格键(Space, Blank)                    |
-| <kbd>❘⃝</kbd>      | 电源键                                  |
-| <kbd>⇭</kbd>       | Num lock                               |
-| <kbd>?⃝</kbd>      | Help                                   |
-| <kbd></kbd>      | Context menu                           |
+| GLYPH                                    | NAME                                     |
+|:----------------------------------------:|------------------------------------------|
+| <kbd></kbd>                             | Apple                                    |
+| <kbd>⌘</kbd>                             | Command, Cmd, Clover, (formerly) Apple   |
+| <kbd>⌃</kbd>                             | Control, Ctl, Ctrl                       |
+| <kbd>⌥</kbd>                             | Option, Opt, (Windows) Alt               |
+| <kbd>⎇</kbd>                             | Alt                                      |
+| <kbd>⇧</kbd>                             | Shift                                    |
+| <kbd>⇪</kbd>                             | 大写锁定键 (Caps Lock)                   |
+| <kbd>⏏</kbd>                             | Eject                                    |
+| <kbd>↩</kbd>, <kbd>↵</kbd>, <kbd>⏎</kbd> | 返回键，回车键 (Return, Carriage Return) |
+| <kbd>⌤</kbd>                             | Enter                                    |
+| <kbd>⌫</kbd>                             | Delete, Backspace                        |
+| <kbd>⌦</kbd>                             | Forward Delete                           |
+| <kbd>⎋</kbd>                             | 退出 (Escape, Esc)                       |
+| <kbd>→</kbd>                             | 右箭头                                   |
+| <kbd>←</kbd>                             | Left arrow                               |
+| <kbd>↑</kbd>                             | Up arrow                                 |
+| <kbd>↓</kbd>                             | Down arrow                               |
+| <kbd>⇞</kbd>                             | Page Up, PgUp                            |
+| <kbd>⇟</kbd>                             | Page Down, PgDn                          |
+| <kbd>↖</kbd>                             | Home                                     |
+| <kbd>↘</kbd>                             | End                                      |
+| <kbd>⌧</kbd>                             | Clear                                    |
+| <kbd>⇥</kbd>                             | Tab, Tab Right, Horizontal Tab           |
+| <kbd>⇤</kbd>                             | Shift Tab, Tab Left, Back-tab            |
+| <kbd>␢</kbd>                             | 空格键 (Space, Blank)                    |
+| <kbd>␣</kbd>                             | 空格键 (Space, Blank)                    |
+| <kbd>❘⃝</kbd>                             | 电源键                                   |
+| <kbd>⇭</kbd>                             | Num lock                                 |
+| <kbd>?⃝</kbd>                             | Help                                     |
+| <kbd></kbd>                             | Context menu                             |
 
 </details>
 
@@ -134,9 +134,9 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 
 ### 基础用法
 
-<kbd>✱</kbd> Hyper 键实际上映射为 <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> (右边所有的修饰键) , 它和左边的修饰键能够一起工作，并且兼容大多数应用程序。 
+<kbd>✱</kbd> Hyper 键实际上映射为 <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> （右边所有的修饰键） , 它和左边的修饰键能够一起工作，并且兼容大多数应用程序。
 
-按住(Hold) <kbd>CapsLock</kbd> 并按下(Press)其他键来触发 <kbd>Hyper</kbd> 功能，而单独按下 <kbd>CapsLock</kbd> 作为 <kbd>Escape</kbd> 键。
+按住 (Hold) <kbd>CapsLock</kbd> 并按下 (Press) 其他键来触发 <kbd>Hyper</kbd> 功能，而单独按下 <kbd>CapsLock</kbd> 作为 <kbd>Escape</kbd> 键。
 
 | 键盘上的键 | Maps to    | 备注                       |
 | :------: | ---------- | -------------------------- |
@@ -149,10 +149,10 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <summary>details</summary>
 
 - 按住  <kbd>✱</kbd> Hyper 开始浏览
-- 再按住一个<kbd>⌘</kbd> 来 **选择** . ( 就像按住 <kbd>⇧</kbd> 来进行大写字母输入那样)
+- 再按住一个<kbd>⌘</kbd> 来 **选择** . ( 就像按住 <kbd>⇧</kbd> 来进行大写字母输入那样）
 - 再按住一个<kbd>⌥</kbd>  和 <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 进行 **鼠标移动**
-- 再按住一个<kbd>⇧</kbd>  和 <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 进行 **标签页/app切换**
-- 再按住一个<kbd>⌃</kbd>  和 <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 进行 **桌面管理** . (就像按下 <kbd>⌃</kbd> 和 <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> 一样)
+- 再按住一个<kbd>⇧</kbd>  和 <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 进行 **标签页 /app 切换**
+- 再按住一个<kbd>⌃</kbd>  和 <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> 进行 **桌面管理** . （就像按下 <kbd>⌃</kbd> 和 <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> 一样）
 
 | Origin | Maps to        | Comment                  |
 | ------: | -------------- | ------------------------ |
@@ -214,7 +214,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 </details>
 
 
-### 删除 
+### 删除
 
 <details>
 <summary>details</summary>
@@ -259,7 +259,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 <details>
 <summary>details</summary>
 
-- 常用 bash 工具: EOF, SIGINT, SIGTSTP, VIM/Tmux Prefix
+- 常用 bash 工具：EOF, SIGINT, SIGTSTP, VIM/Tmux Prefix
 
 | Origin | Maps to     | Comment                                      |
 | -----: | ----------- | -------------------------------------------- |
@@ -287,9 +287,9 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>E</kbd>              | 打开访达 | 打开文件浏览器  |
 | <kbd>⌘</kbd> <kbd>E</kbd> | 打开 Safari | 打开网页浏览器  |
 | <kbd>R</kbd>              | 打开 iTerm2  | macOS 上一个很棒的终端 app (`Run`) |
-| <kbd>⌘</kbd> <kbd>R</kbd> | 打开PyCharm | PyCharm |
-| <kbd>T</kbd>              | 打开 Visual Studio Code | 文本编辑器: Visual Studio Code                 |
-| <kbd>⌘</kbd> <kbd>T</kbd> | 打开 Typora  | 文本编辑器: Typora , 一个所见即所得的 markdown 编辑器 |
+| <kbd>⌘</kbd> <kbd>R</kbd> | 打开 PyCharm | PyCharm |
+| <kbd>T</kbd>              | 打开 Visual Studio Code | 文本编辑器：Visual Studio Code                 |
+| <kbd>⌘</kbd> <kbd>T</kbd> | 打开 Typora  | 文本编辑器：Typora , 一个所见即所得的 markdown 编辑器 |
 | <kbd>Y</kbd>              | 打开 Siri |                 |
 | <kbd>⌘</kbd> <kbd>D</kbd> | 打开词典        | 查询单词 |
 | <kbd>F</kbd>              | 打开 Alfred            |               |
@@ -393,21 +393,21 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 
 - Q： 为什么使用 <kbd>✱</kbd> 作为 hyper 键的符号？
 
-  A：因为星号的 ascii 码是 42, 是生命、宇宙、一切的答案!  并且它也可以被理解为一颗星星。 :star: <kbd>✱</kbd> (加粗的星号) 比 <kbd> * </kbd> (星号) 更好看. 如果 Github 能够正确显示的话，其实我更愿意使用 <kbd>☯</kbd>。
+  A：因为星号的 ascii 码是 42, 是生命、宇宙、一切的答案！并且它也可以被理解为一颗星星。 :star: <kbd>✱</kbd> （加粗的星号） 比 <kbd> * </kbd> （星号） 更好看。如果 Github 能够正确显示的话，其实我更愿意使用 <kbd>☯</kbd>。
 
 - Q：为什么没有 Linux 版本？
 
   A：因为我用 Mac, 在终端使用 Linux。
 
-- Q:  为什么 macOS 版 和 Windows 版有些键盘绑定不一样?
+- Q:  为什么 macOS 版 和 Windows 版有些键盘绑定不一样？
 
-  A:   我现在已经不用 Windows 了,  Windows 版已不再维护，欢迎你来完善它。
+  A:   我现在已经不用 Windows 了，Windows 版已不再维护，欢迎你来完善它。
 
-- Q:  为什么这儿还有一个旧的 Mac 版本?
+- Q:  为什么这儿还有一个旧的 Mac 版本？
 
-  A:  Apple 真的是很反复(ren)无常(xing)。 macOS Sierra 改变了内核架构, 所以老版本的 Karabiner 不兼容 10.12 以后的 macOS。 但现在有了新版本的 karabiner 并被取名为 Karabiner-Elements。 Karabiner-Elements 使用 JSON 格式配置文件而不是原来的 XML 格式。 请使用新版本。
+  A:  Apple 真的是很反复 (ren) 无常 (xing)。 macOS Sierra 改变了内核架构，所以老版本的 Karabiner 不兼容 10.12 以后的 macOS。 但现在有了新版本的 karabiner 并被取名为 Karabiner-Elements。 Karabiner-Elements 使用 JSON 格式配置文件而不是原来的 XML 格式。 请使用新版本。
 
-  
+
 
 ## About
 
